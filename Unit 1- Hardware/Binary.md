@@ -78,15 +78,3 @@ Everything that computers process is done by sending power to transistors, chang
 	<summary>It is possible to tell if a binary number is even or odd very easily. How?</summary>
 		<p style="font-style: italic">If the rightmost digit is a one, the number is odd. If its a zero, its even.</p>
 </details>
-
-<hr>
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Your windows operating system has a little program that lets you explore all Unicode characters. Open the program and poke around those character.
-
-Top open the Character Map program...
-* Press the Windows Key
-* Search for "Character Map" and open
-* Select characters and copy them
-* Paste them anywhere!

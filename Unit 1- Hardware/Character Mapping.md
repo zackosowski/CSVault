@@ -54,5 +54,15 @@ The other common character mapping system used in computer science is Unicode. U
 		<p style="font-style: italic">STMA</p>
 </details>
 
+<hr>
 
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Your windows operating system has a little program that lets you explore all Unicode characters. Open the program and poke around those character.
+
+Top open the Character Map program...
+* Press the Windows Key
+* Search for "Character Map" and open
+* Select characters and copy them
+* Paste them anywhere!
 
