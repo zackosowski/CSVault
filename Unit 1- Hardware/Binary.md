@@ -83,18 +83,10 @@ Everything that computers process is done by sending power to transistors, chang
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Complete the table below by translating the decimal and binary numbers
+Your windows operating system has a little program that lets you explore all Unicode characters. Open the program and poke around those character.
 
-| Decimal | Binary   |
-| ------- | -------- |
-| 20      |          |
-| 68      |          |
-|         | 01000101 |
-| 121     |          |
-|         | 00110010 |
-|         | 01100100 |
-|         | 00001100 |
-|         | 00000001 |
-| 99      |          |
-| 215     |          |
-| 255     |          |
+Top open the Character Map program...
+* Press the Windows Key
+* Search for "Character Map" and open
+* Select characters and copy them
+* Paste them anywhere!
