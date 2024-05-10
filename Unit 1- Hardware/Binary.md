@@ -64,23 +64,24 @@ Everything that computers process is done by sending power to transistors, chang
 
 <details>
 	<summary>What is the largest number you can represent with a byte of binary?</summary>
-		<p>11111111 = 255</p>
+		<p style="font-style: italic">11111111 = 255</p>
 </details>
+
 
 <details>
 	<summary>How many bytes are needed to represent the decimal number 100,000 in binary?</summary>
-		<p>3</p>
-		<p>00000001 10000110 10100000</p>
+		<p style="font-style: italic">00000001 10000110 10100000 = 3 bytes</p>
 </details>
+
 
 <details>
 	<summary>It is possible to tell if a binary number is even or odd very easily. How?</summary>
-		<p>If the rightmost digit is a one, the number is odd. If its a zero, its even.</p>
+		<p style="font-style: italic">If the rightmost digit is a one, the number is odd. If its a zero, its even.</p>
 </details>
 
 <hr>
 
-**<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
 Complete the table below by translating the decimal and binary numbers
 
