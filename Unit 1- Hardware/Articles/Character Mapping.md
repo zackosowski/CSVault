@@ -1,6 +1,9 @@
-Character mapping involves the assignment of numerical codes or symbols to characters for storage and processing purposes. Your computer uses tables of numerical values to represent characters. A character mapping system that you have probably heard of before is Morse Code.
+Character mapping involves translating numerical codes or symbols into characters for storage and processing purposes. Your computer references tables of numerical values todo this translation. These tables are the "maps". There are various character mapping systems that are used for a variety of different situations. For example, A character mapping system that you have probably heard of before is Morse Code. Although Morse Code is still used by air and sea operators, it is not used in computer science.
 
-In computer science, the most common character mapping systems are ASCII and Unicode. Here is the complete ASCII character map:
+#### ASCII
+<hr>
+
+In computer science, the most common character mapping systems are ASCII and Unicode. Here is a portion of the ASCII character map:
 
 | Dec | Char | Dec | Char | Dec | Char |
 | --- | ---- | --- | ---- | --- | ---- |
@@ -37,9 +40,12 @@ In computer science, the most common character mapping systems are ASCII and Uni
 | 62  | >    | 94  | ^    | 126 | ~    |
 | 63  | ?    | 95  | _    |     |      |
 
-There are 128 ASCII characters that can be represented by numerical codes.
+There are 128 ASCII characters that can be represented by numerical codes. The table above shows the map for characters 32-126.
 
-The other common character mapping system used in computer science is Unicode. Unicode is a more robust system that includes symbols from all of the world's major writing systems. Version 15.1 of Unicode defines 149, 813 characters. For this reason, Unicode is usually only used in applications that need to accommodate multiple languages.
+#### Unicode
+<hr>
+
+The other common character mapping system used in computer science is Unicode. Unicode is a more robust system that includes symbols from all of the world's major writing systems, not just English. Version 15.1 of Unicode defines 149,813 different characters. For this reason, Unicode is usually only used in applications that need to accommodate multiple languages.
 
 <hr>
 
@@ -49,6 +55,7 @@ The other common character mapping system used in computer science is Unicode. U
 	<summary>What is ASCII character 116?</summary>
 		<p style="font-style: italic">t</p>
 </details>
+
 <details>
 	<summary>Translate this binary sequence to ASCII: 01010011 01010100 01001101 01000001</summary>
 		<p style="font-style: italic">STMA</p>
@@ -65,4 +72,9 @@ Top open the Character Map program...
 * Search for "Character Map" and open
 * Select characters and copy them
 * Paste them anywhere!
+
+<hr>
+
+tags: #binary #character
+
 

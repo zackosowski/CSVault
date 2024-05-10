@@ -5,6 +5,8 @@ Computer processors consist of a bunch of tiny switches called "transistors".
 * the binary number system allows us to give meaning to 1s and 0s
 * every computer uses these 1s and 0s to execute every task
 * every file on your computer is just a series of 1s and 0s
+#### Units of Memory
+<hr>
 
 A single 1 or 0 is the smallest unit of data in a computer- a "**bit**"
 * a group of eight bits is called a **byte**
@@ -51,6 +53,7 @@ Here is how we represent the the number 125 in a byte of binary:
 	* (128 x 0) + (64 x 1) + (32 x 1) + (16x 1) + (8 x 1)+ (4 x 1) + (2 x 0) + (1 x 1) =
 	* (0 + 64 + 32 + 16 + 8 + 4 + 0 + 1) = 125
 
+#### Notes
 <hr>
 
 Even though computers only use binary, they can count as high as we can, they just do it with a small vocabulary, 1 and 0.  For numbers that are too large to represent with one byte of data, simply add more bytes separated by a space.
@@ -78,3 +81,27 @@ Everything that computers process is done by sending power to transistors, chang
 	<summary>It is possible to tell if a binary number is even or odd very easily. How?</summary>
 		<p style="font-style: italic">If the rightmost digit is a one, the number is odd. If its a zero, its even.</p>
 </details>
+
+<hr>
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Complete the table below by translating the decimal and binary numbers
+
+| Decimal | Binary   |
+| ------- | -------- |
+| 20      |          |
+| 68      |          |
+|         | 01000101 |
+| 121     |          |
+|         | 00110010 |
+|         | 01100100 |
+|         | 00001100 |
+|         | 00000001 |
+| 99      |          |
+| 215     |          |
+| 255     |          |
+
+<hr>
+
+tags: #binary #memory #cpu
