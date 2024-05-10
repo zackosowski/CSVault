@@ -36,6 +36,7 @@ In computer science, the most common character mapping systems are ASCII and Uni
 | 61  | =    | 93  | ]    | 125 | }    |
 | 62  | >    | 94  | ^    | 126 | ~    |
 | 63  | ?    | 95  | _    |     |      |
+
 There are 128 ASCII characters that can be represented by numerical codes.
 
 The other common character mapping system used in computer science is Unicode. Unicode is a more robust system that includes symbols from all of the world's major writing systems. Version 15.1 of Unicode defines 149, 813 characters. For this reason, Unicode is usually only used in applications that need to accommodate multiple languages.
