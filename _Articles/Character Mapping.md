@@ -73,8 +73,11 @@ Top open the Character Map program...
 * Select characters and copy them
 * Paste them anywhere!
 
+#### Related Articles
 <hr>
 
-tags: #binary #character #unit-1 
+[[Binary]]
+[[Character]]
+
 
 

@@ -8,11 +8,11 @@ Not all data is made equal. In fact, data comes in many forms and types, and tho
 For example, if I asked you how old you are, I would expect to receive a number back. But if you responded to the question with something like "Fortnite", I would be terribly confused. This is because there is a mismatch between the type of data I expected to receive and the type of data you gave me. I wanted a number but you gave me a random word....
 
 Here are some common data types (there are many more)
-* integers (whole numbers, can be positive or negative, or zero)
-* float (floating point number aka decimal number)
-* char (a single character)
-* string (a group or "string" of characters)
-* boolean (a special type of data that can only be True or False)
+* [[Integer]] (whole numbers, can be positive or negative, or zero)
+* [[Float]] (floating point number aka decimal number)
+* [[Character]] (a single character)
+* [[String]] (a group or "string" of characters)
+* [[Boolean]] (a special type of data that can only be True or False)
 
 
 <hr>
@@ -30,6 +30,14 @@ Here are some common data types (there are many more)
 
 Activity instructions
 
+
+#### Related Articles
 <hr>
 
-tags: #data #unit-1 #cpu #integer #character #float #string #boolean
+[[Data]]
+[[CPU  (Central Processing Unit)]]
+[[Integer]]
+[[Character]]
+[[Float]]
+[[String]]
+[[Boolean]]

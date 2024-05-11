@@ -1,4 +1,6 @@
-Random Access Memory are physical components of a computer that are responsible for temporary storage of data. Things like web page data (text, images, video), active programs, and background process data are stored in RAM temporarily until they are not needed anymore. All data stored in RAM is lost when the computer is powered off.
+Random Access Memory are physical components of a computer that are responsible for temporary storage of [[Data|data]]. Things like web page data (text, images, video), active programs, and background process data are stored in RAM temporarily until they are not needed anymore. All data stored in RAM is lost when the computer is powered off.
+
+![[ram1.png]]
 
 RAM is purchased in "sticks" with each stick referred to as one "channel"
 * 1 stick = single channel
@@ -37,4 +39,8 @@ How much RAM does your computer have? Press the windows key on your keyboard and
 
 <hr>
 
-tags: #ram #hardware #unit-1 #memory 
+[[RAM (Random Access Memory)]]
+[[Computer Hardware]]
+[[Memory]]
+[[Data]]
+

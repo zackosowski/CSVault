@@ -1,4 +1,4 @@
-Computer processors consist of a bunch of tiny switches called "transistors".
+Computer processors consist of a bunch of tiny switches called "[[Transistors|transistors]]".
 * these transistors can either be ON or OFF, just like a light switch
 * on and off positions are referred to as 1 and 0
 * electrical signals flip the switches to 1 and 0
@@ -102,6 +102,12 @@ Complete the table below by translating the decimal and binary numbers
 | 215     |          |
 | 255     |          |
 
+#### Related Articles
 <hr>
 
-tags: #binary #memory #cpu #unit-1 #data
+[[Memory]]
+[[CPU  (Central Processing Unit)]]
+[[How Computers Work]]
+[[Data]]
+[[Character Mapping]]
+[[Transistors]]
