@@ -19,28 +19,14 @@ Each part of the computer serves a specific function, and together they allow fo
 
 Computers require electricity to function, so they must have a power supply— desktop computers plug into an electrical outlet, and laptop computers can use a battery. When the power button on a computer is pressed, the power supply begins providing electricity to the computer, which begins the process of starting up the computer’s hardware.
 
-After the computer’s hardware has started up, the next step is getting the computer’s software ready, beginning with the operating system, which is the software that manages the execution of other programs on the machine (common operating systems include Windows, macOS, and Linux). The operating system, as well as other software and computer files, are stored on the computer’s hard drive, which is the computer’s primary form of storage. Each computer also has a [[CPU  (Central Processing Unit)]], often referred to as the “processor,” which is responsible for running the computer’s software and executing computations.
-
-<hr>
-
-**<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">QUESTIONS</span>**
-
-<details>
-	<summary>Question</summary>
-		<p style="font-style: italic">Answer</p>
-</details>
-
-<hr>
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Activity instructions
+After the computer’s hardware has started up, the next step is getting the computer’s software ready, beginning with the [[Operating System|operating system]], which is the software that manages the execution of other programs on the machine (common operating systems include Windows, macOS, and Linux). The operating system, as well as other software and computer files, are stored on the computer’s hard drive, which is the computer’s primary form of storage. Each computer also has a [[CPU  (Central Processing Unit)]], often referred to as the “processor,” which is responsible for running the computer’s software and executing computations.
 
 #### Related Articles
 <hr>
 
 [[CPU  (Central Processing Unit)]]
 [[Motherboard]]
+[[Operating System]]
 
 #### Appears In
 <hr>

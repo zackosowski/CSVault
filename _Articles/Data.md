@@ -14,23 +14,6 @@ Here are some common data types (there are many more)
 * [[String]] (a group or "string" of characters)
 * [[Boolean]] (a special type of data that can only be True or False)
 
-
-<hr>
-
-**<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">QUESTIONS</span>**
-
-<details>
-	<summary>Question</summary>
-		<p style="font-style: italic">Answer</p>
-</details>
-
-<hr>
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Activity instructions
-
-
 #### Related Articles
 <hr>
 

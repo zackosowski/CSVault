@@ -3,4 +3,4 @@
 
 #### Lessons
 <hr>
-[[Lesson 1.1 - Computer Science]]
+[[Lesson 1.1 - Binary]]

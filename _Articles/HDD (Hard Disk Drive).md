@@ -30,21 +30,6 @@ The major issue with hard drives is that the contain moving parts (the spinning 
 
 You can imagine before SSDs, hard drives were a major headache in laptops, which are always moving around!
 
-<hr>
-
-**<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">QUESTIONS</span>**
-
-<details>
-	<summary>Question</summary>
-		<p style="font-style: italic">Answer</p>
-</details>
-
-<hr>
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Activity instructions
-
 #### Related Articles
 <hr>
 
