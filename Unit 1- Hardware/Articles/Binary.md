@@ -104,4 +104,4 @@ Complete the table below by translating the decimal and binary numbers
 
 <hr>
 
-tags: #binary #memory #cpu
+tags: #binary #memory #cpu #unit-1 #data

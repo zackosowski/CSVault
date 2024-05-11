@@ -45,7 +45,7 @@ There are 128 ASCII characters that can be represented by numerical codes. The t
 #### Unicode
 <hr>
 
-The other common character mapping system used in computer science is Unicode. Unicode is a more robust system that includes symbols from all of the world's major writing systems, not just English. Version 15.1 of Unicode defines 149,813 different characters. For this reason, Unicode is usually only used in applications that need to accommodate multiple languages.
+The other common character mapping system used in computer science is Unicode. Unicode is a more robust system that includes symbols from all of the world's major writing systems, not just English. Version 15.1 of Unicode defines 149,813 different characters. For this reason, Unicode is usually only used in applications that need to accommodate multiple languages and even emoji!😲
 
 <hr>
 
@@ -75,6 +75,6 @@ Top open the Character Map program...
 
 <hr>
 
-tags: #binary #character
+tags: #binary #character #unit-1 
 
 
