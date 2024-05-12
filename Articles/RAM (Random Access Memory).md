@@ -31,12 +31,19 @@ The most important aspect of RAM is its storage capacity. Most modern computers 
 		<p style="font-style: italic">Close your tabs, fool....</p>
 </details>
 
+<details>
+	<summary>Situation: Your friend shows you a website that is offering cheap, downloadable ram in 4gb increments. Should you trust this website? Why or why not?</summary>
+		<p style="font-style: italic">You should not trust this website because RAM cannot be downloaded, its a physical device.</p>
+</details>
+
 <hr>
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
 How much RAM does your computer have? Press the windows key on your keyboard and search for "About your PC". This will bring up a panel that tells you basic hardware information about your computer including RAM storage size and type.
 
+
+#### **Related Articles**
 <hr>
 
 [[RAM (Random Access Memory)]]

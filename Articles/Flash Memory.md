@@ -2,15 +2,13 @@ Flash memory is a type of [[Permanent Storage Device|permanent computer storage 
 
 Here are some key characteristics of flash memory:
 
-* **Non-Volatile:** Flash memory retains [[data]] even when the power is turned off, making it suitable for storing data that needs to be preserved between power cycles.
-
-* **Electrically Erasable:** Flash memory can be erased and reprogrammed electronically, without the need for moving parts or mechanical operations. This allows for fast and efficient data storage and retrieval.
+* **Non-Volatile:** Flash memory retains [[Data]] even when the power is turned off, making it suitable for storing data that needs to be preserved between power cycles.
 
 * **Solid-State:** Flash memory has no moving parts, unlike traditional [[HDD (Hard Disk Drive)|hard disk drives (HDDs)]], which use spinning magnetic disks. This makes flash memory more durable and resistant to shock and vibration.
 
-* **High-Speed Access:** Flash memory offers fast read and write speeds, making it well-suited for applications that require rapid data access, such as [[operating system]] booting, file loading, and data transfer.
+* **High-Speed Access:** Flash memory offers fast read and write speeds, making it well-suited for applications that require rapid data access, such as [[Operating System]] booting, file loading, and data transfer.
 
-Flash memory works by storing data in memory cells made of floating-gate [[transistors]]. These transistors can be electrically charged to store [[binary]] data (0s and 1s), and the state of each memory cell determines whether it stores a 0 or a 1.
+Flash memory works by storing data in memory cells made of floating-gate [[Transistors]]. These transistors can be electrically charged to store [[Binary]] data (0s and 1s), and the state of each memory cell determines whether it stores a 0 or a 1.
 
 #### Uses
 <hr>

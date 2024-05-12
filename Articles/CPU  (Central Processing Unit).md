@@ -22,11 +22,15 @@ A SoC is exactly what it sounds like: it is an entire system on a single chip. I
 
 Here are some examples of Systems on a Chip:
 - Popular in phones, tables, and game consoles
+	- Apple M1
 - Raspberry Pi
 - Arduino devices
 
 ![[raspberrypi1.png]]
 *Raspberry Pi*
+
+![[soc1.png]]
+*System on a Chip*
 #### Notes
 <hr>
   * The first general purpose, commercially available, programmable CPU was developed by Intel in 1971
@@ -38,7 +42,7 @@ Here are some examples of Systems on a Chip:
 **<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">QUESTIONS</span>**
 
 <details>
-	<summary>Critical Thinking! Does every computer need a CPU?</summary>
+	<summary>Critical Thinking! Does every computer need a CPU? Why or why not?</summary>
 		<p style="font-style: italic">Yes! If it doesn't have a CPU, its not a computer.</p>
 </details>
 
@@ -46,7 +50,7 @@ Here are some examples of Systems on a Chip:
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-CPUs have been getting smaller and more powerful every year for decades. In fact, this progression is so predictable that it has a name; Moore's Law. Research Moore's Law online to learn more about the progression of CPU computational power over time.
+CPUs have been getting smaller and more powerful every year for decades. In fact, this progression is so predictable that it has a name; Moore's Law. Read about [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) here to learn more about the progression of CPU computational power over time.
 
 <hr>
 

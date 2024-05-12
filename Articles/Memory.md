@@ -17,7 +17,7 @@ There are several smaller groups of memory that are faster at reading and writin
 <hr>
 In general, the tradeoff for memory is one of space versus speed. The types of memory that are faster also tend to have less available. Faster memory also tends to be more expensive per unit of storage space. For instance, the price of RAM per gigabyte is greater than the price of a hard drive per gigabyte.
 
-RAM is used by the [[operating system]] in order to run applications concurrently. If too much RAM is being used, some modern operating systems will employ “virtual memory,” whereby they transfer some information from RAM to the hard drive temporarily, and retrieve it when it’s needed by the user.
+RAM is used by the [[Operating System]] in order to run applications concurrently. If too much RAM is being used, some modern operating systems will employ “virtual memory,” whereby they transfer some information from RAM to the hard drive temporarily, and retrieve it when it’s needed by the user.
 
 #### Related Articles
 <hr>

@@ -1,4 +1,4 @@
-Operating systems (OS) manage your computer in every way. It's the software that acts as an intermediary between the hardware of your [[Computers and Computing|computer]] (like the [[CPU  (Central Processing Unit)|processor]], [[memory]], and [[Permanent Storage Device|storage devices]]) and the applications you use (like web browsers, word processors, and games).
+Operating systems (OS) manage your computer in every way. It's the software that acts as an intermediary between the hardware of your [[Computers and Computing|computer]] (like the [[CPU  (Central Processing Unit)|processor]], [[Memory]], and [[Permanent Storage Device|storage devices]]) and the applications you use (like web browsers, word processors, and games).
 
 #### Usage
 <hr>
