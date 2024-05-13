@@ -45,6 +45,8 @@ Below is an example of an object created using the Dog class. Notice how the att
 | Attributes  | Name = "Wallace"<br>Age = 7<br>Breed = "Doberman Pincher" |
 | Methods     | Bark<br>Fetch<br>Sit                                      |
 
+![[classesandobjects1.jpg]]
+
 <hr>
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
