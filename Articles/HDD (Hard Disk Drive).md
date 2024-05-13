@@ -64,7 +64,3 @@ After shopping for hard drives, what thoughts to you have about the products you
 [[Memory]]
 [[SSD (Solid State Drive)]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

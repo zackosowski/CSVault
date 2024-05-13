@@ -10,8 +10,3 @@ However, it's important to note that due to the nature of floating-point represe
 [[Integer]]
 [[Binary]]
 [[Memory]]
-
-#### Appears In
-<hr>
-
-[[]]

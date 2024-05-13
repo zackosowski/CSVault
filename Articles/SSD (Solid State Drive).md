@@ -32,7 +32,3 @@ Although historically SSDs have been significantly more expensive than HDDs for 
 [[HDD (Hard Disk Drive)]]
 [[Flash Memory]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

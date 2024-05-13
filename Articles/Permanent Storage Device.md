@@ -19,7 +19,3 @@
 [[HDD (Hard Disk Drive)]]
 [[Memory]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

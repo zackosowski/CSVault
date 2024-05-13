@@ -36,7 +36,3 @@ Here are some common types of devices that utilize flash memory:
 [[Permanent Storage Device]]
 [[Operating System]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

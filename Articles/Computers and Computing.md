@@ -27,8 +27,3 @@ After the computer’s hardware has started up, the next step is getting the com
 [[CPU  (Central Processing Unit)]]
 [[Motherboard]]
 [[Operating System]]
-
-#### Appears In
-<hr>
-
-[[]]

@@ -6,7 +6,4 @@ Transistors are small hardware devices made of semiconductors that act as switch
 
 [[Binary]]
 [[Boolean Logic]]
-#### Appears In
-<hr>
 
-[[Unit 1- Hardware]]

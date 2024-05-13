@@ -5,8 +5,3 @@ A boolean is a type of data that represents one of two possible states: true or 
 
 [[Boolean Logic]]
 [[Transistors]]
-
-#### Appears In
-<hr>
-
-[[]]

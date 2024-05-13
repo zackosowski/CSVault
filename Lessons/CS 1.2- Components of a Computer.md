@@ -21,10 +21,6 @@ I can identify and explain the purpose of the various components of a computer.
 
 Read [[Computer Hardware]] for optional review
 Complete [[Build-a-PC]] assignment
-#### References
-<hr>
-
-[[]]
 
  
  

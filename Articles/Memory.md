@@ -29,7 +29,3 @@ RAM is used by the [[Operating System]] in order to run applications concurrentl
 [[Data]]
 [[Operating System]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

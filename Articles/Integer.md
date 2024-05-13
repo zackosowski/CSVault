@@ -11,8 +11,3 @@ Overall, integers are essential for a wide range of computational tasks in progr
 
 [[Binary]]
 [[Memory]]
-
-#### Appears In
-<hr>
-
-[[]]

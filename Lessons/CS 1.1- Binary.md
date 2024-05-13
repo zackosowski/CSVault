@@ -23,14 +23,3 @@ I can apply my understanding of character mapping systems to translate to and fr
 <hr>
 
 Read [[Transistors]] to prepare for the next lesson.
-
-#### References
-<hr>
-
-[[Binary]]
-[[Character Mapping]]
-
- 
- 
- 
- 

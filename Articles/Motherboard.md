@@ -17,7 +17,3 @@ Overall, the motherboard is a crucial component of any computer system, providin
 [[SSD (Solid State Drive)]]
 [[Data]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

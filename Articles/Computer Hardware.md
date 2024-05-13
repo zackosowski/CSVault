@@ -21,8 +21,3 @@ Overall, computer hardware forms the foundation of a computer system and provide
 [[SSD (Solid State Drive)]]
 [[Motherboard]]
 [[USB (Universal Serial Bus)]]
-
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

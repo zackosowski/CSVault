@@ -50,8 +50,3 @@ USB connectors come in various shapes and sizes, each serving different purposes
 
 [[Display Connectors]]
 [[Operating System]]
-
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

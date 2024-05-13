@@ -37,7 +37,7 @@ You will submit the assignment by downloading your cart as a PDF and uploading t
 
 4. Upload to the google classroom assignment.
 
-#### References
+#### Helpful Articles
 <hr>
 
 [[]]

@@ -18,9 +18,6 @@ DisplayPort is a digital display connector developed by VESA (Video Electronics 
 #### Related Articles
 <hr>
 
-[[]]
+[[USB (Universal Serial Bus)]]
+[[Computer Hardware]]
 
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

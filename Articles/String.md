@@ -14,8 +14,3 @@ Overall, strings are a fundamental data type in computer science and programming
 <hr>
 
 [[Character]]
-
-#### Appears In
-<hr>
-
-[[]]

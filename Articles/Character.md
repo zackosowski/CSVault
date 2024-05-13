@@ -11,7 +11,3 @@ Character data types are widely used in various applications, including text pro
 [[Memory]]
 [[String]]
 [[Binary]]
-#### Appears In
-<hr>
-
-[[]]

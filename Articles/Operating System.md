@@ -38,8 +38,3 @@ Each operating system has its own strengths and weaknesses, and the choice of wh
 [[CPU  (Central Processing Unit)]]
 [[Permanent Storage Device]]
 [[Memory]]
-
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]

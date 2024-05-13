@@ -23,8 +23,3 @@ Engineers can build software applications like word processors and web browsers 
 [[Computers and Computing]]
 [[USB (Universal Serial Bus)]]
 [[Operating System]]
-
-#### Appears In
-<hr>
-
-[[Unit 1- Hardware]]
