@@ -44,7 +44,7 @@ Quick sort is a divide-and-conquer algorithm that works by selecting a 'pivot' e
 
 ###### <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Working with a partner, use the three sorting algorithms above to sort 10 playing cards form lowest to highest value (Aces high).
+Working with a partner, use each of the three sorting algorithms above to sort 10 playing cards form lowest to highest value (aces high).
 
 Start each algorithm by placing all 10 cards face up in a random order on the table before executing the sort.
 
