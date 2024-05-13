@@ -18,6 +18,10 @@ Attributes, also known as properties or member variables, are the building block
 
 Attributes are like the traits that distinguish one object from another. They are the object's data and provide a way to access and modify it. In our "Dog" example, we can set the age of a specific dog object to 2 or 10, change its name, or retrieve information about its breed.
 
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Working with 1-2 people sitting next to you, list as many attributes as you can for the Dog class.
+
 <hr>
 
 #### Methods
@@ -46,12 +50,6 @@ Below is an example of an object created using the Dog class. Notice how the att
 | Methods     | Bark<br>Fetch<br>Sit                                      |
 
 ![[classesandobjects1.jpg]]
-
-<hr>
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Working with 1-2 people sitting next to you, list as many attributes and methods for a "Person" class.
 
 
 <hr>
