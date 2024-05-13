@@ -7,6 +7,11 @@ Computers use the inputs provided to them in order to generate a result. In comp
 
 Somehow, computers need to translate inputs into outputs, by processing the information in the input in order to generate the necessary output. This processing takes the form of an algorithm, which is just a set of rules that a computer must follow in order to translate inputs into the desired outputs. Programming is the process of providing a computer with a set of instructions, or an algorithm, in order to perform a particular task.
 
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Create a list of as many inputs and outputs for your school.
+
 #### The Computational Process
 <hr>
 The process of translating inputs into outputs is known as the computational process, and will likely involve performing a series of calculations in the form of an algorithm.

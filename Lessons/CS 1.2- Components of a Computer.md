@@ -19,7 +19,7 @@ I can identify and explain the purpose of the various components of a computer.
 6. Work through [[Flash Memory]], [[Motherboard]], and [[Power Supply]] as a class
 8. Students are assigned the [[Build-a-PC]] assignment to complete.
 
-#### Lesson
+#### Assignments
 <hr>
 
 Read [[Computer Hardware]] for optional review

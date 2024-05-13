@@ -21,4 +21,12 @@ Hi, I'm Mr. Osowski. I am high school computer science teacher at St. Michael-Al
 
 This resource is designed to be used with [Obsidian](https://obsidian.md/), a markdown based "notes" application. Simply [download](https://obsidian.md/download) and install Obsidian on your computer, install and enable the git plugin, and clone this project.
 
-Once setup, you can get started by selecting your course in the Courses folder.
+Once setup, you can get started by selecting your course:
+[[AI Essentials (AI)]]
+[[AP Computer Science (APCS)]]
+[[Computer Science (CS)]]
+[[Foundations of Computer Science (FCS)]]
+[[Robotics I (R1)]]
+[[Robotics II (R2)]]
+[[Video Game Design (VGD)]]
+[[Web Design (WD)]]
