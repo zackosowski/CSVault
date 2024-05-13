@@ -5,6 +5,7 @@ Computer processors consist of a bunch of tiny switches called "[[Transistors|tr
 * the binary number system allows us to give meaning to 1s and 0s
 * every computer uses these 1s and 0s to execute every task
 * every file on your computer is just a series of 1s and 0s
+
 #### Units of Memory
 <hr>
 

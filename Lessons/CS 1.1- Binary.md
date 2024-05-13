@@ -6,6 +6,7 @@ I can apply my understanding of character mapping systems to translate to and fr
 
 #### Lesson
 <hr>
+
 1. Introduction
 	* "Computers on understand 1s and 0s"
 	* How can computers of today do so much if the can only use 1s and 0s?
@@ -18,6 +19,7 @@ I can apply my understanding of character mapping systems to translate to and fr
 	* "If computers can only make numbers, how do we get letters?"
 	* Work through [[Character Mapping]] as a class
 	* Students complete questions and activity
+
 
 #### Assignments
 <hr>

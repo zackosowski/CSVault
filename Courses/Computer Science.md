@@ -5,12 +5,12 @@ This course is based on CS50, Harvard University’s introduction to the intelle
 #### **Units**
 <hr>
 
-[[Unit 0- Setup]]
-[[Unit 1- Hardware]]
-[[Unit 2- Scratch]]
-[[Unit 3- C]]
-[[Unit 4- Algorithms]]
-[[Unit 5- Memory]]
-[[Unit 6- Data Structures]]
-[[Unit 7- Python]]
+[[CS Unit 0- Setup]]
+[[CS Unit 1- Hardware]]
+[[CS Unit 2- Scratch]]
+[[CS Unit 3- C]]
+[[CS Unit 4- Algorithms]]
+[[CS Unit 5- Memory]]
+[[CS Unit 6- Data Structures]]
+[[CS Unit 7- Python]]
 

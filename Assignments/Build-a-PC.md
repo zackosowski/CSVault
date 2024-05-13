@@ -40,4 +40,9 @@ You will submit the assignment by downloading your cart as a PDF and uploading t
 #### Helpful Articles
 <hr>
 
-[[]]
+[[CPU  (Central Processing Unit)]]
+[[RAM (Random Access Memory)]]
+[[HDD (Hard Disk Drive)]]
+[[SSD (Solid State Drive)]]
+[[Motherboard]]
+[[Computer Hardware]]
