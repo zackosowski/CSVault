@@ -1,5 +1,7 @@
 Understanding Classes and Objects is like unlocking the secret to building incredible digital worlds. These concepts serve as the foundation for creating complex programs and applications, making them essential for any aspiring programmer.
 
+Imagine you are a website administrator and you need to keep data on hundreds over users, including name, email, password, and account preferences. Without classes and objects, you would need thousands of variables to keep track of all of that data. This would be extremely messy and hard to read!
+
 <hr>
 
 #### What are Classes and Objects?
