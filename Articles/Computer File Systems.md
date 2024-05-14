@@ -18,6 +18,11 @@ A file system is a method used by computers to store, retrieve, and organize dat
 
 ![[filesystem1.jpg]]
 
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Create a file system for this class! In your "Documents" directory, create a folder that is named the same as your class. In that folder, create a folder for every unit in your class
+
 ---
 #### Importance of File Systems
 
