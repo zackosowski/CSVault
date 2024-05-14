@@ -54,6 +54,7 @@ Each operating system has its own strengths and weaknesses, and the choice of wh
 ---
 #### Related Articles
 
+[[Operating Systems.pdf]]
 [[Computers and Computing]]
 [[CPU  (Central Processing Unit)]]
 [[Permanent Storage Device]]
