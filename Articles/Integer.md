@@ -6,8 +6,8 @@ In most programming languages, integers are represented by keywords like "int" o
 
 Overall, integers are essential for a wide range of computational tasks in programming and are a fundamental building block of virtually all computer programs.
 
+---
 #### Related Articles
-<hr>
 
 [[Binary]]
 [[Memory]]

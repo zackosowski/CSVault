@@ -1,11 +1,11 @@
 #### Targets
-<hr>
+
 I can apply my understanding of the binary number system to translate to and from bytes of binary data.
 
 I can apply my understanding of character mapping systems to translate to and from bytes of binary data to ASCII characters.
 
+---
 #### Lesson
-<hr>
 
 1. Introduction
 	* "Computers on understand 1s and 0s"
@@ -21,7 +21,7 @@ I can apply my understanding of character mapping systems to translate to and fr
 	* Students complete questions and activity
 
 
+---
 #### Assignments
-<hr>
 
 Read [[Transistors]] to prepare for the next lesson.

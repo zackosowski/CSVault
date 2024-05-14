@@ -4,16 +4,17 @@
   * Optical Discs
   * Cloud Storage
 
+---
 #### What is typically stored on permanent storage devices?
-<hr>
+
 * Text files
 * Images/Videos
 * Software
 * Video Games
 * Anything that needs to be saved long term!
 
+---
 #### Related Articles
-<hr>
 
 [[SSD (Solid State Drive)]]
 [[HDD (Hard Disk Drive)]]

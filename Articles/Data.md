@@ -1,7 +1,7 @@
 Put very simply, data is information. Numbers, words, colors, sizes, times, locations, positions, lengths, widths, you get the point. Everything is data.
 
+---
 #### Data Types
-<hr>
 
 Not all data is made equal. In fact, data comes in many forms and types, and those types matter.
 
@@ -14,8 +14,8 @@ Here are some common data types (there are many more)
 * [[String]] (a group or "string" of characters)
 * [[Boolean]] (a special type of data that can only be True or False)
 
+---
 #### Related Articles
-<hr>
 
 [[Data]]
 [[CPU  (Central Processing Unit)]]

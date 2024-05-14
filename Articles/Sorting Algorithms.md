@@ -1,7 +1,8 @@
 Sorting [[algorithms]] are essential tools in computer science for arranging data in a specific order. Let's explore three common sorting algorithms in detail:
 
+---
 #### Bubble Sort
-<hr>
+
 Bubble sort is one of the simplest sorting algorithms. It works by repeatedly stepping through the list, comparing adjacent elements, and swapping them if they are in the wrong order.
 
 **Execution**:
@@ -13,9 +14,9 @@ Bubble sort is one of the simplest sorting algorithms. It works by repeatedly st
 **Example**:
 	Imagine sorting a deck of cards by comparing adjacent cards and swapping them if they are out of order. Repeat this process until the deck is sorted from lowest to highest card.
 
+---
 #### Merge Sort
-<hr>
-    
+
 Merge sort is a divide-and-conquer algorithm that divides the input list into smaller sublists, sorts each sublist recursively, and then merges them back together in sorted order.
 
 **Execution**:
@@ -25,8 +26,8 @@ Merge sort is a divide-and-conquer algorithm that divides the input list into sm
 **Example**:
 	Divide the deck of cards into smaller piles, sort each pile individually, and then merge the sorted piles back together until you have a single sorted deck.
 
+---
 #### Quick Sort
-<hr>
 
 Quick sort is a divide-and-conquer algorithm that works by selecting a 'pivot' element from the list and partitioning the other elements into two sublists according to whether they are less than or greater than the pivot. The sublists are then sorted recursively.
 **Execution**:
@@ -53,7 +54,7 @@ When done with all three, prepare to answer these three questions:
 * Which was the slowest?
 * Which one felt the most natural?
 
+---
 #### Related Articles
-<hr>
 
 [[Algorithms]]

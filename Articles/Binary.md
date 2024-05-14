@@ -6,8 +6,8 @@ Computer processors consist of a bunch of tiny switches called "[[Transistors|tr
 * every computer uses these 1s and 0s to execute every task
 * every file on your computer is just a series of 1s and 0s
 
+---
 #### Units of Memory
-<hr>
 
 A single 1 or 0 is the smallest unit of data in a computer- a "**bit**"
 * a group of eight bits is called a **byte**
@@ -17,8 +17,8 @@ A single 1 or 0 is the smallest unit of data in a computer- a "**bit**"
 * 1024 gigabytes is called a **terabyte**
 * 1024 terabytes is called a **petabyte**
 
+---
 #### Decimal System
-<hr>
 
 Numeral systems are writing systems for expressing numbers. Everyday, you use a base 10 number system called the decimal system. "Deci" meaning 10. Base 10 because we have 10 fingers. Here is an example of how we represent the number 125 in the decimal system:
 
@@ -33,8 +33,8 @@ Numeral systems are writing systems for expressing numbers. Everyday, you use a 
 * the leftmost, the 100s
 * Thus we have (100 x 1) + (10 x 2) + (1 x 3) = (100 + 20 + 5) = 125
 
+---
 #### Binary System
-<hr>
 
 Computer systems operate in a base 2 system called Binary. Base 2 because transistors have 2 positions, 1 or 0. 
 
@@ -54,8 +54,8 @@ Here is how we represent the the number 125 in a byte of binary:
 	* (128 x 0) + (64 x 1) + (32 x 1) + (16x 1) + (8 x 1)+ (4 x 1) + (2 x 0) + (1 x 1) =
 	* (0 + 64 + 32 + 16 + 8 + 4 + 0 + 1) = 125
 
+---
 #### Notes
-<hr>
 
 Even though computers only use binary, they can count as high as we can, they just do it with a small vocabulary, 1 and 0.  For numbers that are too large to represent with one byte of data, simply add more bytes separated by a space.
 * 421 = 00000001 10100101
@@ -103,8 +103,8 @@ Complete the table below by translating the decimal and binary numbers
 | 215     |          |
 | 255     |          |
 
+---
 #### Related Articles
-<hr>
 
 [[Memory]]
 [[CPU  (Central Processing Unit)]]

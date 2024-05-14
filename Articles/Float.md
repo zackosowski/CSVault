@@ -4,8 +4,8 @@ Floats are stored in [[Memory]] using a format that allows a fixed number of dig
 
 However, it's important to note that due to the nature of floating-point representation in [[Binary]], there can be precision and rounding errors when performing arithmetic operations with floats. Therefore, for applications requiring exact precision, such as financial calculations, other data types like decimals or fixed-point numbers might be more appropriate.
 
+---
 #### Related Articles
-<hr>
 
 [[Integer]]
 [[Binary]]

@@ -1,7 +1,7 @@
 The Universal Serial Bus, or USB, is a common interface used to connect various devices to [[Computers and Computing]] and other electronics. It's like a universal plug that allows you to easily connect things like keyboards, mice, printers, cameras, smartphones, and external [[HDD (Hard Disk Drive)|hard drives]] to your computer or other devices.
 
+---
 #### How does it work?
-<hr>
 
 **Physical Connection:** USB uses a standardized connector that plugs into a port on your computer or device. The connector has a distinctive shape that ensures it can only be inserted one way, making it easy to use.
 
@@ -11,8 +11,8 @@ The Universal Serial Bus, or USB, is a common interface used to connect various 
 
 **Plug-and-Play:** USB is designed to be "plug-and-play," which means that devices can be connected and disconnected from the computer without needing to restart or reconfigure the system. This makes it convenient for users to quickly connect and use different devices.
 
+---
 #### Why is it used?
-<hr>
 
 **Versatility:** USB is incredibly versatile, supporting a wide range of devices and functions. This makes it a convenient and standardized way to connect various peripherals and accessories to computers, laptops, tablets, and smartphones.
 
@@ -20,8 +20,8 @@ The Universal Serial Bus, or USB, is a common interface used to connect various 
 
 **Compatibility:** USB is widely supported across different devices, [[Operating System|operating systems]], and manufacturers. This means that USB devices from different brands can generally work together seamlessly, which simplifies the user experience.
 
+---
 #### Types of USB Connectors
-<hr>
 
 USB connectors come in various shapes and sizes, each serving different purposes and offering different features. Here are some of the most common types:
 
@@ -45,8 +45,8 @@ USB connectors come in various shapes and sizes, each serving different purposes
 
 ![[usb1.png]]
 
+---
 #### Related Articles
-<hr>
 
 [[Display Connectors]]
 [[Operating System]]

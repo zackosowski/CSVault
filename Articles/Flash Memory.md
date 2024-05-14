@@ -10,8 +10,9 @@ Here are some key characteristics of flash memory:
 
 Flash memory works by storing data in memory cells made of floating-gate [[Transistors]]. These transistors can be electrically charged to store [[Binary]] data (0s and 1s), and the state of each memory cell determines whether it stores a 0 or a 1.
 
+---
 #### Uses
-<hr>
+
 Here are some common types of devices that utilize flash memory:
 
  * **USB Flash Drives:** USB flash drives, also known as thumb drives or memory sticks, use flash memory to store data. These portable storage devices are popular for transferring files between computers, storing backups, and carrying data on the go.
@@ -24,8 +25,8 @@ Here are some common types of devices that utilize flash memory:
  
  * **Digital Cameras:** Flash memory cards, such as SD cards and CompactFlash cards, are used in digital cameras to store photos and videos. The fast write speeds of flash memory enable rapid shooting and continuous recording without buffering delays.
 
+---
 #### Related Articles
-<hr>
 
 [[SSD (Solid State Drive)]]
 [[HDD (Hard Disk Drive)]]

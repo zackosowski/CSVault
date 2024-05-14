@@ -6,8 +6,8 @@ Different motherboards support different types of CPUs, memory modules, and expa
 
 Overall, the motherboard is a crucial component of any computer system, providing the foundation for all other hardware components to work together effectively.
 
+---
 #### Related Articles
-<hr>
 
 [[Computer Hardware]]
 [[Computers and Computing]]

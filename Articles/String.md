@@ -10,7 +10,7 @@ Strings are immutable in some programming languages, meaning that once created, 
 
 Overall, strings are a fundamental data type in computer science and programming, playing a central role in representing and manipulating textual data in software applications.
 
+---
 #### Related Articles
-<hr>
 
 [[Character]]

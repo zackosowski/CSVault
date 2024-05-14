@@ -4,8 +4,8 @@ In [[Memory]], each character typically occupies a fixed amount of space (often 
 
 Character data types are widely used in various applications, including text processing, [[String]] manipulation, and user input/output operations. They are essential for representing textual data in computer programs.
 
+---
 #### Related Articles
-<hr>
 
 [[Character Mapping]]
 [[Memory]]

@@ -1,8 +1,9 @@
 #### Targets
-<hr>
+
 I can apply my understanding of classes and objects to create a "Car" class and create five car objects.
+
+---
 #### Lesson
-<hr>
 
 1. Introduction
 	* Classes and Objects are extremely powerful tools in computer science and can unlock massive opportunities for creativity and complexity

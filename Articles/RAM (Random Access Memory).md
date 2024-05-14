@@ -42,9 +42,8 @@ The most important aspect of RAM is its storage capacity. Most modern computers 
 
 How much RAM does your computer have? Press the windows key on your keyboard and search for "About your PC". This will bring up a panel that tells you basic hardware information about your computer including RAM storage size and type.
 
-
+---
 #### **Related Articles**
-<hr>
 
 [[RAM (Random Access Memory)]]
 [[Computer Hardware]]

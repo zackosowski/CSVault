@@ -10,8 +10,8 @@ By combining these fundamental operators in sequences, we can build gates like N
 
 ![[booleanlogic1.png]]
 
+---
 #### Related Articles
-<hr>
 
 [[Transistors]]
 [[Boolean]]
