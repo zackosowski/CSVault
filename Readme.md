@@ -14,7 +14,7 @@ Welcome to Mr. Osowski's Computer Science Program! This resource is designed to 
 #### Background
 <hr>
 
-Hi, I'm Mr. Osowski. I am high school computer science teacher at St. Michael-Albertville High School in St. Michael Minnesota. I have built up this resource over many years of designing, executing, failing, iterating, and succeeding in getting young people excited about computer science. If you are a student of mine, you are in the right place! If you are not a student, welcome!
+Hi, I'm Mr. Osowski. I am high school computer science teacher at St. Michael-Albertville High School in St. Michael Minnesota. I have built up this resource over many years of designing, executing, failing, iterating, and succeeding in getting young people excited about computer science. If you are a student of mine, you are in the right place. If you are not a student, welcome!
 
 #### How to use this resource
 <hr>
