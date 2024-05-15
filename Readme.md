@@ -8,6 +8,9 @@ This resource is currently under construction. Here is a rough timeline of cours
 * Web Design- Dec 2024
 * Video Game Design- March 2025
 * Foundations of Computer Science- Sept 2025
+* AP Computer Science A- Dec 2025
+* AI Essentials- May 2026
+* Robotics II- Sept 2026
 
 Welcome to Mr. Osowski's Computer Science Program! This resource is designed to be used as a curriculum tool while taking my classes, but can also be used as a self-guided learning experience.
 
