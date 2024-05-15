@@ -9,7 +9,8 @@ I can apply my knowledge of computer file systems to create my own file systems 
 
 1. Work through [[Operating Systems.pdf]] as a class
 	* Use [[Operating System]] to support
-	* Students complete operating systems question
-2. Work through [[Computer File Systems]] while demonstrating
+	* Students answer question with a partner
+	* Group discussion on question
+1. Work through [[Computer File Systems]] while demonstrating
 	* Students complete activity
 
