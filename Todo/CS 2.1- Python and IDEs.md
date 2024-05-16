@@ -4,7 +4,7 @@ I can explain what an integrated development environment
 ---
 #### Lesson
 
-1. What is Python?
+1. What is [[Python]]?
 2. What tools are needed to write python?
 	* If you were writing am English essay, what tool would you use?
 		* Microsoft Word
