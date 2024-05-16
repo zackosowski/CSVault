@@ -3,7 +3,7 @@ Python is a popular high-level programming language known for its simplicity and
 ---
 #### Key Features
 
-* **Easy to Read and Write**: Python's [[syntax]] is designed to be clean and easy to understand. This makes the language more accessible to new programmers. For example, Python uses indentation (spaces or tabs) to define blocks of code, which enhances readability.
+* **Easy to Read and Write**: Python's [[Syntax]] is designed to be clean and easy to understand. This makes the language more accessible to new programmers. For example, Python uses indentation (spaces or tabs) to define blocks of code, which enhances readability.
 
 * **Interpreted Language**: Python is an interpreted language, meaning that code is executed line by line, which helps in [[Debugging]] and testing. You don't need to [[Compiler|compile]] your code before running it, which can speed up development.
 
@@ -14,7 +14,7 @@ Python is a popular high-level programming language known for its simplicity and
 ---
 #### Basic Syntax
 
-Python's simplicity is evident in its [[syntax]]. Here is an example of a basic Python program that [[Print Functions|prints]] "Hello, World!":
+Python's simplicity is evident in its [[Syntax]]. Here is an example of a basic Python program that [[Print Functions|prints]] "Hello, World!":
 
 ```python
 print("Hello, World!")
