@@ -1,4 +1,5 @@
 #### Targets
+I can explain what an integrated development environment
 
 ---
 #### Lesson
@@ -21,6 +22,7 @@
 		* Before opening, right click -> pin to taskbar
 	* Before anything, install extensions
 		* Extensions -> Search for "ms-python.python" -> Install -> Enable
+		* Extensions -> Search for "GitHub.vscode-pull-request-github" -> Install -> Enable
 	* Overview of VS Code user interface
 		* Activity Bar
 			* Overview of what those buttons do
