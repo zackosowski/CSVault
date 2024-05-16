@@ -5,17 +5,17 @@ Estimated Completion date Sept 2024
 ---
 #### **Description**
 
-This course is based on CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming and teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally. Problem sets inspired by the arts, humanities, social sciences, and sciences. More than teaching you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. The course starts with a traditional but omnipresent language called C that underlies today’s newer languages, via which you’ll learn not only about functions, variables, conditionals, loops, and more, but also about how computers themselves work underneath the hood, memory and all. The course then transitions to Python, a higher-level language that you’ll understand all the more because of C. Course culminates in a final project.
+An introduction to computer science using a programming language called Python. Learn how to read and write code as well as how to test and “debug” it. Designed for students with or without prior programming experience who’d like to become a "programmer". Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.
 
 ---
 #### **Units**
 
 [[CS Unit 0- Setup]]
 [[CS Unit 1- Hardware]]
-[[CS Unit 2- Scratch]]
-[[CS Unit 3- C]]
-[[CS Unit 4- Algorithms]]
-[[CS Unit 5- Memory]]
-[[CS Unit 6- Data Structures]]
-[[CS Unit 7- Python]]
+[[CS Unit 2- Functions and Variables]]
+[[CS Unit 3- Conditionals and Exceptions]]
+[[CS Unit 4- Loops]]
+[[CS Unit 5- Algorithms and File IO]]
+[[CS Unit 6- Object-Oriented]]
+[[CS Unit 7- Libraries]]
 
