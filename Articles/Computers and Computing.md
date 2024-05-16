@@ -12,7 +12,10 @@ Somehow, computers need to translate inputs into outputs, by processing the info
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Create a list of as many inputs and outputs for your school.
+Create a list of as many inputs and outputs as you can for STMA High School. Here's a couple to get you started:
+
+Input: Students
+Output: Educated students
 
 ---
 #### The Computational Process

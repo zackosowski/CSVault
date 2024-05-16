@@ -11,6 +11,6 @@ I can apply my knowledge of computer file systems to create my own file systems 
 	* Use [[Operating System]] to support
 	* Students answer question with a partner
 	* Group discussion on question
-1. Work through [[Computer File Systems]] while demonstrating
+2. Work through [[Computer File Systems]] while demonstrating
 	* Students complete activity
 
