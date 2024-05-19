@@ -1,4 +1,4 @@
-The most common types of [[conditionals]] are `if`, `else if`, and `else` statements. These statements evaluate [[Boolean Expression (Condition)|boolean expressions]], which are expressions that return either `true` or `false`.
+The most common types of [[Conditional Statements]] are `if`, `else if`, and `else` statements. These statements evaluate [[Boolean Expression (Condition)|boolean expressions]], which are expressions that return either `true` or `false`.
 
 ---
 #### Coin Sorter Analogy

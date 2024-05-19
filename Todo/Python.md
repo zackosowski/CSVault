@@ -35,7 +35,7 @@ Python supports various [[Data#Data Types|data types]], including:
 ---
 #### Control Structures
 
-Python includes standard control structures like [[Loops]] and [[Conditionals]]. Here’s an example of an [[If Statements|if statement]]:
+Python includes standard control structures like [[Loops]] and [[Conditional Statements]]. Here’s an example of an [[If Statements|if statement]]:
 
 ```python
 x = 10

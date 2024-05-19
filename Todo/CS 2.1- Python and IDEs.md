@@ -17,12 +17,11 @@ I can explain what an integrated development environment
 		* Red underline = [[Compiler Error]]
 		* Yellow underline = [[Warning]]
 		* Code is runnable with [[Terminal]] input/output
-3. Open and setup [[Visual Studio Code|VS Code]] for this python programming. 
+3. Open and setup [[Visual Studio Code|VS Code]] for python programming. 
 	* Open VS Code by searching for it on your computer
 		* Before opening, right click -> pin to taskbar
-	* Before anything, install extensions
+	* Install Python extension
 		* Extensions -> Search for "ms-python.python" -> Install -> Enable
-		* Extensions -> Search for "GitHub.vscode-pull-request-github" -> Install -> Enable
 	* Overview of VS Code user interface
 		* Activity Bar
 			* Overview of what those buttons do
@@ -33,7 +32,12 @@ I can explain what an integrated development environment
 			* Tabs
 			* Editor groups
 		* Terminal
-	* Open a ne
+4. VS Code Projects
+	* Open a new folder (create a new one)
+	* Create new .py file
+	* Do not use File -> new file
+5. Hello World
+	1. 
 
 ---
 #### Assignments
