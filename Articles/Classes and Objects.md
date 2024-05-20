@@ -65,5 +65,3 @@ Two more key concepts related to classes are inheritance and polymorphism. Inher
 
 Create a class called "Car" that has at least 5 attributes and and three class methods, then make five objects using the the class.
 
----
-#### Related Articles
