@@ -12,7 +12,7 @@ In computer science, an operator is a symbol or [[Functions|function]] that tell
 ---
 #### Relational Operators
 
-   - **Equal to (==)**: Checks if two operands are equal. For example, `5 == 3` results in `false`.
+   - **Equal to (==)**: Checks if two operands are equal. For example, `5 == 3` results in `false`.==
    - **Not equal to (!=)**: Checks if two operands are not equal. For example, `5 != 3` results in `true`.
    - **Greater than (>)**: Checks if the first operand is greater than the second. For example, `5 > 3` results in `true`.
    - **Less than (<)**: Checks if the first operand is less than the second. For example, `5 < 3` results in `false`.

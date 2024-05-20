@@ -5,8 +5,8 @@ In computer science, an **error** is any issue in a program that prevents it fro
 
 Compiler [[Errors|errors]] are mistakes in a program's code that prevent it from being successfully [[Compiler|compiled]] into an executable program. If there are errors in the code, the compiler will generate error messages and stop the translation process.
 
-###### **Syntax Errors**	
-These occur when the code violates the [[Syntax]] rules of the [[programming language]]. For example, if you forget a colon at the end of an [[If Statements|if statement]] in [[Python]] or misspell a [[keyword]], you'll get a syntax error. Syntax errors are often the easiest to fix because they are underlined in red in the [[IDE (Integrated Development Environment)|IDE]] compiler usually provides specific details about what and where the problem is. Below are some examples of syntax errors.
+* ###### **Syntax Errors**	
+	These occur when the code violates the [[Syntax]] rules of the [[programming language]]. For example, if you forget a colon at the end of an [[If Statements|if statement]] in [[Python]] or misspell a [[keyword]], you'll get a syntax error. Syntax errors are often the easiest to fix because they are underlined in red in the [[IDE (Integrated Development Environment)|IDE]] compiler usually provides specific details about what and where the problem is. Below are some examples of syntax errors.
 
 ```python
 #The string is missing a closing quotation symbol
@@ -24,11 +24,21 @@ if x > 15
 Print("Hello World!")
 ```
 
-###### **Semantic Errors**
-These happen when the code is syntactically correct but makes no sense logically. For instance, if you try to perform an operation on incompatible data types (like adding a number to a [[string]] in a language that doesn't allow it), you'll encounter a semantic error. These errors are harder to spot because the code looks correct but doesn't behave as expected.
- 
- ###### **Linker Errors**
- These errors occur during the linking stage, which is after the compilation of the code. Linker errors happen when the compiler cannot find the correct references to functions or variables defined in other files or [[libraries]]. This might happen if you forget to include a necessary library or if there is a mismatch in [[Functions|function]] declarations.
+* ###### **Semantic Errors**
+	These happen when the code is *syntactically* correct but makes no sense logically. For instance, if you try to perform an operation on incompatible data types (like adding a number to a [[string]] in a language that doesn't allow it), you'll encounter a semantic error. These errors are harder to spot because the code looks correct but doesn't behave as expected.
+
+```python
+#You cannot combine an integer and a string
+name = "Alice"
+age = 25
+greeting = "Hello, " + name + age
+```
+
+```python
+#Strings are immutable, meaning individual characters cannot be changed
+name = "alex"
+name[0] = "A"
+```
 
 ---
 
@@ -49,24 +59,16 @@ When a runtime error occurs, the program may:
 - Display error messages or warnings.
 - Produce incorrect or unexpected output.
 
-
 To handle runtime errors effectively:
 
-1. **Debugging**: Use debugging tools to identify and fix the root cause of the error.
-2. **Error Handling**: Implement mechanisms like exception handling to gracefully manage errors during program execution.
+1. **Debugging**: Use [[debugging]] tools to identify and fix the root cause of the error.
+2. **Error Handling**: Implement mechanisms like [[Exception Handling]] to gracefully manage errors during program execution.
 3. **Testing**: Conduct thorough testing to detect and address potential runtime errors before deploying the program.
 
-### Example:
-
-python
-
-Copy code
-
-`# Division by Zero Error numerator = 10 denominator = 0 result = numerator / denominator  # Causes a runtime error`
-
+---
 ## How to Read an Error Message
 
-Reading and understanding error messages is a vital skill for debugging. Here are common components of an error message:
+Reading and understanding error messages is a vital skill for debugging. When an error occurs, assume the role of Sherlock Holmes, a famous fictional detective. It is your job to look at the clues given in the error message to determine the cause and solution to the problem. Error messages contain these clues:
 
 1. **Error Type**: Indicates the kind of error (e.g., SyntaxError, TypeError, IndexError).
 2. **Error Description**: Provides details about what caused the error.
@@ -85,4 +87,4 @@ In this message:
 - **Error Description**: `invalid literal for int() with base 10: 'abc'`
 - **File and Line Number**: `File "example.py", line 3`
 
-Understanding this structure helps in quickly identifying and fixing errors.
+With these clues, finding the issue and resolving it should be a breeze!
