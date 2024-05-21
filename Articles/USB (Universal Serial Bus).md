@@ -46,6 +46,9 @@ USB connectors come in various shapes and sizes, each serving different purposes
 ![[usb1.png]]
 
 ---
+#### [USB Video](https://www.youtube.com/watch?v=wdgULBpRoXk)
+
+---
 #### Related Articles
 
 [[Display Connectors]]
