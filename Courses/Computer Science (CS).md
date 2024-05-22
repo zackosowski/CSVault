@@ -13,7 +13,16 @@ An introduction to computer science using a [[programming language]] called [[Py
 #### **Units**
 
 [[CS Unit 0- Setup]]
+	- [[CS 0.1 Welcome to Computer Science!]]
+	- [[CS 0.2 GitHub and Obsidian]]
+
 [[CS Unit 1- Hardware]]
+	- [[CS 1.1- Binary]]
+	- [[CS 1.2- Components of a Computer]]
+	- [[CS 1.3- How do Computers Work]]
+	- [[CS 1.4- Operating Systems]]
+	- [[CS 1.5- Algorithms]]
+	
 [[CS Unit 2- Functions and Variables]]
 [[CS Unit 3- Conditionals and Exceptions]]
 [[CS Unit 4- Loops]]

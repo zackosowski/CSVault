@@ -2,4 +2,4 @@
 
 ---
 #### Lessons
-[[CS 1.5- Algorithms]]
+[[CS 2.1- Hello World!]]

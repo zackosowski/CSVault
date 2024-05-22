@@ -1,5 +1,5 @@
 #### Targets
-I can create a log in to my GitHub account.
+I can create a log in to my [[GitHub]] account.
 
 I can use GitHub commands to clone, pull, and push updates to a repository.
 
