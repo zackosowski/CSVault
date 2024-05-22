@@ -1,7 +1,7 @@
 #### Targets
 I can explain what an integrated development environment is and why it is essential for computer programming.
 
-I can open and navigate the PyCharm software using my understanding of its user interface.
+I can open and navigate the Visual Studio Code software using my understanding of its user interface.
 
 I can write a simple Python program that sends messages to the terminal.
 
@@ -21,13 +21,22 @@ I can write a simple Python program that sends messages to the terminal.
 		* Red underline = [[Compiler Error]]
 		* Yellow underline = [[Warning]]
 		* Code is runnable with [[Terminal]] input/output
-3. Open and setup [[PyCharm]] for python programming. 
-	* Open PyCharm by searching for it on your computer
+3. Open and setup [[Visual Studio Code|VS Code]] for python programming. 
+	* Open VS Code by searching for it on your computer
 		* Before opening, right click -> pin to taskbar
-	* Overview of[ PyCharm user interface](https://www.jetbrains.com/help/pycharm/guided-tour-around-the-user-interface.html)
+	* Install Extensions:
+		* `ms-python.python`
+		* `beardedbear.beardedtheme -> Anthracite`
+		* `usernamehw.errorlens`
+		* `pkief.material-icon-theme`
+	* Change Settings
+		* Text Editor -> Cursor ->
+			* Cursor Blinking -> Expand
+			* Enable "Cursor Smooth Caret Animation"
+	* Overview of[VS Code user interface](https://code.visualstudio.com/docs/getstarted/userinterface)
 4. Open a new project
 	* Open a new folder (create a new one)
-	* Create new .py file
+	* Create new `.py` file
 5. Hello World
 	1. 
 
