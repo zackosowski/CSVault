@@ -33,7 +33,11 @@ I can write a simple Python program that sends messages to the terminal.
 		* Text Editor -> Cursor ->
 			* Cursor Blinking -> Expand
 			* Enable "Cursor Smooth Caret Animation"
-	* Overview of[VS Code user interface](https://code.visualstudio.com/docs/getstarted/userinterface)
+		* Right-click Activity Bar -> Move Primary Side Bar Right
+		* Top of screen -> Terminal -> New Terminal
+			* Drag terminal below editor
+		* Right-click status bar -> Hide Status Bar
+	* Overview of [VS Code user interface](https://code.visualstudio.com/docs/getstarted/userinterface)
 4. Open a new project
 	* Open a new folder (create a new one)
 	* Create new `.py` file
