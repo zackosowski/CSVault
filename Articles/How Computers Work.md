@@ -1,3 +1,5 @@
+#article 
+
 Computers were invented by many teams of people, all working on particular parts. Like most machines, a computer is made of separate pieces with specific functions that all work together. The physical pieces of a computer are called hardware, and the virtual pieces of a computer are called software. Within both hardware and software, there are individual components, and within those components, there are even more components. This pattern of getting smaller and going lower into the innerworkings of a computer continues until the level of transistors and binary. However, thanks to the work of computer scientists, we can leverage these devices without worrying about low level details.
 
 ---

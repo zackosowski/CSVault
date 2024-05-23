@@ -1,3 +1,5 @@
+#article 
+
 A hard disk drive, or HDD for short, is a type of permanent storage component that some computers use.
 
 ![[hdd1.png]]

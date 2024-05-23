@@ -1,3 +1,5 @@
+#article 
+
 One key component of any computer is a CPU. A CPU (or processor) is the brains of your computer; it runs applications from calculators, web browsers, to video games. However, a computer is more than just a CPU. CPUs handle the calculations that allow us to run code, but they must work without other hardware components such as [[Memory]] and graphic processing units (GPUs) to function as the computers we know today.
 
 ![[cpu2.png]]

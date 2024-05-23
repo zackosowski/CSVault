@@ -1,3 +1,5 @@
+#article 
+
 Computers represent and process 1s and 0s using sequences of physical components called [[Transistors|transistors]]. By linking different configurations of these transistors, computers can perform everything from basic arithmetic to playing a video. However, thanks to layers of abstraction, we don’t need to constantly think about at the level of binary and transistors to program a computer. Sequences of transistors can be represented by Boolean logic, and these sequences of logic gates can then be packaged into chips (hardware) and code (software).
 
 Since transistors either enable or disable the flow of electricity, we can use transistors to represent the [[Binary|binary]] values 1 and 0, or true and false. By linking these transistors in complicated webs, we can implement complex processes using a branch of math known as Boolean logic, created by the mathematician George Boole.

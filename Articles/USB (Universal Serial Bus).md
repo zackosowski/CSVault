@@ -1,3 +1,5 @@
+#article 
+
 The Universal Serial Bus, or USB, is a common interface used to connect various devices to [[Computers and Computing]] and other electronics. It's like a universal plug that allows you to easily connect things like keyboards, mice, printers, cameras, smartphones, and external [[HDD (Hard Disk Drive)|hard drives]] to your computer or other devices.
 
 ---

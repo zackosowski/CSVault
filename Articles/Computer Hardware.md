@@ -1,3 +1,5 @@
+#article 
+
 Computer hardware refers to the physical components of a computer system that you can touch and interact with. These components include devices such as the [[CPU  (Central Processing Unit)]], [[Memory]] modules ([[RAM (Random Access Memory)|RAM]]), storage devices ([[HDD (Hard Disk Drive)|hard drives]], [[SSD (Solid State Drive)|solid-state drives]]), input devices (keyboard, mouse, touchscreen), output devices (monitor, printer, speakers), and various peripheral devices (such as network cards, graphics cards, and [[USB (Universal Serial Bus)|USB]] devices).
 
 ---

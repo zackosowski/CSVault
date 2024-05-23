@@ -1,3 +1,5 @@
+#article 
+
 In computer science, exception handling is a fancy way of saying how programs deal with unexpected [[errors]]. Imagine you're writing a program to calculate area, but someone enters a letter instead of a number. This unexpected event, called an exception, could crash the program. Exception handling allows you to catch these errors, display a user-friendly message (like "Enter a number!"), and keep the program running smoothly. It's like having a safety net to prevent your program from falling apart when things go wrong.
 
 ---

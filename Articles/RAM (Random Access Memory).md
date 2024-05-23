@@ -1,3 +1,5 @@
+#article 
+
 Random Access Memory are physical components of a computer that are responsible for temporary storage of [[Data|data]]. Things like web page data (text, images, video), active programs, and background process data are stored in RAM temporarily until they are not needed anymore. All data stored in RAM is lost when the computer is powered off.
 
 ![[ram1.png]]

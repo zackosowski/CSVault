@@ -1,3 +1,5 @@
+#article 
+
 Pseudocode serves as a bridge between the human mind and computer algorithms. It's a plain language description of the steps in an algorithm or program, designed to help programmers plan and communicate their ideas before translating them into a specific programming language. Let's delve into what pseudocode is with a few examples.
 
 ---

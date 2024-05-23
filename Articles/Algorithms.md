@@ -1,3 +1,5 @@
+#article
+
 An algorithm is like a recipe that guides a computer on how to solve a problem step by step. Just as you follow a recipe to bake a cake or solve a math problem, computers use algorithms to perform tasks efficiently and accurately.
 
 ---
@@ -35,3 +37,4 @@ Understanding algorithms helps computer scientists and programmers develop more 
 #### Related Articles
 
 [[Sorting Algorithms]]
+

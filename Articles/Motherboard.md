@@ -1,3 +1,5 @@
+#article 
+
 A motherboard is the main printed circuit board (PCB) in a [[Computers and Computing|computer]]. It serves as the primary hub that connects all the essential components of a computer system together, like the [[CPU  (Central Processing Unit)|CPU]], [[RAM (Random Access Memory)|RAM]], storage devices (such as [[HDD (Hard Disk Drive)|hard drives]] and [[SSD (Solid State Drive)|SSDs]]), expansion cards (like graphics cards, sound cards, and network cards), and various connectors for peripherals.
 
 The motherboard provides electrical connections and pathways that allow [[Data]] and power to flow between the different components of the computer. It also contains important circuitry and components such as the chipset, which controls communication between the CPU and other devices, and the BIOS/UEFI firmware, which initializes the [[Computer Hardware|hardware]] during the boot process and provides basic system settings.

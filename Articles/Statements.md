@@ -1,3 +1,5 @@
+#article 
+
 In computer science, a statement is a single line of code that performs a specific action. Statements are the building blocks of a program, instructing the [[Computers and Computing|computer]] on what to do step by step. Each statement typically corresponds to a specific instruction in the computer's underlying [[Machine Code|machine language]].
 
 ---

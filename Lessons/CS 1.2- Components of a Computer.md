@@ -1,3 +1,5 @@
+#lesson
+
 #### Targets
 
 I can identify and explain the purpose of the various components of a computer.

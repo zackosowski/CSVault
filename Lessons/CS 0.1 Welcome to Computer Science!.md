@@ -1,3 +1,5 @@
+#lesson
+
 #### Targets
 
 * I can give a general overview of what the class "Computer Science" is including units, expectations, and policies.

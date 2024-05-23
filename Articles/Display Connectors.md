@@ -1,3 +1,5 @@
+#article 
+
 Display connectors are interfaces used to connect a display device, such as a monitor or a projector, to a [[Computers and Computing|computer]] or other source device, allowing for the transmission of video signals. There are several types of display connectors, each with its own characteristics, capabilities, and compatibility. Here are some of the most common types:
 
 ---

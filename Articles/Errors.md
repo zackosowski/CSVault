@@ -1,3 +1,5 @@
+#article 
+
 In computer science, an **error** is any issue in a program that prevents it from functioning as intended. Understanding and handling errors is crucial for writing reliable and efficient code. Errors can generally be categorized into two types: *compiler errors* and *runtime errors*.
 
 ---

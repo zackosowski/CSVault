@@ -1,3 +1,5 @@
+#lesson
+
 #### Targets
 
 I can apply my understanding of the binary number system to translate to and from bytes of binary data.

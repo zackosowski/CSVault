@@ -1,3 +1,5 @@
+#article 
+
 A computer, in the most general sense, is just a device that accepts [[Data]] or input, and processes it in some way to automatically produce a result. When a computer is doing any kind of work, whether it’s opening an application, editing an image, or playing a song, it is computing. Computing, in the most general sense, means calculating. In order for a computer to operate correctly, many different parts of the computer have to communicate and interact with one another in just the right way
 
 ---

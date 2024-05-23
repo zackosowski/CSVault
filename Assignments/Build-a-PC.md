@@ -1,3 +1,5 @@
+#assignment 
+
 Congratulations! You've just completed your crash course in computer hardware, learning about essential components like the [[CPU  (Central Processing Unit)|CPU]], [[RAM (Random Access Memory)|RAM]], [[HDD (Hard Disk Drive)|HDD]] or [[SSD (Solid State Drive)|SSD]], and [[motherboard]]. Now it's time to put that knowledge into action! In this assignment, you will have the exciting opportunity to design your own computer system within a budget constraint. 
 
 ---

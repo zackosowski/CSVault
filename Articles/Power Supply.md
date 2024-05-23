@@ -1,3 +1,5 @@
+#article 
+
 The power supply unit (PSU) is the unsung hero that silently ensures the smooth operation of every component within a computer system. Often overlooked but indispensable, the power supply is the vital link between the electrical outlet and the intricate circuitry that powers the digital world.
 
 ---

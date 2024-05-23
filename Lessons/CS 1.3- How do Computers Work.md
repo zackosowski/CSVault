@@ -1,3 +1,5 @@
+#lesson
+
 #### Targets
 
 I can explain how a computer works in terms of inputs, processes, and outputs.

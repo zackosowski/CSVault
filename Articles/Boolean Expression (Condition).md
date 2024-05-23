@@ -1,3 +1,5 @@
+#article 
+
 Boolean expressions, also known as *conditions* or *condition statements*, are a fundamental concept in computer science and mathematics, used to represent logical statements that can be either true or false. Named after the mathematician George Boole, Boolean expressions are built using [[variables]], constants, and [[Operators|logical operators]].
 
 Simply put, a boolean expression is like a question that your computer can answer with a "yes" or "no". They are used for making decisions in programs, like [[If Statements]].

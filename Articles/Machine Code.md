@@ -1,3 +1,5 @@
+#article 
+
 ### Machine Code
 
 **Machine code** is the set of instructions executed directly by a computer's central processing unit (CPU). These instructions are written in binary (combinations of 0s and 1s), which the CPU can read and interpret to perform basic operations such as arithmetic, data storage, and input/output processing.

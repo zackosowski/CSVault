@@ -1,3 +1,5 @@
+#article 
+
 Put very simply, data is information. Numbers, words, colors, sizes, times, locations, positions, lengths, widths, you get the point. Everything is data.
 
 ---

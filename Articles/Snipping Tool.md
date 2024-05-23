@@ -1,3 +1,5 @@
+#article 
+
 The Snipping Tool is a built-in application on Windows 10, designed to capture screenshots in various shapes and sizes. To open it, simply type "Snipping Tool" in the search bar located at the bottom left corner of your screen and click on the app once it appears.
 
 ---

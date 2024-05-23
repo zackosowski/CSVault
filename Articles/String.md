@@ -1,3 +1,5 @@
+#article 
+
 A string is a data type used to represent a sequence of [[Character|characters]]. Characters can include letters, digits, punctuation marks, and special symbols. Strings are widely used in programming for tasks involving text manipulation, such as input/output operations, parsing, and data processing.
 
 Strings can be created using various programming languages, and they are typically enclosed within quotation marks. 

@@ -1,3 +1,5 @@
+#article 
+
 In [[Python]], a dictionary is a collection of [[data]] organized in a special way. Unlike [[List|lists]] and [[Tuple|tuples]] that store items in a sequence, dictionaries store data in **key-value pairs**. Imagine a phone book - each name (key) has a corresponding phone number (value). That's exactly how dictionaries work!
 
 ---

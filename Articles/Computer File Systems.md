@@ -1,3 +1,5 @@
+#article 
+
 In the world of computers, file systems play a crucial role in organizing and managing [[data]] efficiently. Imagine your computer as a giant filing cabinet where all your documents, photos, videos, and programs are stored. A file system is like the organizational structure of this cabinet, determining how files are stored, accessed, and managed.
 
 ---

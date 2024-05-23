@@ -1,3 +1,5 @@
+#article 
+
 Character mapping involves translating numerical codes or symbols into characters for storage and processing purposes. Your computer references tables of numerical values todo this translation. These tables are the "maps". There are various character mapping systems that are used for a variety of different situations. For example, A character mapping system that you have probably heard of before is Morse Code. Although Morse Code is still used by air and sea operators, it is not used in computer science.
 
 ---

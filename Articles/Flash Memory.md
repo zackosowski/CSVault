@@ -1,3 +1,5 @@
+#article 
+
 Flash memory is a type of [[Permanent Storage Device|permanent computer storage medium]] that is used in a wide range of electronic devices, including [[USB (Universal Serial Bus)|USB]] flash drives, memory cards, [[SSD (Solid State Drive)|solid-state drives (SSDs)]], and various other types of storage devices.
 
 Here are some key characteristics of flash memory:

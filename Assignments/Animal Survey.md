@@ -1,3 +1,5 @@
+#assignment 
+
 Create a program that surveys the user about their favorite animal. This activity will help you practice using `input` and `print` functions, working with strings, and storing data in variables.
 
 ---

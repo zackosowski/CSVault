@@ -1,3 +1,5 @@
+#article 
+
 An integer is a data type used to represent whole numbers, both positive and negative, without any fractional or decimal components. Integers are one of the most fundamental data types in programming and are used for a wide range of purposes, including counting, indexing, arithmetic operations, and representing quantities that can only be whole numbers.
 
 Integers are typically stored in [[Binary]] format in [[Memory]], and the range of values that can be represented depends on the number of [[Binary|bits]] used to store them. For example, an 8-bit integer can represent values from -128 to 127 (signed) or from 0 to 255 (unsigned), while a 32-bit integer can represent much larger values.

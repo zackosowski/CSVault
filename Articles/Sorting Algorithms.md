@@ -1,3 +1,5 @@
+#article 
+
 Sorting [[algorithms]] are essential tools in computer science for arranging data in a specific order. Let's explore three common sorting algorithms in detail:
 
 ---

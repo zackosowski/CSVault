@@ -1,3 +1,5 @@
+#article 
+
 In computer science, "syntax" refers to the rules and structure that govern how [[Programming Language|programming languages]] are written. It's like the grammar of a language but for [[Computers and Computing|computers]].
 
 Syntax defines the rules that programmers must follow when writing code. Just as in spoken languages, where sentences have specific structures, programming languages have their own syntax rules. This includes using correct punctuation, spacing, and [[Keyword|keywords]] as required by the language.

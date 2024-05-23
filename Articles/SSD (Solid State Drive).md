@@ -1,3 +1,5 @@
+#article 
+
   A solid-state drive (SSD) is a [[Permanent Storage Device]] that uses integrated circuit assemblies to store [[Data]]. Unlike traditional [[HDD (Hard Disk Drive)|hard disk drives (HDDs)]], which use spinning magnetic disks to store data, SSDs have no moving parts and instead use [[Flash Memory]], a type of non-volatile memory, to store data.
 
 ![[ssd1.png]]

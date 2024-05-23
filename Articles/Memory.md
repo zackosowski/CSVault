@@ -1,3 +1,5 @@
+#article 
+
  In order for computers to be able to perform computations, they need to be able to store information (as bits and bytes) into memory, which is just a way to keep [[Data|data]] in a place where it can be retrieved by the computer later. However, computers don’t just have one type of memory: they have multiple different types of memory, which vary in their speed, and the amount of information that they can store inside of them. Each type of memory has its own advantages and disadvantages.
 
 ---
