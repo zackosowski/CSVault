@@ -22,7 +22,7 @@ The term "debugging" dates back to the early days of computing. One famous anecd
 
 Programmers use various tools and techniques to debug their code:
 
-- **Print Statements**: Adding [[Print Functions|print]] statements in the code to display [[Data|values]] of [[variables]] and the flow of execution. This is a simple but effective way to understand what the program is doing.
+- **Print Statements**: Adding [[Print Functions|print]] statements in the code to display [[Data|values]] of [[Variables]] and the flow of execution. This is a simple but effective way to understand what the program is doing.
 - **Debuggers**: Special software tools, such as gdb (GNU Debugger) for C/C++ or the integrated debugger in [[IDE (Integrated Development Environment)|IDEs]]. These tools allow programmers to step through code line by line, inspect variables, and control the execution flow.
 - **Unit Testing**: Writing tests for individual parts of the code (units) to ensure they work correctly. Automated testing frameworks like JUnit for Java or PyTest for [[Python]] are commonly used.
 - **Rubber Duck Debugging**: Explaining the code and the problem to a rubber duck (or any inanimate object) as a way to clarify the programmer's thinking and often reveal the bug's source.

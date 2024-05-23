@@ -58,7 +58,7 @@ In computer science, an operator is a symbol or [[Functions|function]] that tell
 ---
 #### Operands
 
-An operand is a value or [[data]] that an operator acts upon. Operands can be constants, [[variables]], or expressions, and they provide the necessary inputs for operators to perform operations. Here are examples to illustrate different types of operands in various contexts:
+An operand is a value or [[data]] that an operator acts upon. Operands can be constants, [[Variables]], or expressions, and they provide the necessary inputs for operators to perform operations. Here are examples to illustrate different types of operands in various contexts:
 
 1. **Arithmetic Operations**:
     - **Addition**: In `sum = a + b`, `a` and `b` are operands of the addition operator `+`.

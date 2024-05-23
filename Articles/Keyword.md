@@ -1,6 +1,6 @@
 #article 
 
-In computer programming, keywords are reserved words that have special meanings. These words are part of the [[syntax]] of a [[programming language]] and cannot be used for naming [[variables]], [[functions]], or any other identifiers. They are essential for writing code that the [[Computers and Computing|computer]] can understand and execute.
+In computer programming, keywords are reserved words that have special meanings. These words are part of the [[syntax]] of a [[programming language]] and cannot be used for naming [[Variables]], [[functions]], or any other identifiers. They are essential for writing code that the [[Computers and Computing|computer]] can understand and execute.
 
 ---
 #### Purpose of Keywords

@@ -9,7 +9,7 @@ Python is a popular high-level programming language known for its simplicity and
 
 * **Interpreted Language**: Python is an interpreted language, meaning that code is executed line by line, which helps in [[Debugging]] and testing. You don't need to [[Compiler|compile]] your code before running it, which can speed up development.
 
-* **Dynamically Typed**: In Python, you don't need to declare the [[Data#Data Types|type]] of a [[variables|variable]] when you create it. For instance, you can write `x = 10` without specifying that `x` is an [[integer]]. The type is determined at runtime, making the language more flexible.
+* **Dynamically Typed**: In Python, you don't need to declare the [[Data#Data Types|type]] of a [[Variables|variable]] when you create it. For instance, you can write `x = 10` without specifying that `x` is an [[integer]]. The type is determined at runtime, making the language more flexible.
 
 * **Extensive Libraries and Frameworks**: Python comes with a rich standard library and has a vast ecosystem of third-party modules and frameworks. Libraries like *[NumPy](https://numpy.org/)* and *[pandas](https://pandas.pydata.org/)* are used for data analysis, while *[Django](https://www.djangoproject.com/)* and *[Flask](https://www.djangoproject.com/)* are popular for web development.
 

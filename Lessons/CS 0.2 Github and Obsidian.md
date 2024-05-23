@@ -1,7 +1,7 @@
 #lesson
 
 #### Targets
-I can create a log in to my [[Git and GitHub]] account.
+I can create and log in to my [[Git and GitHub]] account.
 
 I can use GitHub commands to clone, pull, and push updates to a repository.
 
@@ -17,8 +17,8 @@ I can navigate the Obsidian software to access course resources.
 		* Use school email if you want to keep your school work separate
 	3.  Enter a password
 	4. Enter a username
-		* Recommended: FirstnameLastnameGRADYEAR
-		* Example: ZackOsowski26
+		* Recommended: `FirstnameLastnameGRADYEAR`
+		* Example: `ZackOsowski26`
 	5. Do not check email preferences
 	6. Complete human verification puzzle
 	7. Check your email for confirmation code
@@ -54,9 +54,9 @@ I can navigate the Obsidian software to access course resources.
 	2. Click on the green <span style="border-radius:5px; background-color: #238636; padding-left:10px; padding-right: 10px; font-weight: 500 ">Code</span> button
 	3. Click the button with two overlapping squares to copy the URL
 	4. Open Obsidian
-	5. Press ctrl+p on your keyboard to open the command palette
+	5. Press `ctrl+p` on your keyboard to open the command palette
 	6. Search for and click "Git: Clone an existing remote repo"
-	7. Press ctrl+v to paste the repository url you just copied and press enter
+	7. Press `ctrl+v` to paste the repository URL you just copied and press enter
 	8. Type "Computer Science" and press enter
 	9. Press enter one more time
 6. Overview of the repo
@@ -66,14 +66,14 @@ I can navigate the Obsidian software to access course resources.
 	* Search function
 	* Linking
 7. How to get new updates to the repo
-	1. In Obsidian, press ctrl+p to bring up the command palette
+	1. In Obsidian, press `ctrl+p` to bring up the command palette
 	2. Search for and click "Git: Open source control view"
 	3. Press the down arrow icon in the source control view
 
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Repo scavenger hunt!
+Obsidian scavenger hunt!
 
 Navigate the repository to find the answers to these questions:
 1. What is "float" short for?

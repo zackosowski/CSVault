@@ -5,7 +5,7 @@ In computer science, a statement is a single line of code that performs a specif
 ---
 #### Expression Statement
 
-An expression statement is a type of instruction that performs an action and usually changes the state of the program. It is made up of expressions, which can include [[variables]], [[Operators]], [[Functions|function]] calls, and [[Data|values]]. When the statement is executed, the expressions are evaluated, and the resulting values might be assigned to variables, used in calculations, or passed to functions. Here are three main types of expression statements with examples:
+An expression statement is a type of instruction that performs an action and usually changes the state of the program. It is made up of expressions, which can include [[Variables]], [[Operators]], [[Functions|function]] calls, and [[Data|values]]. When the statement is executed, the expressions are evaluated, and the resulting values might be assigned to variables, used in calculations, or passed to functions. Here are three main types of expression statements with examples:
 
 ###### Assignments
 These statements assign a value to a variable
