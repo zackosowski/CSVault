@@ -6,7 +6,7 @@ In computer science, an **error** is any issue in a program that prevents it fro
 Compiler [[Errors|errors]] are mistakes in a program's code that prevent it from being successfully [[Compiler|compiled]] into an executable program. If there are errors in the code, the compiler will generate error messages and stop the translation process.
 
 * ###### **Syntax Errors**	
-	These occur when the code violates the [[Syntax]] rules of the [[programming language]]. For example, if you forget a colon at the end of an [[If Statements|if statement]] in [[Python]] or misspell a [[keyword]], you'll get a syntax error. Syntax errors are often the easiest to fix because they are underlined in red in the [[IDE (Integrated Development Environment)|IDE]] compiler usually provides specific details about what and where the problem is. Below are some examples of syntax errors.
+	These occur when the code violates the [[Syntax]] rules of the [[programming language]]. For example, if you forget a colon at the end of an [[If Statements|if statement]] in [[Python]] or misspell a [[Keyword]], you'll get a syntax error. Syntax errors are often the easiest to fix because they are underlined in red in the [[IDE (Integrated Development Environment)|IDE]] compiler usually provides specific details about what and where the problem is. Below are some examples of syntax errors.
 
 ```python
 #The string is missing a closing quotation symbol

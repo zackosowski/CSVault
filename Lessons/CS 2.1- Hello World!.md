@@ -3,7 +3,7 @@ I can explain what an integrated development environment is and why it is essent
 
 I can open and navigate the Visual Studio Code software using my understanding of its user interface.
 
-I can write a simple Python program that sends messages to the terminal.
+I can write a simple Python program that sends messages to the terminal in Python.
 
 ---
 #### Lesson
@@ -24,9 +24,10 @@ I can write a simple Python program that sends messages to the terminal.
 3. Open and setup [[Visual Studio Code|VS Code]] for python programming. 
 	* Open VS Code by searching for it on your computer
 		* Before opening, right click -> pin to taskbar
+	* Overview of [VS Code user interface](https://code.visualstudio.com/docs/getstarted/userinterface)
 	* Install Extensions:
 		* `ms-python.python`
-		* `beardedbear.beardedtheme -> Anthracite`
+		* `beardedbear.beardedtheme -> Black & *`
 		* `usernamehw.errorlens`
 		* `pkief.material-icon-theme`
 	* Change Settings
@@ -37,12 +38,17 @@ I can write a simple Python program that sends messages to the terminal.
 		* Top of screen -> Terminal -> New Terminal
 			* Drag terminal below editor
 		* Right-click status bar -> Hide Status Bar
-	* Overview of [VS Code user interface](https://code.visualstudio.com/docs/getstarted/userinterface)
+	
 4. Open a new project
 	* Open a new folder (create a new one)
 	* Create new `.py` file
 5. Hello World
-	1. 
+	* "Hello World!" vs print("Hello World!")
+	* math
+	* concatenation
 
----
-#### Assignments
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Create a program that prints your top five favorite movies. The program should be size lines total (1 for each movie and 1 for a title).
+
