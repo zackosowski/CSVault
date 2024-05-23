@@ -4,7 +4,10 @@ In computer science, a function is a reusable block of code designed to perform 
 
 ---
 #### Defining Functions
-To define a function in Python, you use the `def` keyword, followed by the function's name and parentheses. Inside the parentheses, you can include parameters, which are inputs to the function. After the parentheses, you write a colon and then indent the following lines, which contain the function's code.
+
+To define a function in [[Python]], you use the `def` [[keyword]], followed by the function's name and parentheses. Inside the parentheses, you can include parameters, which are inputs to the function. After the parentheses, you write a colon and then indent the following lines, which contain the function's code.
+
+Defining a function does not actually run it, it is just stored in into [[RAM (Random Access Memory)|memory]], sort of like a [[Variables|variable]]. The function can the be ran, or "called" at any time after its definition.
 
 Here’s a basic example of a function in Python:
 
@@ -15,7 +18,11 @@ def greet():
 
 In this example, `greet` is a function that prints "Hello, world!" when called.
 
-### Parameters
+---
+### Parameters and Arguments
+
+Lets say you had a function called `add` that's purpose is to add two numbers together. In order for the function to work properly, we first need to provide the details of *which two numbers.* Those details are called parameters, and their values are called arguments.
+
 Parameters allow functions to accept inputs, making them more flexible. You define parameters inside the parentheses in the function definition. When you call the function, you pass the corresponding arguments.
 
 Example with parameters:
@@ -25,19 +32,20 @@ def greet(name):
     print(f"Hello, {name}!")
 ```
 
-Here, the `greet` function takes one parameter, `name`. When you call `greet("Alice")`, it prints "Hello, Alice!".
+Here, the `greet` function takes one parameter, `name`. When you call `greet("Alice")`, it prints "Hello, Alice!". "Alice" being the argument.
 
-You can also define functions with multiple parameters:
+You can also define functions with multiple parameters by separating them with a comma:
 
 ```python
 def add(a, b):
-    return a + b
+    print(a + b)
 ```
 
-In this example, the `add` function takes two parameters, `a` and `b`, and returns their sum. When you call `add(3, 4)`, it returns `7`.
+In this example, the `add` function takes two parameters, `a` and `b`, and prints their sum. When you call `add(3, 4)`, it prints `7`.
 
+---
 ### Return Statement
-The `return` statement is used to send back a result from a function to its caller. This allows the function to produce output that can be used elsewhere in the program.
+The `return` [[Keyword|keyword]] is used to send back a result from a function to its caller. This allows the function to produce output that can be used elsewhere in the program.
 
 Example with a return value:
 
@@ -49,10 +57,14 @@ def square(number):
 When you call `square(5)`, the function returns `25`. You can store this returned value in a variable:
 
 ```python
+def square(number):
+    return number * number
+    
 result = square(5)
 print(result)  # Outputs: 25
 ```
 
+---
 ### Combining Parameters and Return
 Functions often use parameters and return values together to perform calculations or process data.
 
@@ -61,21 +73,15 @@ Example:
 ```python
 def calculate_area(width, height):
     return width * height
+
+area = calculate_area(5,10)
+print(area)
 ```
 
 This function calculates the area of a rectangle. You provide the width and height as arguments, and it returns the computed area. Calling `calculate_area(5, 10)` returns `50`.
 
-### Summary
-Functions are fundamental building blocks in programming. They help you organize code, make it reusable, and break down complex problems into smaller, manageable tasks. By using parameters and return values, functions can take inputs and produce outputs, enabling dynamic and versatile coding.
-
-### Key Points
-- **Definition**: Use `
-
-def` to define a function.
-- **Parameters**: Inputs to functions, defined in parentheses.
-- **Return**: Outputs from functions, sent back to the caller using `return`.
-
-### Example Functions in Python
+---
+### Python Examples
 ```python
 # Function with no parameters and no return value
 def greet():
@@ -83,7 +89,7 @@ def greet():
 
 # Function with one parameter
 def greet(name):
-    print(f"Hello, {name}!")
+    print("Hello, " + name + "!")
 
 # Function with multiple parameters and a return value
 def add(a, b):
@@ -93,11 +99,3 @@ def add(a, b):
 def calculate_area(width, height):
     return width * height
 ```
-
-By mastering functions, you'll be well-equipped to write efficient, readable, and modular code in Python and other programming languages.
-
----
-#### Parameters
-
----
-#### Return

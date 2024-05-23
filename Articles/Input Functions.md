@@ -1,6 +1,6 @@
 #article
 
-In computer science, input functions are used to gather [[data]] from users or other sources. These [[functions]] are essential because they allow programs to be interactive and responsive to user needs. Input functions can read data entered through a keyboard, a file, or other input devices.
+In computer science, input functions are used to gather [[data]] from users or other sources. These [[Functions]] are essential because they allow programs to be interactive and responsive to user needs. Input functions can read data entered through a keyboard, a file, or other input devices.
 
 ---
 #### Input Function in Python

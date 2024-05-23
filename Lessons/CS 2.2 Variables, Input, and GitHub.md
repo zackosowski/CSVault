@@ -14,7 +14,7 @@ I can consolidate my understanding of both variables and the input function to c
 	1. Students read [[Git and GitHub]] independently
 	2. Review the article
 	3. Students create a new class repository from class template
-	4. [[Setup GitHub for VS Code]]
+	4. [[Visual Studio Code#Setting up GitHub for VS Code|Setup GitHub for VS Code]]
 	5. Students pull their new repositories
 	6. Turn in top five movies from yesterday
 		* Add file to local repo
