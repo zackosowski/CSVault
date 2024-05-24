@@ -1,4 +1,3 @@
-
 #assignment
 
 The objective of this assignment is to practice using input and print functions in Python to create a Mad Lib program. Students will also gain experience in writing comments and pseudocode to improve code readability and organization.
