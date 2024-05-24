@@ -44,7 +44,7 @@ An important takeaway from this analogy is that each coin only settings into a s
   ```
   Here, if the `temperature` variable is not greater than 80, instead of doing nothing, the program will print *"It's not a hot day."*
 
-- **Else If Statement**: The else if (or *elif* in some languages) statement allows for multiple conditions to be checked in sequence. The first condition that is true will have its block of code executed. For example:
+- **Else If Statement**: The else if (or *elif* in some [[Programming Language|languages]]) statement allows for multiple conditions to be checked in sequence. The first condition that is true will have its block of code executed. For example:
   ```python
   temperature = 79
   if (temperature > 80):

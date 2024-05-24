@@ -25,11 +25,12 @@ I can consolidate my understanding of both variables and the input function to c
 		2. Warehouse analogy
 		3. Declaring variables
 		4. Reassigning variables
-3. Input
+3. Work through [[Input Functions#Input Function in Python|Python input functions]]
+	* Only the first section, save converting and exception handling for later!
 4. [[Animal Survey]] assignment
-
-
 
 
 ---
 #### Assignments
+
+[[Animal Survey]]
