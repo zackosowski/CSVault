@@ -33,3 +33,23 @@ Programmers use various tools and techniques to debug their code:
 Sometimes, finding the error in your code can be a confusing and frustrating process. When in doubt, ask yourself the "debugging golden question":
 
 *"What changed since it worked last?"*
+
+---
+#### Debugging Tool in VS Code
+
+The debugging tool in [[Visual Studio Code]] can be very powerful in revealing problems with your code. It allows you to "step through" the program line by line so you can see what each line is doing at a human speed, rather than computer speed.
+
+To use the built-in debugger, click the icon on the action bar that looks like a bug with a play button. Alternatively, you can use the shortcut `Ctrl + Shift + D`.
+
+1. Click `Run and Debug`
+2. On the dropdown that opens, click `Python Debugger`
+3. On the next dropdown, click python current file
+
+###### Breakpoints
+
+Breakpoints pause the code on a specific line, allowing you to "step through" each individual line after that. You can set breakpoints by clicking in the gutter next to the line number, or by pressing `F9` on the desired line. Once the program pauses, you have these options:
+
+- **Continue (F5)**: Resumes program execution until the next breakpoint is encountered or the program ends.
+- **Step Over (F10)**: Executes the current line of code and moves to the next line, without entering any called functions.
+- **Step Into (F11)**: Steps into the function call on the current line, allowing you to debug inside the called function.
+- **Step Out (Shift+F11)**: Completes execution of the current function and returns to the calling function, pausing at the next line of code after the call.

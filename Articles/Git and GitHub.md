@@ -7,7 +7,7 @@
 ---
 #### Repository
 
-A Repository is storage location for your project files and their version history. Repositories can be local (on your computer) or remote (on GitHub). This is essentially just a [[Computer File Systems|folder]].-
+A Repository is storage location for your project files and their version history. Repositories can be local (on your computer) or remote (on GitHub). A repository is essentially just a [[Computer File Systems|folder]].
 
 ---
 #### Commands
@@ -24,3 +24,30 @@ A Repository is storage location for your project files and their version histor
 - **Version Control:** Easily track and revert changes to your code.
 - **Backup:** Your code is safely stored and can be accessed from anywhere.
 - **Community:** GitHub is a vast community where developers share and contribute to open-source projects.
+
+---
+#### Creating a GitHub Account
+
+1. Open [GitHub]([GitHub](https://github.com/))
+1. Click "Sign up for GitHub"
+2. Enter your email
+	* Use personal email if you think you will use this account in the future
+	* Use school email if you want to keep your school work separate
+	1.  Enter a password
+	2. Enter a username
+		* Recommended: `FirstnameLastnameGRADYEAR`
+		* Example: `ZackOsowski26`
+	3. Do not check email preferences
+	4. Complete human verification puzzle
+	5. Check your email for confirmation code
+	6. Login to your new account!
+	7. Fill out the survey:
+		1. -> 20-50
+		2. -> Student
+		3. -> Continue without selecting interests
+		4. -> "Continue for free"
+
+---
+#### Setup
+
+[[Visual Studio Code#Setting up GitHub for VS Code|Setting up git for VS Code]]

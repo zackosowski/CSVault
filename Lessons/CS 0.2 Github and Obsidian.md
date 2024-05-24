@@ -11,23 +11,7 @@ I can navigate the Obsidian software to access course resources.
 #### Lesson
 
 1. All students create a [GitHub](https://github.com/) account
-	1. Click "Sign up for GitHub"
-	2. Enter your email
-		* Use personal email if you think you will use this account in the future
-		* Use school email if you want to keep your school work separate
-	3.  Enter a password
-	4. Enter a username
-		* Recommended: `FirstnameLastnameGRADYEAR`
-		* Example: `ZackOsowski26`
-	5. Do not check email preferences
-	6. Complete human verification puzzle
-	7. Check your email for confirmation code
-	8. Login to your new account!
-	9. Fill out the survey:
-		1. -> 20-50
-		2. -> Student
-		3. -> Continue without selecting interests
-		4. -> "Continue for free"
+	* Work through [[Git and GitHub#Creating a GitHub Account|Creating a GitHub Account]]
 2. Work through [[Version Control.pdf]] as a class
 3. Students setup Obsidian for the first time
 	1. Open Obsidian
@@ -49,8 +33,8 @@ I can navigate the Obsidian software to access course resources.
 		8. -> Install
 		9. -> Enable
 		10. Close Obsidian and reopen
-5. Students clone the [Computer Science repository](https://github.com/zackosowski/ComputerScience)
-	1. Go to the class [Computer Science repository](https://github.com/zackosowski/ComputerScience)
+5. Students clone the obsidian repo
+	1. Go to the [CSVault Repository](https://github.com/zackosowski/ComputerScience)
 	2. Click on the green <span style="border-radius:5px; background-color: #238636; padding-left:10px; padding-right: 10px; font-weight: 500 ">Code</span> button
 	3. Click the button with two overlapping squares to copy the URL
 	4. Open Obsidian
