@@ -9,9 +9,9 @@ I can differentiate and convert between data types in python.
 #### Lesson
 
 1. Work through [[Comments]]
-2. Work through [[Pseudocode]]
-3. Work through [[Data Types]]
-4. Students complete [[Mad Lib 1]] assignment independently
+	* Students write comments for their animal survey assignment
+2. Work through [[Data Types]]
+3. Students complete [[Mad Lib 1]] assignment independently
 
 ---
 #### Assignments

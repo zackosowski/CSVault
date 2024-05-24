@@ -18,7 +18,7 @@ These statements tell functions to run, which perform specific tasks
 * `print(x)
 * `input("What is the password?)`
 * `cities.append("Minneapolis)`
-* 
+
 ###### Mathematical Expressions
 These statements perform calculations
 * `y = x + 2` 

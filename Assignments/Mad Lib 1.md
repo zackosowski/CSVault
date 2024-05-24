@@ -48,6 +48,6 @@ Save the file as `MadLib1.py` in your unit 2 assignments folder.
 [[Input Functions]]
 [[Comments]]
 [[Pseudocode]]
-[[Concatentation]]
+[[Concatenation]]
 
 

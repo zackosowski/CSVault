@@ -27,7 +27,8 @@ I can consolidate my understanding of both variables and the input function to c
 		4. Reassigning variables
 3. Work through [[Input Functions#Input Function in Python|Python input functions]]
 	* Only the first section, save converting and exception handling for later!
-4. [[Animal Survey]] assignment
+4. Work through [[Concatenation|concatenation]]
+1. [[Animal Survey]] assignment
 
 
 ---

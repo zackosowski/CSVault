@@ -28,10 +28,11 @@ I can write a simple Python program that sends messages to the terminal in Pytho
 	1. Open a new folder (create a new one)
 	2. Create new `.py` file
 5. Hello World
-	1. Go through [[Print Functions]]
-	2. "Hello World!" vs print("Hello World!")
-	3. math
-	4. concatenation
+	1. Go through [[Statements]]
+	2. Go through [[Print Functions]]
+	3. "Hello World!" vs print("Hello World!")
+	4. math
+	5. concatenation
 
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
