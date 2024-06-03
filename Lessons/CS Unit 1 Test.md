@@ -1,7 +1,17 @@
-The unit 1 test consists of ?? multiple choice questions. You will have the entire hour to complete the assignment. You must use your chromebook and cannot use any outside materials.
+#test
+
+The unit 1 test consists of multiple choice and true/false questions. You will have the entire hour to complete the assignment. You must use your Chromebook and cannot use any outside materials.
 
 List of items you may NOT use:
-* 
+* Internet
+* Obsidian
+* Notecards
+* Your friends
+* Literally anything
+
+List of items you may use:
+* Chromebook
+* Your brain
 
 ---
 #### Included Topics

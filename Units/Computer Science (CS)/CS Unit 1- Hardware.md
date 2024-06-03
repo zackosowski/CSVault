@@ -1,6 +1,6 @@
 #unit
 
-Students will explore the foundational aspects of how computers work. The journey begins with understanding binary and character mapping, the essential building blocks of digital data representation. We will delve into the inner workings of computer hardware, including transistors, CPUs, RAM, SSDs, HDDs, and other permanent storage devices like flash memory. Key components such as the motherboard and power supply will be examined to understand their roles in a computer system. The unit will also cover how data is processed and stored, providing insights into computer file systems and operating systems. Additionally, students will learn about the principles of computing, algorithms, and sorting algorithms, and will practice writing pseudocode to develop a strong grasp of problem-solving and logical thinking skills essential in computer science.
+Students will explore the foundational aspects of how computers work. The journey begins with understanding [[binary]] and [[character mapping]], the essential building blocks of digital [[data]] representation. We will delve into the inner workings of [[computer hardware]], including [[transistors]], [[CPU  (Central Processing Unit)|CPUs]], [[RAM (Random Access Memory)|RAM]], [[SSD (Solid State Drive)|SSDs]], [[HDD (Hard Disk Drive)|HDDs]], and other [[Permanent Storage Device|permanent storage devices]] like [[flash memory]]. Key components such as the [[motherboard]] and [[power supply]] will be examined to understand their roles in a [[Computers and Computing|computer system]]. The unit will also cover how data is processed and stored, providing insights into computer file systems and operating systems. Additionally, students will learn about the principles of computing, algorithms, and sorting algorithms, and will practice writing pseudocode to develop a strong grasp of problem-solving and logical thinking skills essential in computer science.
 
 ---
 #### Lessons
@@ -46,4 +46,6 @@ Students will explore the foundational aspects of how computers work. The journe
 		- [[Pseudocode]]
 	**Assignments**
 		- [[PB & J]]
+
+[[CS Unit 1 Test]]
 

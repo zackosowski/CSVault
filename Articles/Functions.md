@@ -43,8 +43,17 @@ def add(a, b):
 
 In this example, the `add` function takes two parameters, `a` and `b`, and prints their sum. When you call `add(3, 4)`, it prints `7`.
 
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Create a function called `calculate_tax` that prints the amount of tax to be collected on an item. The function should take three parameters called `item`, `price`, and `rate`.
+* `item` is the name of the item as a [[String]]
+* `price` is the cost of the item in dollars, represented as a [[Float]]
+* `rate` is the tax rate of the item. *Minnesota's sales tax rate is 6.875%*
+
 ---
 ### Return Statement
+
 The `return` [[Keyword|keyword]] is used to send back a result from a function to its caller. This allows the function to produce output that can be used elsewhere in the program.
 
 Example with a return value:
@@ -64,21 +73,6 @@ result = square(5)
 print(result)  # Outputs: 25
 ```
 
----
-### Combining Parameters and Return
-Functions often use parameters and return values together to perform calculations or process data.
-
-Example:
-
-```python
-def calculate_area(width, height):
-    return width * height
-
-area = calculate_area(5,10)
-print(area)
-```
-
-This function calculates the area of a rectangle. You provide the width and height as arguments, and it returns the computed area. Calling `calculate_area(5, 10)` returns `50`.
 
 ---
 ### Python Examples

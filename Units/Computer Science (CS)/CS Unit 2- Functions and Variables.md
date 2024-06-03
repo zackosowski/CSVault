@@ -1,6 +1,7 @@
 #unit
 
 #### Overview
+Students will start to write their own code after learning about basic [[functions]] and [[variables]]. Students will learn to navigate and operate the [[Visual Studio Code]] interface to write their programs. Students will apply their knowledge to write simple programs that achieve specific tasks.
 
 ---
 #### Lessons
@@ -27,4 +28,13 @@
 		[[Comments]]
 		[[Data Types]]
 	**Assignments**
-		[[Mad Lib 1]]	
+		[[Simple Mad Lib]]
+
+[[CS 2.4 Functions]]
+	**Articles**
+		[[Functions]]
+		[[Operators#Arithmetic Operators]]
+	**Assignments**
+		[[Simple Calculator]]	
+
+[[CS Unit 2 Test]]
