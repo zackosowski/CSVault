@@ -85,3 +85,12 @@ print(f"{name:<10} {age:>5}")
 In this example, `<10` left-aligns the name within 10 characters, and `>5` right-aligns the age within 5 characters.
 
 
+```python
+def myClass():
+	text = "yo"
+
+this = myClass()
+
+```
+
+
