@@ -20,15 +20,16 @@ I can consolidate my understanding of both variables and the input function to c
 		* Add file to local repo
 		* Commit + Push
 2.  Variables
-	1. Work through [[Variables]] as a class
+	1. Work through [[Variables]] as a class (stop at local and global variables)
 		1. What are variables
 		2. Warehouse analogy
 		3. Declaring variables
 		4. Reassigning variables
+	2. Students read [[Naming Conventions]]
 3. Work through [[Input Functions#Input Function in Python|Python input functions]]
 	* Only the first section, save converting and exception handling for later!
 4. Work through [[Concatenation|concatenation]]
-1. [[Animal Survey]] assignment
+5. [[Animal Survey]] assignment
 
 
 ---

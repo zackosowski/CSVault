@@ -37,7 +37,7 @@ Python supports various [[Data#Data Types|data types]], including:
 ---
 #### Control Structures
 
-Python includes standard control structures like [[Loops]] and [[Conditional Statements]]. Here’s an example of an [[If Statements|if statement]]:
+Python includes standard control structures like [[Loop Statements|loops]] and [[Conditional Statements]]. Here’s an example of an [[If Statements|if statement]]:
 
 ```python
 x = 10
@@ -81,5 +81,3 @@ print(result)  # Output: 7
 * **[Eve Online](https://www.eveonline.com/)**: This massive multiplayer online role-playing game (MMORPG) uses Python for various parts of its backend.
 * **[World of Tanks](https://worldoftanks.com/)**: A popular multiplayer online game that uses Python for some parts of its server-side and gameplay logic.
 
----
-#### Related Articles

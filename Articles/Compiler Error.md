@@ -1,6 +1,6 @@
 #article 
 
-Compiler [[Errors|errors]] are mistakes in a program's source code that prevent it from being successfully [[Compiler|compiled]] into an executable program. When a programmer writes code, they usually write it in a high-level [[programming language]] like [[Python]], Java, or C++. A [[Compiler|compiler]] is a tool that translates this high-level code into [[machine code]] that a [[Computers and Computing|computer]] can understand. If there are errors in the code, the compiler will generate error messages and stop the translation process.
+Compiler [[Errors|errors]] are mistakes in a program's source code that prevent it from being successfully [[Compiler|compiled]] into an executable program. When a programmer writes code, they usually write it in a high-level [[Programming Language]] like [[Python]], Java, or C++. A [[Compiler|compiler]] is a tool that translates this high-level code into [[machine code]] that a [[Computers and Computing|computer]] can understand. If there are errors in the code, the compiler will generate error messages and stop the translation process.
 
 ---
 #### Types of Compiler Errors
