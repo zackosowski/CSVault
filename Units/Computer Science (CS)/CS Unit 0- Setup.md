@@ -7,5 +7,5 @@ Unit zero is not actually a unit. It represents the introduction and setup for t
 ---
 #### Lessons
 
-[[CS 0.1 Welcome to Computer Science!]]
-[[CS 0.2 GitHub and Obsidian]]
+[[CS 0.1 - Welcome to Computer Science!]]
+[[CS 0.2 - Github and Obsidian]]

@@ -24,6 +24,3 @@
 
 Groups of 4-5 take turns drawing a [[Ice Breaker Cards.pdf|card]] and answering the questions on the card until they are all gone. Students keep all of the cards they draw. When finished, students introduce themselves to the entire class by selecting one card from their collection.
 
-
----
-#### Assignments

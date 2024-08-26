@@ -6,7 +6,7 @@ Students will start to write their own code after learning about basic [[functio
 ---
 #### Lessons
 
-[[CS 2.1- Hello World!]]
+[[CS 2.1 - Hello World!]]
 	**Articles**
 		[[IDE (Integrated Development Environment)]]
 		[[Visual Studio Code]]
@@ -14,7 +14,7 @@ Students will start to write their own code after learning about basic [[functio
 		[[Statements]]
 		[[Print Functions]]
 		
-[[CS 2.2 Variables, Input, and GitHub]]
+[[CS 2.2 - Variables, Input, and GitHub]]
 	**Articles**
 		[[Git and GitHub]]
 		[[Variables]]
@@ -23,14 +23,14 @@ Students will start to write their own code after learning about basic [[functio
 	**Assignments**
 		[[Animal Survey]]
 
-[[CS 2.3 Data Types]]
+[[CS 2.3 - Data Types]]
 	**Articles**
 		[[Comments]]
 		[[Data Types]]
 	**Assignments**
 		[[Simple Mad Lib]]
 
-[[CS 2.4 Functions]]
+[[CS 2.4 - Functions]]
 	**Articles**
 		[[Functions]]
 		[[Operators#Arithmetic Operators]]
