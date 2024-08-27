@@ -4,13 +4,14 @@
 This resource is currently under construction. Here is a rough timeline of course completions:
 
 * Computer Science- Sept 2024
-* Robotics I- Dec 2024
+* Robotics 101- Dec 2024
 * Web Design- Dec 2024
 * Video Game Design- March 2025
 * Foundations of Computer Science- Sept 2025
+* Combat Robotics- Sept 2025
 * AP Computer Science A- Dec 2025
-* AI Essentials- May 2026
-* Robotics II- Sept 2026
+* Networking & Cybersecurity- March 2026
+* AI Essentials- Sept 2026
 
 Welcome to Mr. Osowski's Computer Science Program! This resource is designed to be used as a curriculum tool while taking my classes, but can also be used as a self-guided learning experience.
 
@@ -25,11 +26,7 @@ Hi, I'm Mr. Osowski. I am high school computer science teacher at St. Michael-Al
 This resource is designed to be used with [Obsidian](https://obsidian.md/), a markdown based "notes" application. Simply [download](https://obsidian.md/download) and install Obsidian on your computer, install and enable the git plugin, and clone this project.
 
 Once setup, you can get started by selecting your course:
-[[AI Essentials (AI)]]
-[[AP Computer Science (APCS)]]
 [[Computer Science (CS)]]
-[[Foundations of Computer Science (FCS)]]
 [[Robotics 101 (R101)]]
-[[Combat Robotics (CR)]]
 [[Video Game Design (VGD)]]
 [[Web Design (WD)]]
