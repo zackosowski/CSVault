@@ -11,8 +11,8 @@ I can navigate the Obsidian software to access course resources.
 #### Lesson
 
 1. All students create a [GitHub](https://github.com/) account
-	* Work through [[Git and GitHub#Creating a GitHub Account|Creating a GitHub Account]]
-2. Work through [[Version Control.pdf]] as a class
+	* Work through [[Git and GitHub#Creating a GitHub Account|Creating a GitHub Account]]</br></br>
+2. Work through [[Version Control.pdf]] as a class</br></br>
 3. Students setup Obsidian for the first time
 	1. Open Obsidian
 	2.  -> Create a new Vault
@@ -20,7 +20,7 @@ I can navigate the Obsidian software to access course resources.
 	3. Name the vault "Computer Science" (this isn't important)
 	4. For location, choose documents folder
 	5. -> Create
-	6. Students get a general overview of the software
+	6. Students get a general overview of the software</br></br>
 4. Install Obsidian plugins
 	1. Install the git plugin for Obsidian
 		1. -> Settings wheel (bottom-left)
@@ -32,7 +32,7 @@ I can navigate the Obsidian software to access course resources.
 		7. Search for "Execute Code" and select the git plugin
 		8. -> Install
 		9. -> Enable
-		10. Close Obsidian and reopen
+		10. Close Obsidian and reopen</br></br>
 5. Students clone the obsidian repo
 	1. Go to the [CSVault Repository](https://github.com/zackosowski/ComputerScience)
 	2. Click on the green <span style="border-radius:5px; background-color: #238636; padding-left:10px; padding-right: 10px; font-weight: 500 ">Code</span> button
@@ -42,17 +42,17 @@ I can navigate the Obsidian software to access course resources.
 	6. Search for and click "Git: Clone an existing remote repo"
 	7. Press `ctrl+v` to paste the repository URL you just copied and press enter
 	8. Type "Computer Science" and press enter
-	9. Press enter one more time
+	9. Press enter one more time</br></br>
 6. Overview of the repo
 	* "This is your textbook"
 	* The repo is editable, be careful
 	* Folders
 	* Search function
-	* Linking
+	* Linking</br></br>
 7. How to get new updates to the repo
 	1. In Obsidian, press `ctrl+p` to bring up the command palette
 	2. Search for and click "Git: Open source control view"
-	3. Press the down arrow icon in the source control view
+	3. Press the down arrow icon in the source control view</br></br>
 
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
@@ -66,7 +66,4 @@ Navigate the repository to find the answers to these questions:
 4. What is the 4th unit of this class?
 5. What are ATX, Micro ATX, and Mini ITX?
 6. How many bits are in a byte?
-
----
-#### Assignments
 

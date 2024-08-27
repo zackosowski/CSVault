@@ -38,7 +38,7 @@ Make it fun by getting creative with your story!
 ---
 #### How to Submit
 
-Save the file as `MadLib1.py` in your unit 2 assignments folder.
+Save the file as `SimpleMadLib.py` in your assignments folder and push your code to your GitHub repository.
 
 ---
 #### Helpful Articles

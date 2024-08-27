@@ -7,22 +7,25 @@
 ---
 #### Repository
 
-A Repository is storage location for your project files and their version history. Repositories can be local (on your computer) or remote (on GitHub). A repository is essentially just a [[Computer File Systems|folder]].
+A Repository is storage location for your project files and their version history. Repositories can be local (on your computer) or remote (on GitHub). A repository is essentially just a [[Computer File Systems#Components of a File System|folder]].
 
 ---
 #### Commands
 
-- **Clone:** Creating a copy of a remote repository on your local computer. This allows you to work on the project offline.
-- **Pull:** Downloading changes from a remote repository to your local repository. This ensures your local copy is up to date with the remote version.
-- **Commit:** A snapshot of your project's files at a specific point in time. Each commit has a unique ID and usually includes a message describing the changes.
+- **Clone:** Creating a copy of a remote repository on your local computer. This allows you to work on the project offline.</br></br>
+
+- **Pull:** Downloading changes from a remote repository to your local repository. This ensures your local copy is up to date with the remote version.</br></br>
+
+- **Commit:** A snapshot of your project's files at a specific point in time. Each commit has a unique ID and usually includes a message describing the changes.</br></br>
+
 - **Push:** Uploading your local changes to a remote repository. This updates the remote repository with your latest commits.
 
 ---
 ### Why Use Git and GitHub?
 
-- **Collaboration:** Multiple developers can work on a project simultaneously without conflicts.
-- **Version Control:** Easily track and revert changes to your code.
-- **Backup:** Your code is safely stored and can be accessed from anywhere.
+- **Collaboration:** Multiple developers can work on a project simultaneously without conflicts.</br></br>
+- **Version Control:** Easily track and revert changes to your code.</br></br>
+- **Backup:** Your code is safely stored and can be accessed from anywhere.</br></br>
 - **Community:** GitHub is a vast community where developers share and contribute to open-source projects.
 
 ---
@@ -31,9 +34,9 @@ A Repository is storage location for your project files and their version histor
 1. Open [GitHub]([GitHub](https://github.com/))
 1. Click "Sign up for GitHub"
 2. Enter your email
-	* Use personal email if you think you will use this account in the future
-	* Use school email if you want to keep your school work separate
-	1.  Enter a password
+	* <i>Use personal email if you think you will use this account in the future</i>
+	* <i>Use school email if you want to keep your school work separate</i>
+	1.  Enter a password (one you will remember...)
 	2. Enter a username
 		* Recommended: `FirstnameLastnameGRADYEAR`
 		* Example: `ZackOsowski26`

@@ -18,18 +18,18 @@ I can consolidate my understanding of both variables and the input function to c
 	5. Students pull their new repositories
 	6. Turn in top five movies from yesterday
 		* Add file to local repo
-		* Commit + Push
+		* Commit + Push</br></br>
 2.  Variables
 	1. Work through [[Variables]] as a class (stop at local and global variables)
 		1. What are variables
 		2. Warehouse analogy
 		3. Declaring variables
 		4. Reassigning variables
-	2. Students read [[Naming Conventions]]
+	2. Students read [[Naming Conventions]]</br></br>
 3. Work through [[Input Functions#Input Function in Python|Python input functions]]
-	* Only the first section, save converting and exception handling for later!
-4. Work through [[Concatenation|concatenation]]
-5. [[Animal Survey]] assignment
+	* Only the first section, save converting and exception handling for later!</br></br>
+4. Work through [[Concatenation#String Concatenation|string concatenation]]</br></br>
+5. Start [[Animal Survey]] assignment
 
 
 ---

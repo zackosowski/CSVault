@@ -47,7 +47,7 @@ Use variables and concatenation to write the final summary. Here is an example s
 ---
 #### How to Submit
 
-Push your code out to your GitHub repository.
+Save the file as `AnimalSurvey.py` in your assignments folder and push your code to your GitHub repository.
 
 ---
 #### Helpful Articles

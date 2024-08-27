@@ -43,6 +43,11 @@ Be sure to follow all naming conventions
 Test your code as you go to make sure it is working how you expect it to
 
 ---
+#### How to Submit
+
+Save the file as `SimpleCalculator.py` in your assignments folder and push your code to your GitHub repository.
+
+---
 #### Helpful Articles
 
 [[Functions]]

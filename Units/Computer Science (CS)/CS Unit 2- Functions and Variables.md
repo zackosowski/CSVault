@@ -6,35 +6,35 @@ Students will start to write their own code after learning about basic [[functio
 ---
 #### Lessons
 
-[[CS 2.1 - Hello World!]]
-	**Articles**
-		[[IDE (Integrated Development Environment)]]
-		[[Visual Studio Code]]
-		[[Terminal]]
-		[[Statements]]
-		[[Print Functions]]
+* [[CS 2.1 - Hello World!]]
+	* **Articles**
+	* [[IDE (Integrated Development Environment)]]
+	* [[Visual Studio Code]]
+	* [[Terminal]]
+	* [[Statements]]
+	* [[Print Functions]]</br></br>
 		
-[[CS 2.2 - Variables, Input, and GitHub]]
-	**Articles**
-		[[Git and GitHub]]
-		[[Variables]]
-		[[Concatenation]]
-		[[Input Functions]]
-	**Assignments**
-		[[Animal Survey]]
+* [[CS 2.2 - Variables, Input, and GitHub]]
+	* **Articles**
+		* [[Git and GitHub]]
+		* [[Variables]]
+		* [[Concatenation]]
+		* [[Input Functions]]
+	* **Assignments**
+		* [[Animal Survey]]</br></br>
 
-[[CS 2.3 - Data Types]]
-	**Articles**
-		[[Comments]]
-		[[Data Types]]
-	**Assignments**
-		[[Simple Mad Lib]]
+* [[CS 2.3 - Data Types]]
+	* **Articles**
+		* [[Comments]]
+		* [[Data Types]]
+	* **Assignments**
+		* [[Simple Mad Lib]]</br></br>
 
-[[CS 2.4 - Functions]]
-	**Articles**
-		[[Functions]]
-		[[Operators#Arithmetic Operators]]
-	**Assignments**
-		[[Simple Calculator]]	
+* [[CS 2.4 - Functions]]
+	* **Articles**
+		* [[Functions]]
+		* [[Operators#Arithmetic Operators|Arithmetic Operators]]
+	* **Assignments**
+		* [[Simple Calculator]]	
 
 [[CS Unit 2 Test]]
