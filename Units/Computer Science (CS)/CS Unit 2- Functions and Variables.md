@@ -35,6 +35,8 @@ Students will start to write their own code after learning about basic [[functio
 		* [[Functions]]
 		* [[Operators#Arithmetic Operators|Arithmetic Operators]]
 	* **Assignments**
-		* [[Simple Calculator]]	
+		* [[Simple Calculator]]</br></br>
+
+* [[CS 2.5 - Scope]]
 
 [[CS Unit 2 Test]]

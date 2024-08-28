@@ -28,7 +28,3 @@ I can create a simple calculator using my knowledge of functions, variables, dat
 4. Students complete [[Simple Calculator]] assignment
 	1. Briefly introduce arithmetic operators
 	2. Student read [[Operators#Arithmetic Operators|Arithmetic Operators]] on their own
----
-#### Assignments
-
-[[Simple Calculator]]

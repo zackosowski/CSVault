@@ -5,19 +5,22 @@ In computer science, an operator is a symbol or [[Functions|function]] that tell
 ---
 #### Arithmetic Operators
 
+An arithmetic operator is a symbol used to perform basic mathematical operations on numerical values.
+
    - **Addition (+)**: Adds two operands. For example, `5 + 3` results in `8`.
    - **Subtraction (-)**: Subtracts the second operand from the first. For example, `5 - 3` results in `2`.
    - **Multiplication (*)**: Multiplies two operands. For example, `5 * 3` results in `15`.
    - **Division (/)**: Divides the first operand by the second. For example, `5 / 3` results in approximately `1.67`.
    - **Modulus (%)**: Returns the remainder of the division of two operands. For example, `5 % 3` results in `2`.
-   - Exponentiation (**): Raises the first value to the power of the second. For instance, `10 ** 2` equals 100.
+   - **Exponentiation (∗∗)**: Raises the first value to the power of the second. For instance, `10 ** 2` equals 100.
    - **Floor Division (//)**: Divides and rounds down to the nearest integer. For example, `10 // 3` gives 3.
 
 ---
-#### Relational Operators
+#### Comparison Operators
 
-   - **Equal to (==)**: Checks if two operands are equal. For example, `5 == 3` results in `false`.==
-   - **Not equal to (!=)**: Checks if two operands are not equal. For example, `5 != 3` results in `true`.
+A comparison operator is a symbol used to compare two values (no way), returning a [[Boolean Expression (Condition)|Boolean]] result (`True` or `False`) based on whether the specified condition is met.
+
+   - **Equal to (==)**: Checks if two operands are equal. For example, `5 == 3` results in `false`.
    - **Greater than (>)**: Checks if the first operand is greater than the second. For example, `5 > 3` results in `true`.
    - **Less than (<)**: Checks if the first operand is less than the second. For example, `5 < 3` results in `false`.
    - **Greater than or equal to (>=)**: Checks if the first operand is greater than or equal to the second. For example, `5 >= 3` results in `true`.
@@ -26,12 +29,18 @@ In computer science, an operator is a symbol or [[Functions|function]] that tell
 ---
 #### Logical Operators
 
+A logical operator is a symbol or [[keyword]] used to **COMBINE** or **INVERT** [[Boolean Expression (Condition)|Boolean expressions]], returning a Boolean result (`True` or `False`) based on the logical relationship between the expressions.
+
    - **AND (&&)**: Returns true if both operands are true. For example, `true && false` results in `false`.
    - **OR (||)**: Returns true if at least one of the operands is true. For example, `true || false` results in `true`.
    - **NOT (!) **: Reverses the logical state of its operand. For example, `!true` results in `false`.
 
+<span style="position: relative; font-weight: 700;background-color: #C80000; border-bottom: 2px solid #C80000;padding-top:1px; padding-bottom:1px;  padding-left: 11px; padding-right: 7px;border-top: 2px solid #C80000; border-radius:10px 0px 0px 10px;">!</span><span style= "background-color: #520000; margin-left:-14px;padding:3px;padding-left:14px; padding-right:10px;border-right:3px solid #C80000"> Example: "4 > 3 and 2" is an error. Use "4 > 3 and 4 > 2" instead.</span>
+
 ---
 #### Bitwise Operators
+
+A bitwise operator is a symbol used to perform operations directly on the individual [[Binary#Units of Memory|bits]] of [[binary]] numbers, manipulating data at the binary level.
 
    - **AND (&)**: Performs a bitwise AND operation. For example, `5 & 3` results in `1`.
    - **OR (|)**: Performs a bitwise OR operation. For example, `5 | 3` results in `7`.
@@ -42,6 +51,8 @@ In computer science, an operator is a symbol or [[Functions|function]] that tell
 
 ---
 #### Assignment Operators
+
+An assignment operator is a symbol used to assign a value to a [[Variables|variable]], with the most common operator being `=`, and other variations for performing arithmetic operations while assigning a result at the same time. These are great shorthand ways to do math on a variable.
 
    - **Assignment (=)**: Assigns the value of the right operand to the left operand. For example, `x = 5`.
    - **Add and assign (+=)**: Adds the right operand to the left operand and assigns the result to the left operand. For example, `x += 5` is equivalent to `x = x + 5`.
@@ -70,7 +81,7 @@ An operand is a value or [[data]] that an operator acts upon. Operands can be co
     - **AND**: In `result = x && y`, `x` and `y` are operands of the logical AND operator `&&`.
     - **OR**: In `result = x || y`, `x` and `y` are operands of the logical OR operator `||`.
 
-3. **Relational Operations**:
+3. **Comparison Operations**:
     - **Greater than**: In `isGreater = a > b`, `a` and `b` are operands of the greater-than operator `>`.
     - **Equal to**: In `isEqual = a == b`, `a` and `b` are operands of the equality operator `==`.
 
