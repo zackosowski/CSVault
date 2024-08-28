@@ -25,6 +25,8 @@ I can create a simple calculator using my knowledge of functions, variables, dat
 	1. Introduce return statements
 	2. Read through section
 	3. Convert calculate tax activity to return instead of print</br></br>
-4. Students complete [[Simple Calculator]] assignment
+4. Students read through [[Scope]] independently
+	1. Review as a class
+5. Students complete [[Simple Calculator]] assignment
 	1. Briefly introduce arithmetic operators
 	2. Student read [[Operators#Arithmetic Operators|Arithmetic Operators]] on their own

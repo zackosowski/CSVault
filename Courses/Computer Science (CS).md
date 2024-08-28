@@ -27,7 +27,7 @@ An introduction to computer science using a [[Programming Language]] called [[Py
 	- [[CS 2.1 - Hello World!]]
 	- [[CS 2.2 - Variables, Input, and GitHub]]
 	- [[CS 2.3 - Data Types]]
-	- [[CS 2.4 - Functions]]</br></br>
+	- [[CS 2.4 - Functions & Scope]]</br></br>
 
 3. [[CS Unit 3- Conditionals and Exceptions]]
 4. [[CS Unit 4- Loops]]

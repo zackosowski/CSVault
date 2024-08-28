@@ -18,7 +18,7 @@ Different programming languages have their own set of keywords. Here are all of 
 - **[[Functions]] and [[Classes and Objects|Classes]]:** `def`, `return`, `lambda`, `class`
 - **[[Importing|Imports]]:** `import`, `from`, `as`
 - **[[Operators|Logical Operators]]**: `and`, `or`, `not`, `is`, `in`
-- **Variable [[Scope]]:** `global`, `nonlocal`
+- **Variable [[Scope 1]]:** `global`, `nonlocal`
 - **Context Management:** `with`, `del`
 
 ---

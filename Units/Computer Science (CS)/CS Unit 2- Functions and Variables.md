@@ -30,7 +30,7 @@ Students will start to write their own code after learning about basic [[functio
 	* **Assignments**
 		* [[Simple Mad Lib]]</br></br>
 
-* [[CS 2.4 - Functions]]
+* [[CS 2.4 - Functions & Scope]]
 	* **Articles**
 		* [[Functions]]
 		* [[Operators#Arithmetic Operators|Arithmetic Operators]]
