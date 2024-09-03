@@ -2,7 +2,7 @@
 
 #### Targets
 
-* I can give a general overview of what the class "Computer Science" is including units, expectations, and policies.
+* I can give a general overview of what the course "Computer Science" is including units, expectations, and policies.
 * I can name some of the other students in the class.
 
 ---
@@ -11,14 +11,15 @@
 1. Welcome to Computer Science
 	* Who is Mr. Osowski?
 	* Overview of the Computer Science Program
-	* Introduce "getting to know you" activity
+	* Introduce "getting to know you" activity<br><br>
 2. Syllabus
 	* Class overview
 	* Grading
 	* Expectations
 	* Policies
-	* Comments, questions, concerns
-3. "Getting to know you" activity
+	* Comments, questions, concerns<br><br>
+3. "Getting to know you" activity<br><br>
+
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
