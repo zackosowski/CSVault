@@ -19,16 +19,17 @@ I can navigate the Obsidian software to access course resources.
 	1. Install the git plugin for Obsidian
 		1. -> Settings wheel (bottom-left)
 		2. -> Community Plugins
-		3. ->Browse
-		4.  Search for "git" and select the git plugin
-		5. -> Install
-		6. -> Enable 
-		7. Search for "Execute Code" and select the git plugin
-		8. -> Install
-		9. -> Enable
-		10. Close Obsidian and reopen<br><br>
+		3. -> Enable Community Plugins
+		4. ->Browse
+		5.  Search for "git" and select the git plugin
+		6. -> Install
+		7. -> Enable 
+		8. Search for "Execute Code" and select the git plugin
+		9. -> Install
+		10. -> Enable
+		11. Close Obsidian and reopen<br><br>
 3. Students clone the obsidian repo
-	1. Go to the [CSVault Repository](https://github.com/zackosowski/ComputerScience)
+	1. Go to the [CSVault Repository](https://github.com/zackosowski/CSVault.git)
 	2. Click on the green <span style="border-radius:5px; background-color: #238636; padding-left:10px; padding-right: 10px; font-weight: 500 ">Code</span> button
 	3. Click the button with two overlapping squares to copy the URL
 	4. Open Obsidian
