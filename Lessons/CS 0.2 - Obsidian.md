@@ -1,10 +1,6 @@
 #lesson
 
 #### Targets
-I can create and log in to my [[Git and GitHub]] account.
-
-I can use GitHub commands to clone, pull, and push updates to a repository.
-
 I can navigate the Obsidian software to access course resources.
 
 ---
