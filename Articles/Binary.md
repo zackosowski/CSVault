@@ -33,7 +33,7 @@ Numeral systems are writing systems for expressing numbers. Everyday, you use a 
 * The rightmost column is the 1s column
 * The middle, the 10s
 * the leftmost, the 100s
-* Thus we have (100 x 1) + (10 x 2) + (1 x 3) = (100 + 20 + 5) = 125
+* Thus we have (100 x 1) + (10 x 2) + (1 x 5) = (100 + 20 + 5) = 125
 
 ---
 #### Binary System

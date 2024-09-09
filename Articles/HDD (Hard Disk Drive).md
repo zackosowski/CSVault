@@ -40,11 +40,6 @@ You can imagine before SSDs, hard drives were a major headache in laptops, which
 **<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">QUESTIONS</span>**
 
 <details>
-	<summary>How does the process of storing data on a hard drive differ from simply writing information on a piece of paper?</summary>
-		<p style="font-style: italic">Data is encoded onto a hard drive as 1's and 0s. Writing onto a piece of paper allows you to use any symbol or sketch.</p>
-</details>
-</br>
-<details>
 	<summary>Why do you think have hard drives experienced a decline in usage over the last decade despite being the go-to storage solution for many years?</summary>
 		<p style="font-style: italic">Hard drives are fragile and our experience with computers is becoming more and more mobile.</p>
 </details>

@@ -10,7 +10,7 @@ Students will explore the foundational aspects of how computers work. The journe
 	* **Articles**
 		* [[Binary]]
 		* [[Character Mapping]]
-		* [[Transistors]]</br></br>
+		* [[Transistors]]<br><br>
 
 * [[CS 1.2 - Components of a Computer]]
 	* **Articles**

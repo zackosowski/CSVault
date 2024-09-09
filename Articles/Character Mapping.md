@@ -1,6 +1,6 @@
 #article 
 
-Character mapping involves translating numerical codes or symbols into characters for storage and processing purposes. Your computer references tables of numerical values todo this translation. These tables are the "maps". There are various character mapping systems that are used for a variety of different situations. For example, A character mapping system that you have probably heard of before is Morse Code. Although Morse Code is still used by air and sea operators, it is not used in computer science.
+Character mapping involves translating numerical codes or symbols into characters for storage and processing purposes. Your computer references tables of numerical values to do this translation. These tables are the "maps". There are various character mapping systems that are used for a variety of different situations. For example, A character mapping system that you have probably heard of before is Morse Code. Although Morse Code is still used by air and sea operators, it is not used in computer science.
 
 ---
 #### ASCII
@@ -71,7 +71,7 @@ Your windows [[Operating System|operating system]] has a little program that let
 
 Top open the Character Map program...
 * Press the Windows Key
-* Search for "Character Map" and open
+* Type "charmap.exe" and hit enter
 * Select characters and copy them
 * Paste them anywhere!
 
