@@ -12,11 +12,12 @@ I can apply my knowledge of computer file systems to create my own file systems 
 1. Work through [[Operating Systems.pdf]] as a class
 	* Use [[Operating System]] to support
 	* Students answer question with a partner
-	* Group discussion on question<br><br>
-2. Work through [[Computer File Systems]] while demonstrating
+	* Group discussion on question
+	* Students complete the research activity<br><br>
+1. Work through [[Computer File Systems]] while demonstrating
 	* Students complete activity<br><br>
 
-3. Complete the activity below<br><br>
+2. Complete the activity below<br><br>
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 

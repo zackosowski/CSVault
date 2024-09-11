@@ -53,6 +53,23 @@ Each operating system has its own strengths and weaknesses, and the choice of wh
 		<p style="font-style: italic">Game consoles, smart watches, smart tvs, ect.</p>
 </details>
 
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Choose one of these operating systems to research with a partner. Create a slide with pictures and information about the OS to share with the class.
+
+* TempleOS
+* MenuetOS
+* Visopsys
+* Inferno
+* TOS
+* Fuchsia
+* Red Star OS
+* Haiku
+* SerenityOS
+
+
+
 ---
 #### Related Articles
 
