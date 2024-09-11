@@ -26,11 +26,6 @@ You have two options for completing this assignment. Choose the option that best
 | -CPU<br>-RAM<br>-HDD or SSD<br>-Motherboard<br>-Power Supply | -CPU<br>-RAM<br>-HDD or SSD<br>-Motherboard<br>-Power Supply<br><br>-Case<br>-Mouse<br>-Keyboard<br>-Monitor<br>-Windows 11 |
 
 ---
-#### Hints
-
-Use Newegg's compatibility checker or other online resources to ensure that all your chosen components are compatible with each other. This step can save you from potential headaches down the line.
-
----
 #### How to Submit
 
 You will submit the assignment by downloading your cart as a PDF and uploading to google classroom.
