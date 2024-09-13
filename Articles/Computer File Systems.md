@@ -25,6 +25,11 @@ A file system is a method used by computers to store, retrieve, and organize dat
 
 Create a file system for this class! In your "Documents" directory, create a folder that is named the same as your class. In that folder, create a folder for every unit in your class
 
+You can create a new folder in Windows in these three ways:
+1. Right Click -> New Folder
+2. New Folder button in the top-left
+3. ctrl+shft+n on your keyboard
+
 ---
 #### Importance of File Systems
 

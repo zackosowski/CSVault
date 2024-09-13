@@ -12,7 +12,7 @@ I can identify input and output devices for a computer and explain why.
 1. Review Build-A-PC activity from previous day
 2. Work through the first few slides of the [[How Do Computers Work.pdf]]  slideshow presentation as a class
 3. Work through [[Data]] as a class
-4. Work through [[Computers and Computing]]
-	* Students complete inputs and outputs activity
+4. Students read [[Computers and Computing]] independently
+	* Students complete inputs and outputs activity after reading entire article
 
 ---

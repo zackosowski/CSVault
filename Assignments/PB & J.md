@@ -7,7 +7,7 @@ You have been tasked with programming a humanoid robot to make a peanut butter a
 ---
 #### Details
 
-* The robot is humanoid, meaning it stand on two legs and has two arms with hands.
+* The robot is humanoid, meaning it stands on two legs and has two arms with hands.
 * The robots shoulder, elbow, and wrist work just like a human's, with the same strength and range of motion
 * The robot's hands each only have three fingers
 * The robot is standing in front of a table with all of these supplies in order from left to right:
@@ -18,9 +18,8 @@ You have been tasked with programming a humanoid robot to make a peanut butter a
 	* 1x unmarked 12oz mason jar with plaid patterned lid, home made jelly inside, lid tight
 * The robot has no allergies
 * The robot is not allowed to leave the table for any reason, even if there is a fire
-* The robot's hands each only have three fingers
 * A peanut butter and jelly sandwich is defined as combining two pieces of bread each covered on one side with peanut butter and jelly respectively.
-* The sandwich must be cut in half at the end, the orientation of the cut is up to you
+* The sandwich must be cut in half when finished, the orientation of the cut is up to you
 
 ---
 #### Requirements
