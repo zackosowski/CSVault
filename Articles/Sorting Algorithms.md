@@ -16,6 +16,8 @@ Bubble sort is one of the simplest sorting algorithms. It works by repeatedly st
 **Example**:
 	Imagine sorting a deck of cards by comparing adjacent cards and swapping them if they are out of order. Repeat this process until the deck is sorted from lowest to highest card.
 
+[Video Example](https://www.youtube.com/watch?v=xli_FI7CuzA)
+
 ---
 #### Merge Sort
 
@@ -27,6 +29,8 @@ Merge sort is a divide-and-conquer algorithm that divides the input list into sm
     3. Repeat the merging process until all sublists are merged into a single sorted list.
 **Example**:
 	Divide the deck of cards into smaller piles, sort each pile individually, and then merge the sorted piles back together until you have a single sorted deck.
+
+[Video Example](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
 ---
 #### Quick Sort
@@ -41,7 +45,7 @@ Quick sort is a divide-and-conquer algorithm that works by selecting a 'pivot' e
 **Example**: 
 	Select a card from the deck as the pivot, then divide the deck into two piles: one with cards lower than the pivot and the other with cards higher than the pivot. Repeat this process for each pile until the entire deck is sorted.
 
-
+[Video Example](https://www.youtube.com/watch?v=Hoixgm4-P4M)
 
 <hr>
 

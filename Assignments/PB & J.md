@@ -8,7 +8,7 @@ You have been tasked with programming a humanoid robot to make a peanut butter a
 #### Details
 
 * The robot is humanoid, meaning it stands on two legs and has two arms with hands.
-* The robots shoulder, elbow, and wrist work just like a human's, with the same strength and range of motion
+* The robot's shoulder, elbow, and wrist work just like a human's, with the same strength and range of motion
 * The robot's hands each only have three fingers
 * The robot is standing in front of a table with all of these supplies in order from left to right:
 	* 1x bag of Sarah Lee Honey Wheat bread, unopened, brand new
