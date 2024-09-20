@@ -12,15 +12,15 @@ I can evaluate and predict the outcome of Boolean expressions and debug them if 
 1. Introduction to the lesson
 	* Making decisions in our code
 	* Different "paths" through the program
-	* Changes based on Boolean Expressions, also called "Conditions"</br></br>
-2. Work through [[George Boole]] as a class</br></br>
+	* Changes based on Boolean Expressions, also called "Conditions"<br><br>
+2. Work through [[George Boole]] as a class<br><br>
 3. Work through [[Boolean Expression (Condition)]] as a class
-	* Show that `true` and `false` are keywords in python</br></br>
+	* Show that `true` and `false` are keywords in python<br><br>
 4. Work through [[Operators#Comparison Operators]]
-	* Cover basic comparison operators using examples with print statements</br></br>
+	* Cover basic comparison operators using examples with print statements<br><br>
 5. Work through [[Operators#Logical Operators]]
-	* Cover the three logical operators using examples with print statements</br></br>
-6. Complete the activity below</br></br>
+	* Cover the three logical operators using examples with print statements<br><br>
+6. Complete the activity below<br><br>
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
@@ -52,15 +52,7 @@ Boolean expression quiz! Guess the values of each of these Boolean expressions b
 </details>
 
 <hr>
-7. Review the activity with the class</br></br>
-8. Complete the activity below</br></br>
+7. Review the activity with the class<br><br>
 
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Create a little program in your practice folder with five print statements showcasing some Boolean expressions using your knowledge of comparison and logical operators. When finished, informally quiz your partner on the five expressions to see if they can evaluate them correctly. Try to make them difficult!!!
-
-9. Review the activity as a class
-	* What were the most difficult expressions?</br></br>
-10. Questions?</br></br>
-11. Students complete [[Boolean Expressions Quiz]] assignment individually.
+8. Students complete [[Boolean Expressions Quiz]] assignment individually.
 

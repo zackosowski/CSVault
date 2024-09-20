@@ -14,29 +14,31 @@ Students will start to write their own code after learning about basic [[functio
 	* [[Statements]]
 	* [[Print Functions]]</br></br>
 		
-* [[CS 2.2 - Variables, Input, and GitHub]]
+* [[CS 2.2 - GitHub]]
 	* **Articles**
-		* [[Git and GitHub]]
-		* [[Variables]]
-		* [[Concatenation]]
-		* [[Input Functions]]
-	* **Assignments**
-		* [[Animal Survey]]</br></br>
+		* [[Git and GitHub]]<br><br>
 
-* [[CS 2.3 - Data Types]]
+* [[CS 2.3 - Variables and Input]]
+	* **Articles**
+		* [[Variables]]
+		* [[Naming Conventions]]
+		* [[Input Functions#Input Function in Python]]
+		* [[Concatenation#String Concatenation]]
+	* **Assignments**
+		* [[Animal Survey]]<br><br>
+
+* [[CS 2.4 - Data Types]]
 	* **Articles**
 		* [[Comments]]
 		* [[Data Types]]
 	* **Assignments**
-		* [[Simple Mad Lib]]</br></br>
+		* [[Simple Mad Lib]]<br><br>
 
-* [[CS 2.4 - Functions & Scope]]
+* [[CS 2.5 - Functions & Scope]]
 	* **Articles**
 		* [[Functions]]
 		* [[Operators#Arithmetic Operators|Arithmetic Operators]]
 	* **Assignments**
-		* [[Simple Calculator]]</br></br>
-
-* [[CS 2.5 - Scope]]
+		* [[Simple Calculator]]<br><br>
 
 [[CS Unit 2 Test]]

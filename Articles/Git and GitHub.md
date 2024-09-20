@@ -1,6 +1,6 @@
 #article
 
-**[Git]([Git (git-scm.com)](https://git-scm.com/))** is a popular [[Version Control.pdf|version control]] system that helps developers manage changes to their code. Created by Linus Torvalds in 2005, Git allows multiple people to work on a project simultaneously without overwriting each other’s work. It tracks changes in the files, so you can revert to previous versions if needed. Git works by creating snapshots of your files, which are stored in a repository. These snapshots can be shared and merged, making collaboration efficient and organized.
+**[Git](https://git-scm.com/)** is a popular [[Version Control.pdf|version control]] system that helps developers manage changes to their code. Created by Linus Torvalds in 2005, Git allows multiple people to work on a project simultaneously without overwriting each other’s work. It tracks changes in the files, so you can revert to previous versions if needed. Git works by creating snapshots of your files, which are stored in a repository. These snapshots can be shared and merged, making collaboration efficient and organized.
 
 **[GitHub]([GitHub](https://github.com/)** is a web-based platform that uses Git for version control. Launched in 2008, GitHub provides a user-friendly interface for managing Git repositories online. It hosts your code in the cloud, allowing developers from around the world to contribute to the same project. GitHub also offers additional features like issue tracking, project management, and continuous integration.
 
