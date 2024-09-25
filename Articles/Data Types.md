@@ -28,27 +28,32 @@ Python provides built-in functions to convert between different data types, whic
 
 **Integer to String**
  ```python
-num = 123 num_str = str(num)
+num = 123
+num_str = str(num)
 ```
 
 **String to Integer**
 ```python
-num_str = "123" num = int(num_str)
+num_str = "123"
+num = int(num_str)
 ```
 
 **String to Float**
 ```python
-float_str = "123.45" num = float(float_str)
+float_str = "123.45"
+num = float(float_str)
 ```
 
 **Integer to Float**
 ```python
-num = 123 num_float = float(num)
+num = 123
+num_float = float(num)
 ```
     
 **Float to Integer**
 ```python
-num_float = 123.45 num = int(num_float)
+num_float = 123.45
+num = int(num_float)
 ```
 
 **String to List of Characters**
@@ -121,4 +126,23 @@ Feel free to ask if you need more examples or have any questions!
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Working with a partner, complete the `Converting Data Types.py` activity in your class repository. Follow the instructions in the file.
+Working with a partner, complete the activity below in your class repository for Unit 2. 
+
+```python
+# Complete your Converting Data Types activity here
+
+# Successfully convert all of the following variables to another type and print the result
+# If the conversion prints without errors, you did the conversion correctly
+
+a = 115         #int -> string
+b = 3.14        #float -> string
+c = "68"        #string -> int
+d = "True"      #string -> boolean
+e = True        #boolean -> string
+f = False       #boolean -> string
+g = '10110111'  #byte -> int
+h = "2.54"      #string -> float
+i = 100         #int -> float
+j = 10.0        #float -> int
+k = 254         #int -> byte
+```
