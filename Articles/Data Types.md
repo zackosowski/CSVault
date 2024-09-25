@@ -129,7 +129,7 @@ Feel free to ask if you need more examples or have any questions!
 Working with a partner, complete the activity below in your class repository for Unit 2. 
 
 ```python
-# Complete your Converting Data Types activity here
+# Start by copying this code block into a new file called dataconversion.py in your unit 2 folder. This is an ungraded activity.
 
 # Successfully convert all of the following variables to another type and print the result
 # If the conversion prints without errors, you did the conversion correctly
