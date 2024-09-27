@@ -31,23 +31,11 @@ A comparison operator is a symbol used to compare two values (no way), returning
 
 A logical operator is a symbol or [[keyword]] used to **COMBINE** or **INVERT** [[Boolean Expression (Condition)|Boolean expressions]], returning a Boolean result (`True` or `False`) based on the logical relationship between the expressions.
 
-   - **AND (&&)**: Returns true if both operands are true. For example, `true && false` results in `false`.
-   - **OR (||)**: Returns true if at least one of the operands is true. For example, `true || false` results in `true`.
+   - **AND (and)**: Returns true if both operands are true. For example, `true && false` results in `false`.
+   - **OR (or)**: Returns true if at least one of the operands is true. For example, `true || false` results in `true`.
    - **NOT (!) **: Reverses the logical state of its operand. For example, `!true` results in `false`.
 
 <span style="position: relative; font-weight: 700;background-color: #C80000; border-bottom: 2px solid #C80000;padding-top:1px; padding-bottom:1px;  padding-left: 11px; padding-right: 7px;border-top: 2px solid #C80000; border-radius:10px 0px 0px 10px;">!</span><span style= "background-color: #520000; margin-left:-14px;padding:3px;padding-left:14px; padding-right:10px;border-right:3px solid #C80000"> Example: "4 > 3 and 2" is an error. Use "4 > 3 and 4 > 2" instead.</span>
-
----
-#### Bitwise Operators
-
-A bitwise operator is a symbol used to perform operations directly on the individual [[Binary#Units of Memory|bits]] of [[binary]] numbers, manipulating data at the binary level.
-
-   - **AND (&)**: Performs a bitwise AND operation. For example, `5 & 3` results in `1`.
-   - **OR (|)**: Performs a bitwise OR operation. For example, `5 | 3` results in `7`.
-   - **XOR (^)**: Performs a bitwise XOR operation. For example, `5 ^ 3` results in `6`.
-   - **NOT (~)**: Inverts all the bits of its operand. For example, `~5` results in `-6` (in a 32-bit system).
-   - **Left Shift (<<)**: Shifts bits to the left. For example, `5 << 1` results in `10`.
-   - **Right Shift (>>)**: Shifts bits to the right. For example, `5 >> 1` results in `2`.
 
 ---
 #### Assignment Operators

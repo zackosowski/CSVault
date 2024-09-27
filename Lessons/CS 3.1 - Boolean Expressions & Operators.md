@@ -16,7 +16,7 @@ I can evaluate and predict the outcome of Boolean expressions and debug them if 
 2. Work through [[George Boole]] as a class<br><br>
 3. Work through [[Boolean Expression (Condition)]] as a class
 	* Show that `true` and `false` are keywords in python<br><br>
-4. Work through [[Operators#Comparison Operators]]
+4. Work through [[Operators#Comparison Operators|Comparison Operators]]
 	* Cover basic comparison operators using examples with print statements<br><br>
 5. Work through [[Operators#Logical Operators]]
 	* Cover the three logical operators using examples with print statements<br><br>

@@ -29,7 +29,7 @@ Example with parameters:
 
 ```python
 def greet(name):
-    print(f"Hello, {name}!")
+    print("Hello " + name)
 ```
 
 Here, the `greet` function takes one parameter, `name`. When you call `greet("Alice")`, it prints "Hello, Alice!". "Alice" being the argument.
