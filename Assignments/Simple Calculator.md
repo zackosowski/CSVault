@@ -2,10 +2,9 @@
 
 #### Overview
 
-Working in the `Simple Calculator.py` file in your class repository, create a calculator that handles a number of different operations. Each operation will be its own function, therefore you will have one function per operation. Each operation only needs to work with two numbers, x and y.
+Create a file in your assignments folder called `Simple_Calculator.py`. In it, create a calculator that handles a number of different operations. Each operation will be its own function, therefore you will have one function per operation. Each operation only needs to work with two numbers, x and y.
 
 When ran, the program should use a combination of the `input()` and `print()` functions to ask the user for information about the calculation they are about to run:
-* operation
 * x value
 * y value
 
