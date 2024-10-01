@@ -10,7 +10,7 @@ I can write a simple Python program that sends messages to the terminal in Pytho
 ---
 #### Lesson
 
-1. What is [[Python]]?</br></br>
+1. What is [[Python]]?<br><br>
 2. What tools are needed to write python?
 	1. If you were writing an English essay, what tool would you use?
 		* Microsoft Word
@@ -22,8 +22,8 @@ I can write a simple Python program that sends messages to the terminal in Pytho
 		* Designed to make programming as easy as possible
 		* Red underline = [[Compiler Error]]
 		* Yellow underline = [[Warning]]
-		* Code is runnable with [[Terminal]] input/output</br></br>
-3. Work through [[Visual Studio Code]] to open and setup the software.</br></br>
+		* Code is runnable with [[Terminal]] input/output<br><br>
+3. Work through [[Visual Studio Code]] to open and setup the software.<br><br>
 4. Open a new project
 	1. File -> Open Folder -> Documents -> Create a new folder named `Intro to Programming` - > Open
 	2. Create two folders

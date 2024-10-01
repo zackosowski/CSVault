@@ -39,7 +39,7 @@ Students will explore the foundational aspects of how computers work. The journe
 	* **Articles**
 		- [[Operating System]]
 		- [[Computer File Systems]]</br></br>
-* [[CS 1.5 - Algorithms]]
+* [[CS 1.6 - Algorithms]]
 	* **Articles**
 		- [[Algorithms]]
 		- [[Sorting Algorithms]]

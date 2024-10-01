@@ -21,13 +21,13 @@ An introduction to computer science using a [[Programming Language]] called [[Py
 	- [[CS 1.2 - Components of a Computer]]
 	- [[CS 1.3 - How do Computers Work]]
 	- [[CS 1.4 - Operating Systems]]
-	- [[CS 1.5 - Algorithms]]<br><br>
+	- [[CS 1.6 - Algorithms]]<br><br>
 	
 2. [[CS Unit 2- Functions and Variables]]
 	- [[CS 2.1 - Hello World!]]
 	- [[CS 2.2 - GitHub]]
 	- [[CS 2.4 - Data Types]]
-	- [[CS 2.5 - Functions & Scope]]<br><br>
+	- [[CS 2.5 - Functions]]<br><br>
 
 3. [[CS Unit 3- Conditionals and Exceptions]]
 	* [[CS 3.1 - Boolean Expressions & Operators]]
