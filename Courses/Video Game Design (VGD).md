@@ -5,7 +5,7 @@
 ----
 #### Course Overview
 
-*This class was mostly created and written with the help of Ty Hurd, Class of 2025.*
+*This class was created and written with the help of Ty Hurd, Class of 2025.*
 
 An advanced computer science class that utilizes the [[C-Sharp]] programming language and the [[Unity Game Engine]]. This class is designed to give an introduction to the creation of video games, an ever-changing and ever-growing history in the modern day. Whether you want to enter into the field as a full-time developer or make small games as a hobby, this class will be teach and guide you through the basics of the Unity engine.  Students will learn how to use the many of the features and tools provided by Unity, including but not limited to: [[Rigidbody|Rigidbodies]], [[Collider|Colliders]], [[Tilemap|Tilemaps]], [[Prefab|Prefabs]], [[Particle System|Particle Systems]], [[Scriptable Object|Scriptable Objects]], [[Classes (Unity)|Classes]], and [[Save Data]]. Students will also learn to create and use their own game custom systems with C#, including [[Character Controller|Controllers]], [[Health Manager|Health Managers]] and [[Game State|Game States]]. 
 
