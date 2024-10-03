@@ -53,5 +53,5 @@ Boolean expression quiz! Guess the values of each of these Boolean expressions b
 
 6. Review the activity with the class<br><br>
 
-7. Students complete [[Boolean Expressions Quiz]] assignment individually.
+7. Students complete [[Boolean Expressions Quiz]] assignment.
 
