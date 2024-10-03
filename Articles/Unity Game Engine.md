@@ -7,6 +7,7 @@ Unity continues to evolve, with regular updates that introduce new features and 
 
 Unity is designed to facilitate both 2D and 3D game development. It supports various platforms, including Windows, macOS, Linux, iOS, Android, PlayStation, Xbox, and the web, allowing developers to create games that can be deployed across multiple devices with minimal modifications.
 
+---
 #### Key Features
 
 1. **Multi-Platform Support**: Unity allows developers to build and publish games on numerous platforms without needing to rewrite code for each one. This cross-platform capability is a significant advantage for developers aiming to reach a broad audience.
@@ -15,7 +16,7 @@ Unity is designed to facilitate both 2D and 3D game development. It supports var
 
 3. **Asset Store**: Unity features an extensive Asset Store where developers can purchase or download assets, including 3D models, animations, scripts, and audio files. This marketplace allows developers to enhance their projects quickly and efficiently.
 
-4. **Scripting**: Unity uses [[C-Sharp|C#]] as its primary programming language, enabling developers to write custom scripts to control game behavior. The engine also supports visual scripting through tools like Unity Visual Scripting, which allows non-programmers to create game logic without writing code.
+4. **Scripting**: Unity uses [[C-Sharp|C#]] as its primary [[programming language]], enabling developers to write custom scripts to control game behavior. The engine also supports visual scripting through tools like Unity Visual Scripting, which allows non-programmers to create game logic without writing code.
 
 5. **Physics and Animation**: Unity provides robust physics and animation systems, including the Unity Animator, which allows developers to create complex character animations and behaviors. Its built-in physics engine supports realistic movement and interactions between objects.
 
@@ -41,7 +42,7 @@ Many successful games have been created using Unity, showcasing its versatility 
 - **[Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)** (Team Cherry)
 - **[Cuphead](https://store.steampowered.com/app/268910/Cuphead/)** (Studio MDHR)
 - **[Bloons TD6](https://store.steampowered.com/app/960090/Bloons_TD_6/)** (Ninja Kiwi)
-- [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/) (Mobius Digital)
+- **[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)** (Mobius Digital)
 - **[Among Us](https://store.steampowered.com/app/945360/Among_Us/)** (Innersloth)
 
 ----

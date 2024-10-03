@@ -27,7 +27,12 @@ I can navigate the Obsidian software to access course resources.
 		8. Search for "Execute Code" and select the Execute Code plugin
 		9. -> Install
 		10. -> Enable
-		11. Close Obsidian and reopen<br><br>
+		11. Close Obsidian and reopen
+	2. Set update on startup
+		1. Click settings wheel
+		2. Scroll all the way down and click git on the left side
+		3. Scroll to "Backup" section
+		4. Enable "Pull on Startup"<br><br>
 3. Students clone the obsidian repo
 	1. Go to the [CSVault Repository](https://github.com/zackosowski/CSVault.git)
 	2. Click on the green <span style="border-radius:5px; background-color: #238636; padding-left:10px; padding-right: 10px; font-weight: 500 ">Code</span> button
