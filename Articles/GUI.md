@@ -1,0 +1,3 @@
+#article
+
+A GUI, or Graphical User Interface, is a type of user interface that allows users to interact with electronic devices using graphical elements like windows, icons, buttons, and menus, rather than text-based commands. This design makes it easier for users to navigate software and perform tasks visually, enhancing usability and accessibility. GUIs are commonly used in operating systems, applications, and websites.
