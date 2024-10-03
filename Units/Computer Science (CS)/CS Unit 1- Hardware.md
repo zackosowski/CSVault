@@ -24,28 +24,28 @@ Students will explore the foundational aspects of how computers work. The journe
 		- [[Motherboard]]
 		- [[Power Supply]]
 	* **Assignments**
-		- [[Build-a-PC]]</br></br>
+		- [[Build-a-PC]]<br><br>
 
 * [[CS 1.3 - How do Computers Work]]
 	* **Presentations**
 		- [[How Do Computers Work.pdf]]
 	* **Articles**
 		- [[Data]]
-		- [[Computers and Computing]]</br></br>
+		- [[Computers and Computing]]<br><br>
 	
 * [[CS 1.4 - Operating Systems]]
 	* **Presentations**
 		- [[Operating Systems.pdf]]
 	* **Articles**
 		- [[Operating System]]
-		- [[Computer File Systems]]</br></br>
+		- [[Computer File Systems]]<br><br>
 * [[CS 1.6 - Algorithms]]
 	* **Articles**
 		- [[Algorithms]]
 		- [[Sorting Algorithms]]
 		- [[Pseudocode]]
 	* **Assignments**
-		- [[PB & J]]</br></br>
+		- [[PB & J]]<br><br>
 
 [[CS Unit 1 Test]]
 
