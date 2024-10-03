@@ -12,7 +12,7 @@ Visual Studio Code, often abbreviated as VS Code, is a popular [[IDE (Integrated
 	One of VS Code's strongest features is its extensibility. Users can install extensions to add new languages, [[Debugging|debuggers]], themes, and other tools, customizing the editor to fit their specific needs.
 
 **IntelliSense:**
-	This feature provides smart code completions based on [[Variables|variable]] types, [[Functions|function]] definitions, and imported modules, helping programmers write code more efficiently.
+	This feature provides smart code completions based on [[Variables|variable]] types, [[Functions (Python)|function]] definitions, and imported modules, helping programmers write code more efficiently.
 
 **Integrated Git:**
 	VS Code includes built-in [[Git and GitHub|Git]] support, allowing users to manage version control without leaving the editor.

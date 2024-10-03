@@ -1,6 +1,6 @@
 #article
 
-**Scope** in programming refers to the region within a program where a particular [[Variables|variable]] or [[Functions|function]] is accessible. Understanding scope is essential for managing and organizing code effectively, particularly when working with variables and functions in different contexts.
+**Scope** in programming refers to the region within a program where a particular [[Variables|variable]] or [[Functions (Python)|function]] is accessible. Understanding scope is essential for managing and organizing code effectively, particularly when working with variables and functions in different contexts.
 
 ---
 #### Types of Scope
@@ -76,4 +76,4 @@ print(global_var)  # Outputs: 100
 
 ---
 #### Related Articles
-[[Functions]]
+[[Functions (Python)]]

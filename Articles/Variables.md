@@ -87,7 +87,7 @@ By thinking of variables as labeled boxes in a warehouse, it becomes easier to u
 #### Local vs Global Variables
 
 ###### Local Variables
-Local variables are declared within a specific block of code, like inside of a [[Functions|function]] or a [[Loop Statements|loop]]. They can only be accessed and used within that block. Once the block of code has finished executing, the local variables are destroyed from memory, and their values are lost.
+Local variables are declared within a specific block of code, like inside of a [[Functions (Python)|function]] or a [[Loop Statements|loop]]. They can only be accessed and used within that block. Once the block of code has finished executing, the local variables are destroyed from memory, and their values are lost.
 
 **Example:**
 

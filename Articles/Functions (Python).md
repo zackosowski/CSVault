@@ -1,5 +1,7 @@
 #article
 
+*[[Video Game Design (VGD)]] students may be looking for [[Functions (C-Sharp)]]*
+
 In computer science, a function is a reusable block of code designed to perform a specific task. Functions help make programs more modular, readable, and easier to maintain. By using functions, programmers can avoid repeating code and manage complexity more effectively.
 
 ---
@@ -19,7 +21,7 @@ def greet():
 In this example, `greet` is a function that prints "Hello, world!" when called.
 
 ---
-### Parameters and Arguments
+#### Parameters and Arguments
 
 Lets say you had a function called `add` that's purpose is to add two numbers together. In order for the function to work properly, we first need to provide the details of *which two numbers.* Those details are called parameters, and their values are called arguments.
 

@@ -5,9 +5,11 @@
 ---
 #### Course Overview
 
+[[Functions]]
+
 Built from Harvard's [CS50p](https://cs50.harvard.edu/python/2022/) and [CS50 AP](https://cs50.harvard.edu/ap/2024/curriculum/) courses.
 
-An introduction to computer science using a [[Programming Language]] called [[Python]]. Learn how to read and write code as well as how to test and “[[Debugging|debug]]” it. Designed for students with or without prior programming experience who’d like to become a "programmer". Learn about [[Functions]], [[Functions#Parameters and Arguments|parameters]], and [[Functions#Return Statement|return]] values (oh my!); [[Variables]] and [[Data#Data Types|types]]; [[Conditional Statements|conditionals]] and [[Boolean Expression (Condition)|Boolean expressions]]; and [[Loop Statements|loops]]. Learn how to handle [[Errors|exceptions]], find and fix [[Debugging|bugs]], use third-party libraries; validate and extract [[data]] with [[Regular Expressions|regular expressions]]; model real-world entities with [[Classes and Objects|classes]], [[Classes and Objects|objects]], [[Classes and Objects#Methods|methods]], and [[Classes and Objects#Attributes|attributes]], and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. 
+An introduction to computer science using a [[Programming Language]] called [[Python]]. Learn how to read and write code as well as how to test and “[[Debugging|debug]]” it. Designed for students with or without prior programming experience who’d like to become a "programmer". Learn about [[Functions (Python)]], [[Functions (Python)#Parameters and Arguments|parameters]], and [[Functions (Python)#Return Statement|return]] values (oh my!); [[Variables]] and [[Data#Data Types|types]]; [[Conditional Statements|conditionals]] and [[Boolean Expression (Condition)|Boolean expressions]]; and [[Loop Statements|loops]]. Learn how to handle [[Errors|exceptions]], find and fix [[Debugging|bugs]], use third-party libraries; validate and extract [[data]] with [[Regular Expressions|regular expressions]]; model real-world entities with [[Classes and Objects|classes]], [[Classes and Objects|objects]], [[Classes and Objects#Methods|methods]], and [[Classes and Objects#Attributes|attributes]], and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. 
 
 ---
 #### Units
