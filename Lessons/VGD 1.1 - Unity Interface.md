@@ -2,10 +2,12 @@
 
 #### Targets
 
+I can navigate and interact with the Unity's [[GUI]]
+
 ---
 #### Lesson
 
-1. Work through [[Unity Interface]] as a class
+1. Introduce, learn about and work through the [[Unity Interface]] as a class
 	* Scene view
 	* Game view
 	* Hierarchy
