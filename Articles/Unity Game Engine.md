@@ -1,5 +1,7 @@
 Unity is a cross-platform game engine developed by Unity Technologies, primarily used for creating video games and simulations for computers, consoles, and mobile devices. Originally released in 2005, Unity has gained significant popularity due to its user-friendly interface, powerful features, and flexibility, making it one of the most widely used game engines in the world.
 
+Unity continues to evolve, with regular updates that introduce new features and improvements. Its combination of accessibility, flexibility, and a comprehensive toolset has established Unity as a leading choice for developers looking to create engaging and innovative interactive experiences across various platforms. As the gaming industry evolves, Unity remains at the forefront of technology, enabling creators to bring their visions to life.
+
 ----
 #### Overview
 
@@ -13,7 +15,7 @@ Unity is designed to facilitate both 2D and 3D game development. It supports var
 
 3. **Asset Store**: Unity features an extensive Asset Store where developers can purchase or download assets, including 3D models, animations, scripts, and audio files. This marketplace allows developers to enhance their projects quickly and efficiently.
 
-4. **Scripting**: Unity uses C# as its primary programming language, enabling developers to write custom scripts to control game behavior. The engine also supports visual scripting through tools like Unity Visual Scripting, which allows non-programmers to create game logic without writing code.
+4. **Scripting**: Unity uses [[C-Sharp|C#]] as its primary programming language, enabling developers to write custom scripts to control game behavior. The engine also supports visual scripting through tools like Unity Visual Scripting, which allows non-programmers to create game logic without writing code.
 
 5. **Physics and Animation**: Unity provides robust physics and animation systems, including the Unity Animator, which allows developers to create complex character animations and behaviors. Its built-in physics engine supports realistic movement and interactions between objects.
 
@@ -39,10 +41,9 @@ Many successful games have been created using Unity, showcasing its versatility 
 - **[Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)** (Team Cherry)
 - **[Cuphead](https://store.steampowered.com/app/268910/Cuphead/)** (Studio MDHR)
 - **[Bloons TD6](https://store.steampowered.com/app/960090/Bloons_TD_6/)** (Ninja Kiwi)
-- **[Starlance](https://itsdawg43.itch.io/starlance)** (Ty Hurd)
+- [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/) (Mobius Digital)
 - **[Among Us](https://store.steampowered.com/app/945360/Among_Us/)** (Innersloth)
 
 ----
-#### Conclusion
-
-Unity continues to evolve, with regular updates that introduce new features and improvements. Its combination of accessibility, flexibility, and a comprehensive toolset has established Unity as a leading choice for developers looking to create engaging and innovative interactive experiences across various platforms. As the gaming industry evolves, Unity remains at the forefront of technology, enabling creators to bring their visions to life.
+#### Related Articles
+[[C-Sharp|C#]]
