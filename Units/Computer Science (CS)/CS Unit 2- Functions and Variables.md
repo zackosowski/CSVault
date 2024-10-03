@@ -12,7 +12,7 @@ Students will start to write their own code after learning about basic [[functio
 	* [[Visual Studio Code]]
 	* [[Terminal]]
 	* [[Statements]]
-	* [[Print Functions]]</br></br>
+	* [[Print Functions]]<br><br>
 		
 * [[CS 2.2 - GitHub]]
 	* **Articles**

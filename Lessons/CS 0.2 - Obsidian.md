@@ -24,7 +24,7 @@ I can navigate the Obsidian software to access course resources.
 		5.  Search for "git" and select the git plugin
 		6. -> Install
 		7. -> Enable 
-		8. Search for "Execute Code" and select the git plugin
+		8. Search for "Execute Code" and select the Execute Code plugin
 		9. -> Install
 		10. -> Enable
 		11. Close Obsidian and reopen<br><br>
