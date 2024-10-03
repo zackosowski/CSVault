@@ -49,7 +49,7 @@ Save the file as `SimpleCalculator.py` in your assignments folder and push your 
 ---
 #### Helpful Articles
 
-[[Functions]]
+[[Functions (Python)]]
 [[Input Functions]]
 [[Print Functions]]
 [[Operators]]

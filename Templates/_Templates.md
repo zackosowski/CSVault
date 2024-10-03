@@ -1,6 +1,8 @@
 [[Activity Template]]
 [[Article Template]]
 [[Assignment Template]]
+[[Course Template]]
+[[Important Note Template]]
 [[Lesson Template]]
 [[Question Template]]
 [[Unit Template]]

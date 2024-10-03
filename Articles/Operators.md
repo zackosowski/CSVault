@@ -1,6 +1,6 @@
 #article 
 
-In computer science, an operator is a symbol or [[Functions|function]] that tells the [[compiler]] or interpreter to perform a specific mathematical, logical, or relational operation on one or more [[Operators#Operands|operands]]. Operators are essential building blocks of programming languages and enable developers to perform various tasks such as math calculations, comparisons, and [[data]] manipulation. Here are the main types of operators commonly used in programming:
+In computer science, an operator is a symbol or [[Functions (Python)|function]] that tells the [[compiler]] or interpreter to perform a specific mathematical, logical, or relational operation on one or more [[Operators#Operands|operands]]. Operators are essential building blocks of programming languages and enable developers to perform various tasks such as math calculations, comparisons, and [[data]] manipulation. Here are the main types of operators commonly used in programming:
 
 ---
 #### Arithmetic Operators

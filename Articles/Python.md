@@ -31,7 +31,7 @@ Python supports various [[Data#Data Types|data types]], including:
 - **[[Integer|Integers]]**: Whole numbers, e.g., `5`, `100`.
 - **[[Float|Floats]]**: Decimal numbers, e.g., `3.14`, `0.001`.
 - **[[String|Strings]]**: Text, e.g., `"Hello"`, `"Python"`.
-- **[[List|Lists]]**: Ordered collections, e.g., `[1, 2, 3, 4]`.
+- **[[Lists (Python)|Lists]]**: Ordered collections, e.g., `[1, 2, 3, 4]`.
 - **[[Dictionary|Dictionaries]]**: Key-value pairs, e.g., `{"name": "Alice", "age": 25}`.
 
 ---
@@ -50,7 +50,7 @@ else:
 ---
 #### Functions
 
-[[Functions]] in Python are defined using the `def` [[Keyword|keyword]]. Here’s an example of a simple function that adds two numbers:
+[[Functions (Python)]] are defined using the `def` [[Keyword|keyword]]. Here’s an example of a simple function that adds two numbers:
 
 ```python
 def add(a, b):

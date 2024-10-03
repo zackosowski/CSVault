@@ -14,7 +14,7 @@ Warnings serve several important purposes:
 #### Causes
 
 - **Unused Variables**: [[Variables]] that are [[Variables#Declaration|declared]] but never used.
-- **Deprecated Functions**: [[Functions]] that are outdated and may be removed in future versions.
+- **Deprecated Functions**: [[Functions (Python)]] that are outdated and may be removed in future versions.
 - **Type Mismatch**: [[Variables#Assignment|Assigning]] a value to a variable of a different [[Data#Data Types|type]], which might work but could cause errors.
 - **Possible Null Reference**: Using a variable that might be null (having no value) without checking.
 

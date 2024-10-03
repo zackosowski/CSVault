@@ -5,7 +5,7 @@ In computer programming, a **print function** is a basic yet essential tool used
 ---
 #### How Print Functions Work
 
-Print functions are built into most [[Programming Language|programming languages]], though their [[syntax]] and capabilities can vary. When a print [[Functions|function]] is called, it takes an [[Functions#Parameters and Arguments|argument]]—typically a [[string]] of text—and sends it to the standard output. This output is usually the console or [[terminal]] window where the program is running.
+Print functions are built into most [[Programming Language|programming languages]], though their [[syntax]] and capabilities can vary. When a print [[Functions (Python)|function]] is called, it takes an [[Functions (Python)#Parameters and Arguments|argument]]—typically a [[string]] of text—and sends it to the standard output. This output is usually the console or [[terminal]] window where the program is running.
 
 ---
 #### Common Print Functions in Different Languages

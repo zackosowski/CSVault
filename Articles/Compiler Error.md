@@ -9,5 +9,5 @@ Compiler [[Errors|errors]] are mistakes in a program's source code that prevent 
  
  * **Semantic Errors**: These happen when the code is syntactically correct but makes no sense logically. For instance, if you try to perform an operation on incompatible data types (like adding a number to a [[string]] in a language that doesn't allow it), you'll encounter a semantic error. These errors are harder to spot because the code looks correct but doesn't behave as expected.
  
- * **Linker Errors**: These errors occur during the linking stage, which is after the compilation of the code. Linker errors happen when the compiler cannot find the correct references to functions or variables defined in other files or [[libraries]]. This might happen if you forget to include a necessary library or if there is a mismatch in [[Functions|function]] declarations.
+ * **Linker Errors**: These errors occur during the linking stage, which is after the compilation of the code. Linker errors happen when the compiler cannot find the correct references to functions or variables defined in other files or [[libraries]]. This might happen if you forget to include a necessary library or if there is a mismatch in [[Functions (Python)|function]] declarations.
 
