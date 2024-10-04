@@ -7,7 +7,7 @@ Use the `import` [[keyword]] to import a [[Libraries|library]].
   import math   # Import statement
   print(math.sqrt(16))  # Outputs: 4.0
   ```
-In this example, we imported `math` on line 1 so that we could use it late on line 2.
+In this example, we imported `math` on line 1 so that we could use it later on line 2.
 
 ---
 #### From

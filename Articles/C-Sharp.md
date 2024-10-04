@@ -1,6 +1,6 @@
 #article
 
-C# (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft as part of the .NET framework. Introduced in the early 2000s, it combines the power of C and C++ with features that enhance productivity and safety, such as garbage collection, type safety, and rich libraries. C# is widely used for developing Windows applications, web services, and games, especially with the Unity engine. Its syntax is clean and easy to read, making it accessible for beginners while still powerful enough for experienced developers. With support for asynchronous programming and a strong community, C# continues to evolve and remains a popular choice for a variety of applications.
+C# (pronounced "C-sharp") is a modern, object-oriented [[programming language]] developed by Microsoft as part of the .NET framework. Introduced in the early 2000s, it combines the power of C and C++ with features that enhance productivity and safety, such as garbage collection, type safety, and rich libraries. C# is widely used for developing Windows applications, web services, and games, especially with the Unity engine. Its [[syntax]] is clean and easy to read, making it accessible for beginners while still powerful enough for experienced developers. With support for asynchronous programming and a strong community, C# continues to evolve and remains a popular choice for a variety of applications.
 
 ---
 #### Key Features
@@ -59,7 +59,7 @@ This loop has ran 5 time(s)!
 
 ----
 #### Functions
-[[Functions (C-Sharp)]] are declared by stating the `returnType`, followed by the `functionName`, and finally the `parameters` in parentheses following the name. 
+[[Functions (C-Sharp)|Functions]] are declared by stating the `returnType`, followed by the `functionName`, and finally the `parameters` in parentheses following the name. 
 
 A basic C# will look something like this:
 
@@ -69,7 +69,7 @@ void PrintGreeting(){
 }
 ```
 
-This function will write "Hello, world." to the console when called.
+This function will write "Hello, world." to the console when called. It takes no parameters.
 
 ----
 #### Usage

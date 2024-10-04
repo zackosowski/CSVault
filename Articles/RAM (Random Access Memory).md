@@ -31,7 +31,7 @@ The most important aspect of RAM is its storage capacity. Most modern computers 
 <details>
 	<summary>Situation: You are browsing the internet on your computer and have 22 tabs open. You open another tab and you notice your computer is starting to slow down. What is the best thing you could do help the situation?</summary>
 		<p style="font-style: italic">Close your tabs, fool....</p>
-</details></br>
+</details>
 
 
 <details>

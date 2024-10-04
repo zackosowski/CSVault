@@ -18,7 +18,7 @@ Unity is designed to facilitate both 2D and 3D game development. It supports var
 
 4. **Scripting**: Unity uses [[C-Sharp|C#]] as its primary [[programming language]], enabling developers to write custom scripts to control game behavior. The engine also supports visual scripting through tools like Unity Visual Scripting, which allows non-programmers to create game logic without writing code.
 
-5. **Physics and Animation**: Unity provides robust physics and animation systems, including the Unity Animator, which allows developers to create complex character animations and behaviors. Its built-in physics engine supports realistic movement and interactions between [[Gameobject|objects]].
+5. **Physics and Animation**: Unity provides robust physics and animation systems, including the Unity Animator, which allows developers to create complex character animations and behaviors. Its built-in physics engine supports realistic movement and interactions between [[GameObject|objects]].
 
 6. **Rendering Capabilities**: Unity supports advanced rendering techniques, including real-time global illumination, high-definition rendering pipelines, and various shaders, enabling developers to create visually stunning games.
    
@@ -48,5 +48,5 @@ Many successful games have been created using Unity, showcasing its versatility 
 ----
 #### Related Articles
 [[C-Sharp|C#]]
-[[Gameobject]]
+[[GameObject]]
 [[Component]]

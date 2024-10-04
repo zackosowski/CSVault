@@ -5,9 +5,9 @@ Python is a popular high-level programming language known for its simplicity and
 ---
 #### Key Features
 
-* **Easy to Read and Write**: Python's [[Syntax]] is designed to be clean and easy to understand. This makes the language more accessible to new programmers. For example, Python uses indentation (spaces or tabs) to define blocks of code, which enhances readability.
+* **Easy to Read and Write**: Python's [[Syntax|syntax]] is designed to be clean and easy to understand. This makes the language more accessible to new programmers. For example, Python uses indentation (spaces or tabs) to define blocks of code, which enhances readability.
 
-* **Interpreted Language**: Python is an interpreted language, meaning that code is executed line by line, which helps in [[Debugging]] and testing. You don't need to [[Compiler|compile]] your code before running it, which can speed up development.
+* **Interpreted Language**: Python is an interpreted language, meaning that code is executed line by line, which helps in [[Debugging|debugging]] and testing. You don't need to [[Compiler|compile]] your code before running it, which can speed up development.
 
 * **Dynamically Typed**: In Python, you don't need to declare the [[Data#Data Types|type]] of a [[Variables|variable]] when you create it. For instance, you can write `x = 10` without specifying that `x` is an [[integer]]. The type is determined at runtime, making the language more flexible.
 
@@ -74,7 +74,7 @@ print(result)  # Output: 7
 **Desktop Applications**
 * **[Blender](https://www.blender.org/)**: Blender is a powerful open-source software for 3D modeling, animation, and rendering. Python is used for scripting within Blender to automate tasks and create custom tools.
 * **[Dropbox](https://www.dropbox.com/)**: Dropbox, a well-known file hosting service, uses Python for its desktop client, which syncs files between a user's computer and the cloud.
-* **[Paint.NET](https://www.getpaint.net/)**: Although the core application is written in C#, some plugins for Paint.NET are developed in Python.
+* **[Paint.NET](https://www.getpaint.net/)**: Although the core application is written in [[C-Sharp|C#]], some plugins for Paint.NET are developed in Python.
 
 **Game Development**
 * **[Civilization IV](https://civilization.2k.com/civ-iv/)**: The popular strategy game Civilization IV uses Python for its game logic, allowing for a high degree of modifiability and customization.
