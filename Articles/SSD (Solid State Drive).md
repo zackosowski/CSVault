@@ -24,7 +24,7 @@ While SSDs generally offer superior performance and reliability compared to HDDs
 
 <span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
 
-Although historically SSDs have been significantly more expensive than HDDs for the same storage capacity, the price gap has shrunk in recent years. Use the computer hardware website [Newegg](www.newegg.com) to compare HDDs and SSDs of similar storage. Is it still true that SSDs are significantly more expensive than HDDs? 
+Although historically SSDs have been significantly more expensive than HDDs for the same storage capacity, the price gap has shrunk in recent years. Use the computer hardware website [Newegg](https://www.newegg.com/) to compare HDDs and SSDs of similar storage. Is it still true that SSDs are significantly more expensive than HDDs? 
 
 ---
 #### Related Articles
