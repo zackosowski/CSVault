@@ -10,9 +10,9 @@ You are tasked with making a candy bowl for the party. Use static [[Rigidbody|Ri
 ---
 #### Requirements
 
-| **Less Comfortable**      | **More Comfortable**       |
-| ------------------------- | -------------------------- |
-| At least 10 unique shapes | At least 25 unique objects |
+| **Less Comfortable**       | **More Comfortable**       |
+| -------------------------- | -------------------------- |
+| At least 10 unique objects | At least 25 unique objects |
 
 ---
 #### Hints
@@ -27,3 +27,6 @@ Submit a screenshot of your "candy bowl" to the Google Classroom post for review
 ---
 #### Helpful Articles
 [[GameObject]]
+[[Rigidbody]]
+[[Collider]]
+[[Sprite Renderer]]

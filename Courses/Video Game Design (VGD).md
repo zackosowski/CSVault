@@ -19,8 +19,9 @@ An advanced computer science class that utilizes the [[C-Sharp]] programming lan
 	- [[VGD 1.1 - Unity Interface]]
 	- [[VGD 1.2 - Gameobjects and Components]]
 2. [[VGD Unit 2 - Platformer Game]]
-3. [[VGD Unit 3 - Idle Game]]
-4. [[VGD Unit 4 - Turn-Based Battler]]
+3. [[VGD Unit 3 - Top-Down Shooter]]
+4. [[VGD Unit 4 - Idle Game]]
+5. [[VGD Unit 5 - Turn-Based Battler]]
 
 <hr>
 #### Grading

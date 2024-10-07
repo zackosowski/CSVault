@@ -9,6 +9,8 @@ Students will put their basic Unity knowledge to the test and create a simple pl
 
 
 ----
-#### Notable Platformer Game
+#### Notable Platformer Games
 
 - [Celeste](https://store.steampowered.com/app/504230/Celeste/) (Maddy Makes Games)
+- [BattleBlock Theater](https://store.steampowered.com/app/238460/BattleBlock_Theater/) (The Behemoth)
+- [Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/) (Tour De Pizza)

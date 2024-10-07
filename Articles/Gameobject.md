@@ -5,7 +5,7 @@ In Unity, a game object is the fundamental building block of a Unity scene. Game
 ---
 #### Structure
 
-Each game object in Unity has a Transform component that determines its position, rotation, and scale in the 3D or 2D space. Game objects can be organized hierarchically, allowing for complex structures where child objects inherit transformations from their parent objects.
+Each game object in Unity has a [[Transform]] [[component]] that determines its position, rotation, and scale in the 3D or 2D space. Game objects can be organized hierarchically, allowing for complex structures where child objects inherit transformations from their parent objects.
 
 ----
 #### Components
@@ -13,7 +13,7 @@ Each game object in Unity has a Transform component that determines its position
 Game objects are enhanced by attaching various components that define their functionalities. Common components include:
 
 - **Renderers**: Determine how an object is visually represented (e.g., Mesh Renderer, Sprite Renderer).
-- **Colliders**: Define the physical shape of the object for collision detection (e.g., Box Collider, Sphere Collider).
+- **[[Collider|Colliders]]**: Define the physical shape of the object for collision detection (e.g., Box Collider, Sphere Collider).
 - **Scripts**: Custom behavior can be defined using C# scripts, enabling interactivity and complex functionalities.
 ----
 #### Instantiation and Lifecycle
