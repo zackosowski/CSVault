@@ -55,3 +55,11 @@ An important takeaway from this analogy is that each coin only settings into a s
       print("It's a cool day.")
   ```
   This program checks multiple temperature ranges and prints a message based on which condition is true.
+---
+
+<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
+
+Create a password checker.
+1. Ask the user for a password
+2. If the password is correct, print `ACCESS GRANTED`
+3. If its wrong, print `ACCESS DENIED`
