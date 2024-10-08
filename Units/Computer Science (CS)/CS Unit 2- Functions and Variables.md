@@ -1,7 +1,7 @@
 #unit
 
 #### Overview
-Students will start to write their own code after learning about basic [[functions]] and [[variables]]. Students will learn to navigate and operate the [[Visual Studio Code]] interface to write their programs. Students will apply their knowledge to write simple programs that achieve specific tasks.
+Students will start to write their own code after learning about basic [[Functions (Python)|functions]] and [[variables]]. Students will learn to navigate and operate the [[Visual Studio Code]] interface to write their programs. Students will apply their knowledge to write simple programs that achieve specific tasks.
 
 ---
 #### Lessons

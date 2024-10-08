@@ -11,5 +11,6 @@ Students will learn how to use [[Scriptable Object|scriptable objects]], [[Class
 ----
 #### Notable Idle Games
 
-- [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/) (Ortiel)
+- [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/) (Orteil)
 - [Rusty's Retirement](https://store.steampowered.com/app/2666510/Rustys_Retirement/) (Mister Morris Games)
+- [AdVenture Capitalist](https://store.steampowered.com/app/346900/AdVenture_Capitalist/) (Hyper Hippo Games)

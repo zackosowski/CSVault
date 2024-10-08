@@ -11,7 +11,7 @@ I can create functions with parameters that are use within the function.
 
 ---
 #### Lesson
-1. Work through [[Functions#Defining Functions|defining functions]]
+1. Work through [[Functions (Python)#Defining Functions|defining functions]]
 	1. Introduce functions
 	2. Read through section
 	3. Students make their Animal Survey Project into a single function<br><br>

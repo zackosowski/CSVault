@@ -11,3 +11,15 @@ Key characteristics of scripts include:
 4. **Integration**: Scripts can often integrate with other software or systems, allowing them to control or interact with various applications.
 
 5. **Cross-Platform**: Many scripting languages are designed to be cross-platform, allowing scripts to run on different operating systems with little or no modification.
+
+----
+
+#### Scripting in Unity
+
+Writing a script in [[Unity Game Engine|Unity]] allows developers to create custom [[Component|components]], complete with their own [[Variables|variables]] and [[Functions (C-Sharp)|functions]] and interact freely with other components. A new script can be created by right clicking an empty space in the Project window, and pressing "Create [[C-Sharp|C#]] Script". After naming the script, the file will be created and the project code will re-compile. An empty script will look something like this:
+
+```c#
+//put code here
+```
+
+By default, all Unity components derive from the MonoBehaviour class, which offers life-cycle functions for [[GameObject|GameObjects]] such as `Awake()`, `Start()` and `Update()`

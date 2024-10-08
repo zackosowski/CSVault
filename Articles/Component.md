@@ -8,7 +8,7 @@ In [[Unity Game Engine|Unity]], a component is a fundamental building block that
 - **Modularity**: Components can be added, removed, or modified independently, enabling developers to create and customize [[GameObject|GameObjects]] without altering their underlying structure.
 
 - **Variety of Types**: Unity provides a wide array of built-in components, including:
-    - **Transform**: Manages the position, rotation, and scale of a GameObject.
+    - **[[Transform]]**: Manages the position, rotation, and scale of a GameObject.
     - **Renderer**: Controls how a GameObject is visually represented, including 2D and 3D graphics.
     - **[[Collider]]**: Enables collision detection, allowing objects to interact physically.
     - **[[Rigidbody]]**: Adds physics properties to GameObjects, allowing for realistic movement and interactions.

@@ -2,7 +2,7 @@
 
 *For additional information, see the [Unity Manual](https://docs.unity3d.com/Manual/class-Rigidbody2D.html) page on this topic.*
 
-In [[Unity Game Engine|Unity]], a Rigidbody is a component that enables an object to be influenced by physics. By adding a Rigidbody to a [[GameObject]], developers can simulate realistic movements and interactions within a 3D or 2D environment, allowing for behaviors such as gravity, collisions, and other forces.
+In [[Unity Game Engine|Unity]], a Rigidbody is a [[Component|component]] that enables an object to be influenced by physics. By adding a Rigidbody to a [[GameObject]], developers can simulate realistic movements and interactions within a 3D or 2D environment, allowing for behaviors such as gravity, collisions, and other forces.
 
 ----
 #### Key Features
