@@ -18,7 +18,7 @@ Input statements outside the function, if statements inside the function. No fun
 
 ---
 #### Hints
-Be mindful of data types and conversions
+Be mindful of data types and conversions.
 
 ---
 #### How to Submit
