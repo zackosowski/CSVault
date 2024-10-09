@@ -10,5 +10,6 @@ I can create a program that classifies hurricanes by their wind speed.
 1. Work through [[If Statements#Coin Sorter Analogy|Coin Sorter Analogy]]
 2. Practice examples of elif statements (stoplight)
 3. Students complete [[Hurricane Classifier]] assignment
+4. Students read and follow along with [[CodeWars]]
 ---
 
