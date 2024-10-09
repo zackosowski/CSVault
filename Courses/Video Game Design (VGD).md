@@ -12,16 +12,16 @@ An advanced computer science class that utilizes the [[C-Sharp]] programming lan
 ---
 #### Units
 
-0. [[VGD Unit 0 - Setup]]
+0. [[VGD Unit 0 - Setup]]<br>
 	1. [[VGD 0.1 - Welcome to Video Game Design!]]
-	2. [[VGD 0.2 - Unity Setup]]
-1. [[VGD Unit 1 - Introduction to Unity]]
+	2. [[VGD 0.2 - Unity Setup]]<br>
+1. [[VGD Unit 1 - Introduction to Unity]]<br>
 	- [[VGD 1.1 - Unity Interface]]
-	- [[VGD 1.2 - Gameobjects and Components]]
-2. [[VGD Unit 2 - Platformer Game]]
-3. [[VGD Unit 3 - Top-Down Shooter]]
-4. [[VGD Unit 4 - Idle Game]]
-5. [[VGD Unit 5 - Turn-Based Battler]]
+	- [[VGD 1.2 - GameObjects and Components]]<br>
+2. [[VGD Unit 2 - Platformer Game]]<br>
+3. [[VGD Unit 3 - Top-Down Shooter]]<br>
+4. [[VGD Unit 4 - Idle Game]]<br>
+5. [[VGD Unit 5 - Turn-Based Battler]]<br>
 
 <hr>
 #### Grading

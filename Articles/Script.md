@@ -16,7 +16,7 @@ Key characteristics of scripts include:
 
 #### Scripting in Unity
 
-Writing a script in [[Unity Game Engine|Unity]] allows developers to create custom [[Component|components]], complete with their own [[Variables|variables]] and [[Functions (C-Sharp)|functions]] and interact freely with other components. A new script can be created by right clicking an empty space in the Project window, and pressing "Create [[C-Sharp|C#]] Script". After naming the script, the file will be created and the project code will re-compile. An empty script will look something like this:
+Writing a script in [[Unity Game Engine|Unity]] allows developers to create custom [[Component|components]], complete with their own [[Variables|variables]] and [[Functions (C-Sharp)|functions]], that can interact freely with other components. A new script can be created by right clicking an empty space in the Project window, and pressing "Create [[C-Sharp|C#]] Script". After naming the script, the file will be created and the project code will re-compile. An empty script will look something like this:
 
 ```c#
 //put code here

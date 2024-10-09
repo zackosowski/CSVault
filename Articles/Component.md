@@ -19,7 +19,7 @@ In [[Unity Game Engine|Unity]], a component is a fundamental building block that
 ----
 #### Creating and Using Components
 
-Components can be created and assigned to Gameobjects through the Unity Editor. Developers can either use pre-existing components or write custom scripts to extend functionality. Custom components allow for specific behaviors tailored to the needs of the game.
+Components can be created and assigned to GameObjects through the Unity Editor. Developers can either use pre-existing components or [[Script#Scripting in Unity|write custom scripts]] to extend functionality. Custom components allow for specific behaviors tailored to the needs of the game.
 
 **Best Practices**
 

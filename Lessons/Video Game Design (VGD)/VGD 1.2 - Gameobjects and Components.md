@@ -4,19 +4,19 @@
 
 - I can create and edit [[GameObject|GameObjects]] using the Scene View, Hierarchy and Inspector windows
 
-- I can add and edit [[Component|Components]] to existing GameObjects.
+- I can add and edit [[Component|components]] to existing GameObjects.
 
 ---
 #### Lesson
 
-1. Create a new Gameobject via the Hierarchy
+1. Create a new GameObject via the Hierarchy
 	1. Right click in an empty spot in the Hierarchy
 	2. Navigate to 2D Object > Sprites > Square
 
-2. Manipulate the values of the Gameobjects components
+2. Manipulate the values of the GameObject's components
 	1. Select the new Square object we just created by clicking on it in the Scene View or Hierarchy
 	2. In the Inspector Window, change the values of the Transform component and watch the changes occur on the Scene View
-	3. Use widgets and handles in the scene view to manually manipulate the Gameobject
+	3. Use widgets and handles in the scene view to manually manipulate the GameObject
 	4. When finished, right click the Transform component header and press "Reset" to change all of the variables back to their default values
 
 3. Add a [[Rigidbody|Rigidbody 2D]] component to the object
