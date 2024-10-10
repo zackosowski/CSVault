@@ -6,7 +6,7 @@
 #### Structure and Learning Model
 Users on Codewars progress through coding challenges called _kata_, which are ranked by difficulty. These challenges are contributed by both the platform and community members, ensuring a wide variety of problems across different domains of programming.
 
-- **Kata Ranks:** The difficulty of kata is measured by a ranking system based on martial arts belts, from 8 kyu (beginner level) to 1 kyu (master level) for easier challenges, and then progressing from 1 dan to 8 dan for the most difficult problems.
+- **Kata Ranks:** The difficulty of kata is measured by a ranking system based on martial arts belts, from 8 *kyu* (beginner level) to 1 *kyu* (master level) for easier challenges, and then progressing from 1 *dan* to 8 *dan* for the most difficult problems.
     
 - **Languages Supported:** Codewars supports a large number of programming languages, including Python, JavaScript, Java, C++, and Ruby, among many others. This allows students to practice in the language of their choice and explore new languages as they grow more confident.
     
