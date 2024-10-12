@@ -3,6 +3,7 @@
 #### Targets
 
 - I can get setup in the [[Unity Hub]] and create a new [[Unity Game Engine]] project.
+
 ---
 #### Lesson
 
@@ -22,3 +23,7 @@
 	- Under "All Templates", select "2D (Built-In Render Pipeline)"
 	- Name the project and then hit "Create Project"
 		- The project creation process can take a little while.
+
+3. Set Visual Studio as the default IDE
+	- Navigate to "File" in the toolbar
+	- Click "Project Preferences"

@@ -7,6 +7,12 @@ Students will put their basic Unity knowledge to the test and create a simple pl
 ---
 #### Lessons
 
+- [[VGD 2.1 - Character Controller]]
+- [[VGD 2.2 - Tilemapping]]
+- [[VGD 2.3 - Obstacles]]
+- [[VGD 2.4 - Collectibles]]
+- [[VGD 2.5 - Moving Platforms]]
+- [[VGD 2.6 - Level Transitions]]
 
 ----
 #### Notable Platformer Games

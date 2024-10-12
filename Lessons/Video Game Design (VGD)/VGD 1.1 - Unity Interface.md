@@ -2,7 +2,7 @@
 
 #### Targets
 
-I can navigate and interact with the Unity's [[GUI]]
+- I can navigate and interact with the Unity's [[GUI]]
 
 ---
 #### Lesson
