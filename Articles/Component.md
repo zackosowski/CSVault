@@ -1,25 +1,25 @@
 #article
 
-In [[Unity Game Engine|Unity]], a component is a fundamental building block that defines the behavior, appearance, and functionality of [[GameObject|GameObjects]]. Unity's component-based architecture allows developers to create complex game elements by combining various components, facilitating modular design and reusability.
+In [[Unity Game Engine|Unity]], a component is a fundamental building block that defines the behavior, appearance, and functionality of [[GameObject|GameObjects]]; they are essentially the life-blood of the engine and all games created with it. Unity's component-based architecture allows developers to create complex game elements by combining various components, facilitating modular design and reusability.
 
 ----
-#### Key Features
+#### Component Types
 
-- **Modularity**: Components can be added, removed, or modified independently, enabling developers to create and customize [[GameObject|GameObjects]] without altering their underlying structure.
+There are a large number of different component types and those that come pre-packaged with the engine, and are essential to create any type of game. They include, but are not limited to:
 
-- **Variety of Types**: Unity provides a wide array of built-in components, including:
-    - **[[Transform]]**: Manages the position, rotation, and scale of a GameObject.
-    - **Renderer**: Controls how a GameObject is visually represented, including 2D and 3D graphics.
-    - **[[Collider]]**: Enables collision detection, allowing objects to interact physically.
-    - **[[Rigidbody]]**: Adds physics properties to GameObjects, allowing for realistic movement and interactions.
-    - **Scripts**: Custom scripts can be attached as components to define specific behaviors or interactions.
-
-- **Inspector Panel**: Developers can configure component properties through the Unity Inspector, allowing for real-time adjustments and visual feedback during development.
+| **Name of Component**                | **Comes with Unity?** | **Usage**                                                                                                                                                                    |
+| ------------------------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Transform]]                        | Yes                   | Component that is essential for all GameObjects. Keeps track of the objects position, rotation and scale.                                                                    |
+| [[Sprite Renderer]]                  | Yes                   | Used to apply [[Sprite\|sprites]] to GameObjects, allowing them to be visible in the Scene and Game Views                                                                    |
+| [[Character Controller]]             | Only 3D controller    | Gives players the ability to take control of a game object, move around and interact with the game world.                                                                    |
+| [[Rigidbody]]                        | Yes                   | Used to simulate physics on the applied GameObject. Used in tandem with [[Collider\|colliders]].                                                                             |
+| [[Collider]]                         | Yes                   | Allows a GameObject with the Rigidbody component to interact with other Rigidbodies.                                                                                         |
+| [[Unity Animation System\|Animator]] | Yes                   | Allows automatic manipulation of a GameObject's component variables through the use of animations. Most often used to animate Sprite Renderers or different parts of a mesh. |
 
 ----
 #### Creating and Using Components
 
-Components can be created and assigned to GameObjects through the Unity Editor. Developers can either use pre-existing components or [[Script#Scripting in Unity|write custom scripts]] to extend functionality. Custom components allow for specific behaviors tailored to the needs of the game.
+Components can be created and assigned to GameObjects through the Unity Editor. Developers can either use pre-existing components or [[Scripting in Unity|write custom scripts]] to extend functionality. Custom components allow for specific behaviors tailored to the needs of the game.
 
 **Best Practices**
 

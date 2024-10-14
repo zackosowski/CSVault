@@ -1,6 +1,8 @@
 [[Activity Template]]
 [[Article Template]]
 [[Assignment Template]]
+[[Component Functions Table]]
+[[Component Properties Table]]
 [[Course Template]]
 [[Important Note Template]]
 [[Lesson Template]]

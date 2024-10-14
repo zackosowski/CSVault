@@ -9,3 +9,4 @@ Students will be introduced to the [[Unity Game Engine]] and the [[C-Sharp|C#]] 
 
 - [[VGD 1.1 - Unity Interface]]
 - [[VGD 1.2 - GameObjects and Components]]
+- [[VGD 1.3 - Intro to Scripting]]

@@ -1,25 +1,30 @@
 #article
 
-The **Sprite Renderer** is a component used primarily for rendering 2D graphics. It allows developers to display 2D images, known as sprites, in their games. This component is essential for creating 2D games and applications, facilitating the representation of characters, backgrounds, and various other visual elements.
+*For more info, see the [Unity Manual](https://docs.unity3d.com/ScriptReference/SpriteRenderer.html) article on this component.*
 
-----
-#### Features
-
-- **Rendering Sprites**: The Sprite Renderer can display individual sprites or sprite sheets, allowing for efficient rendering of animations and complex graphics.
-
-- **Sorting Layers**: Developers can manage the visual hierarchy of sprites through sorting layers and order in layers, enabling control over which sprites appear in front or behind others.
-
-- **Material and Shader Support**: The component supports custom materials and shaders, providing flexibility in visual style and effects.
-
-- **Flip and Color Modifications**: The Sprite Renderer allows for the flipping of sprites along the X and Y axes and includes options to modify the sprite's color and transparency.
-
+The Sprite Renderer [[Component|component]] in [[Unity Game Engine|Unity]] is a rendering component that attaches a [[Sprite|sprite]] to a GameObject, allowing it to be seen in the 2D game view.
 
 ----
 #### Usage
 
-To use the Sprite Renderer, developers typically attach it to a [[GameObject]] in Unity. The component requires a Sprite asset, which can be created from images using Unity’s import settings. Once set up, the Sprite Renderer handles the display of the sprite within the game scene.
+Sprite Renderers are used to display characters, enemies, objects in the game-world, etc. Common operations include changing the sprite (either in [[Scripting in Unity|script]] or via [[Unity Animation System|animators]]), changing the color of the sprite or swapping rendering layers.
 
 ----
-#### Performance Considerations
+#### Useful Properties
 
-While the Sprite Renderer is optimized for 2D rendering, developers should be mindful of performance impacts when using multiple sprites, particularly with high-resolution images or extensive sprite animations. Techniques such as sprite batching can help improve performance by reducing draw calls.
+| **Name**         | **Property Type** | **Is Serialized?** | **Usage**                                                                                                                                                                                        |
+| ---------------- | ----------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sprite           | Sprite            | Yes                | Changes what sprite is currently being displayed by the renderer. Can be changed via script or animator.                                                                                         |
+| Color            | Color             | Yes                | Changes the color of the sprite via a filter on the renderer.                                                                                                                                    |
+| Sorting Order    | Int               | Yes                | Changes the rendering order of the sprite in-layer. Lower number will render the sprite below other sprites in the layer, higher number will render the sprite above other sprites in the layer. |
+| Sorting Layer ID | Int               | Yes                | Changes the rendering order of the sprite out-of-layer. See [[Sprite Renderer#Sorting Layers\|Sorting Layers]] for more info.                                                                    |
+
+
+----
+#### Sorting Layers
+
+Unity sorts sprite rendering layers in a priority order set by the developer through a render queue. As an example, you can have different sorting layers dedicated to the player and enemies, collectibles, environment, visual effects and more. Higher number layers will be rendered over top layers with lower numbers.
+
+----
+#### Related Articles
+

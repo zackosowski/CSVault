@@ -19,6 +19,7 @@ An advanced computer science class that utilizes the [[C-Sharp]] programming lan
 1. [[VGD Unit 1 - Introduction to Unity]]<br>
 	- [[VGD 1.1 - Unity Interface]]
 	- [[VGD 1.2 - GameObjects and Components]]
+	- [[VGD 1.3 - Intro to Scripting]]
 
 2. [[VGD Unit 2 - Platformer Game]]<br>
 	1. [[VGD 2.1 - Character Controller]]
