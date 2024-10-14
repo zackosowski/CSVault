@@ -8,8 +8,8 @@
 #### Lesson
 
 1. Introduce, learn about and work through the [[Unity Interface]] as a class
-	* Scene view
-	* Game view
+	* Scene View
+	* Game View
 	* Hierarchy
 	* Project Panel
 	* Inspector

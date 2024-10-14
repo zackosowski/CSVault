@@ -25,5 +25,5 @@
 		- The project creation process can take a little while.
 
 3. Set Visual Studio as the default IDE
-	- Navigate to "File" in the toolbar
-	- Click "Project Preferences"
+	- Go to Edit > Preferences... > External Tools > External Script Editor
+	- Set it to the latest version of Microsoft Visual Studio

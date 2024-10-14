@@ -9,7 +9,18 @@
 ---
 #### Lesson
 
-- Create a new script in the Project window
-	- Right click
-	- //nav menus
-- 
+1. Create a new script in the Project window
+	- Right click > Create > C# Script
+	- Name this new script "ObjectExploder" and open it
+
+2. Review [[Scripting in Unity]] together as a class
+
+3. Write our "ObjectExploder" script
+	1. Detect when the player clicks on the GameObject
+		- Add the `OnMouseDown()` function
+		- Write a `Debug.Log()` message in the new function
+		- Test the code and note the message in the console
+	2. Remove the GameObject from the scene
+		 Create a new function named `Explode()`
+		 Call `Destroy(gameObject)` in the function
+		 Call `Explode()` in `OnMouseDown()`
