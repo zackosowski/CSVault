@@ -1,6 +1,6 @@
 #article
 
-[Codewars](https://www.codewars.com/) is an online platform designed to help users improve their programming skills through coding challenges, also known as _kata_. It provides a community-driven learning environment where programmers of all skill levels can practice and develop their coding abilities in various languages. Codewars is widely used by beginners and experienced developers alike to enhance problem-solving techniques and to learn new concepts through hands-on experience.
+Codewars is an online platform designed to help users improve their programming skills through coding challenges, also known as _kata_. It provides a community-driven learning environment where programmers of all skill levels can practice and develop their coding abilities in various languages. Codewars is widely used by beginners and experienced developers alike to enhance problem-solving techniques and to learn new concepts through hands-on experience.
 
 ---
 #### Structure and Learning Model
@@ -32,7 +32,7 @@ In Codewars, _honor_ is a key element of the platform's ranking and reward syste
 ---
 #### Setup
 
-Go to [codewars.com](https://www.codewars.com/) and click **Join**.  Click the **Link Your Github Account** to create your account.
+Go to [codewars.com](www.codewars.com/r/0SzAhw) and click **Join**.  Click the **Link Your Github Account** to create your account.
 
 Once logged in, click on your profile in the top-right and go to **Account Settings**. Here, change your clan to **STMA** to join our leaderboard.
 
