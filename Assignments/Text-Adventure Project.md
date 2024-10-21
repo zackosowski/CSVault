@@ -89,6 +89,8 @@ The **Text-Adventure Project** is worth a total of **50 points** and counts as t
    - Each of the 20 required encounters is worth up tp 2 points each:
      - **1 point** if the encounter exists.
      - **1 point** if the encounter works correctly and is free of bugs.
+	     - If the player's choice is invalid, tell them its invalid and restart that encounter.
+	     - Use [[Exception Handling]] to handle areas where players can cause errors with their input. Errors should not be possible.
    - Encounters that do not exist or do not work as expected will earn 0 points for that section.
 
 2. **Code Organization and Structure (5 points)**:
@@ -102,6 +104,12 @@ The **Text-Adventure Project** is worth a total of **50 points** and counts as t
 
 ###### Late Submissions:
 - **Late submissions** will receive a **Two point deduction** for each day late, up to a maximum of 20 points.
+
+---
+#### Examples
+
+[The Oregon Trail (PC Game 1971)](https://www.youtube.com/watch?v=FfbGEP087HM)
+[Zork - The Great Underground Empire (PC Game, 1982)](https://www.youtube.com/watch?v=xzUagi41Wo0)
 
 ---
 #### How to Submit
