@@ -5,13 +5,23 @@ In computer science, a variable is a fundamental concept used to store and manag
 ---
 #### Declaration
 
-To use a variable, you first need to declare it. This means telling the computer what kind of data the variable will hold, such as numbers, text, or more complex data types. For example, in [[Python]], you can declare a variable by simply writing its name and assigning a value to it:
+###### Python
+To use a variable, you first need to declare it. This means telling the computer what kind of data the variable will hold, such as numbers, text, or more complex data types. In [[Python]], you can declare a variable by simply writing its name and assigning a value to it:
 
-   ```python
-   age = 16
-   name = "Alice"
-   ```
+```python
+age = 16
+name = "Alice"
+```
+
 Here, `age` is a variable that stores the number 16, and `name` stores the text "Alice". 
+
+###### [[C-Sharp|C#]]
+In C#, you must declare the variable's [[Data Types|type]], followed by the name and a default value. If no default value is stated, the variable will return `null`.
+
+```c#
+int level = 4;
+string name = "Arthur";
+```
 
 ---
 #### Naming Variables
@@ -35,8 +45,8 @@ student_name = "Alice"
 total_score = 95
 ```
 
-###### JavaScript
-In JavaScript, variable names should follow the [[Naming Conventions#Camel Case|camelCase]] naming convention. The first word is lowercase, and each subsequent word starts with an uppercase letter.
+###### JavaScript & CSharp
+JavaScript and C# follow the [[Naming Conventions#Camel Case|camelCase]] naming convention. The first word is lowercase, and each subsequent word starts with an uppercase letter.
 
 Examples:
 - `studentName` instead of `sn` or `student_name`
@@ -45,6 +55,11 @@ Examples:
 ```javascript
 let studentName = "Alice";
 let totalScore = 95;
+```
+
+```c#
+string studenName = "Arsi";
+float currentGrade = 98.1f;
 ```
 
 ---
@@ -143,3 +158,7 @@ increase_count()
 3. **Access:** Local variables cannot be accessed outside their defining block, whereas global variables can be accessed from any function.
 
 Using global variables can simplify sharing data across multiple functions, but it can also make debugging harder because any function can change the value. Local variables, on the other hand, help keep functions independent and easier to manage.
+
+____
+
+#### Public vs. Private Variables
