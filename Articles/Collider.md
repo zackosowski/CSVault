@@ -27,7 +27,7 @@ Colliders can trigger different methods, depending on their collision:
 ----
 #### Best Practices
 
-- **Use Primitive Colliders When Possible**: Primitive colliders (Box, Sphere, Capsule) are more efficient than Polygon Colliders and should be prioritized for performance.
+- **Use Primitive Colliders When Possible**: Primitive colliders (Box, Circle, Capsule) are more efficient than Polygon Colliders and should be prioritized for performance.
 - **Optimize Polygon Colliders**: If using Polygon Colliders, consider simplifying the shape to reduce computational overhead.
 - **Layer Management**: Utilize collision layers to manage which objects interact, improving performance and reducing unnecessary calculations.
 
