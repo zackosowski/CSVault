@@ -1,6 +1,6 @@
 #article 
 
-*For additional information, see the [Unity Manual](https://docs.unity3d.com/Manual/class-Rigidbody2D.html) page on this topic.*
+*For additional information, see the [Unity Manual](https://docs.unity3d.com/ScriptReference/Rigidbody2D.html) page on this topic.*
 
 In [[Unity Game Engine|Unity]], a Rigidbody is a [[Component|component]] that enables an object to be influenced by physics. By adding a Rigidbody to a [[GameObject]], developers can simulate realistic movements and interactions within a 3D or 2D environment, allowing for behaviors such as gravity, collisions, and other forces.
 
@@ -16,12 +16,6 @@ In [[Unity Game Engine|Unity]], a Rigidbody is a [[Component|component]] that en
 - **Collisions**: Rigidbodies work with colliders to manage interactions with other GameObjects. They detect collisions and triggers, enabling a variety of gameplay mechanics, from simple interactions to complex physics puzzles.
 
 - **Scripting and Control**: Rigidbodies can be manipulated through scripts, allowing developers to apply forces, set velocities, or trigger interactions programmatically. The Rigidbody API provides functions for adding forces, setting constraints, and controlling movement.
-
-----
-#### Types of Rigidbodies
-
-1. **3D Rigidbodies**: Used for three-dimensional game objects. They can rotate and move in three-dimensional space.
-2. **2D Rigidbodies**: Designed for 2D games, these Rigidbodies use a simplified physics model and are optimized for 2D environments.
 
 ----
 #### Best Practices

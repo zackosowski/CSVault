@@ -15,7 +15,7 @@
 
 2. Manipulate the values of the GameObject's components
 	1. Select the new Square object we just created by clicking on it in the Scene View or Hierarchy
-	2. In the Inspector Window, change the values of the Transform component and watch the changes occur on the Scene View
+	2. In the Inspector Window, change the values of the [[Transform]] component and watch the changes occur on the Scene View
 	3. Use widgets and handles in the scene view to manually manipulate the GameObject
 	4. When finished, right click the Transform component header and press "Reset" to change all of the variables back to their default values
 
