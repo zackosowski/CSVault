@@ -97,3 +97,54 @@ print(keys)   # Output: dict_keys(['name', 'country'])
 print(values) # Output: dict_values(['Alice', 'USA'])
 print(items)  # Output: dict_items([('name', 'Alice'), ('country', 'USA')])
 ```
+
+---
+#### Practice Problems
+
+1. **Create a Dictionary**  
+   Write a program that creates a dictionary to store the names of five students and their corresponding grades. After creating the dictionary, print each student's name along with their grade.
+
+   Example output:  
+   ```
+   Alice: A  
+   Bob: B  
+   Charlie: C  
+   David: A  
+   Eve: B  
+   ```
+
+2. **Accessing Values**  
+   Given the following dictionary:  
+   ```python
+   student = {"name": "Alice", "age": 16, "grade": "A"}
+   ```  
+   Write a program that accesses and prints the student's name and age.
+
+3. **Updating Values**  
+   Extend the previous problem by writing a program that updates the student's grade to "A+" and then prints the updated dictionary.
+
+4. **Adding New Key-Value Pairs**  
+   Create a dictionary to store the names of three favorite movies and their release years. Write a program that allows the user to add a new movie and its release year to the dictionary, then print the updated dictionary.
+
+5. **Removing Key-Value Pairs**  
+   Write a program that creates a dictionary of five fruits and their prices. Allow the user to input the name of a fruit to remove it from the dictionary. After removal, print the updated dictionary.
+
+6. **Looping Through a Dictionary**  
+   Given the following dictionary:  
+   ```python
+   inventory = {"apples": 10, "bananas": 5, "oranges": 8}
+   ```  
+   Write a program that loops through the dictionary and prints each fruit along with its quantity in a formatted string.
+
+7. **Counting Occurrences**  
+   Write a program that takes a list of words and counts the occurrences of each word using a dictionary. Print the resulting dictionary with words as keys and their counts as values.
+
+8. **Nested Dictionaries**  
+   Create a dictionary that contains information about three different books, where each book has a title, author, and publication year. Write a program that prints the details of each book.
+
+9. **Dictionary Comprehension**  
+   Use dictionary comprehension to create a dictionary that maps integers from 1 to 10 to their squares. Print the resulting dictionary.
+
+10. **Finding Maximum Value**  
+    Write a program that takes a dictionary of employees with their salaries and finds the employee with the highest salary. Print the name of the employee along with their salary.
+

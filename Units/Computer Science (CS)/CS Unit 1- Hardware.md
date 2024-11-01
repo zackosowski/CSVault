@@ -47,5 +47,4 @@ Students will explore the foundational aspects of how computers work. The journe
 	* **Assignments**
 		- [[PB & J]]<br><br>
 
-[[CS Unit 1 Test]]
 

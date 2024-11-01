@@ -1,3 +1,5 @@
+#article 
+
 In programming, a script is a type of program that is typically written in a scripting language and is designed to automate tasks or execute a sequence of instructions. Scripts are often interpreted rather than compiled, meaning they can be run directly by an interpreter without the need for a separate compilation step.
 
 Key characteristics of scripts include:

@@ -124,4 +124,7 @@ while i <= 3:
 
 This example demonstrates a nested loop where the inner loop runs fully every time the outer loop iterates once.
 
+---
+#### Practice Activity
 
+**Guess the Number**: Generate a random number between 1 and 100 then use a while loop to allow the user to guess the number. Provide feedback on whether the guess is too high, too low, or correct. The loop should continue until the user guesses the correct number.

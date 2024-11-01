@@ -18,12 +18,5 @@ I can create a python list functions to modify lists
 	* max()
 	* min()
 	* len()
-5. Students complete the activity below
-
-<span style="color: #7b6cd9; border: 2px solid #7b6cd9; padding: 3px">ACTIVITY</span>
-
-Create a list of the user's top three favorite movies using input.
-* Create an empty list
-* Ask for each of their favorite movies
-* Append each movie to the list
+5. Students complete the practice activity in the article
 

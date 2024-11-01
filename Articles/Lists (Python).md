@@ -101,3 +101,22 @@ List comprehensions provide a concise way to create lists by generating and proc
 # List comprehension to create a list of squares of numbers
 squares = [x**2 for x in range(10)]  # Output: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
+
+---
+#### Practice Activity
+
+Write a Python program that performs the following tasks:
+
+1. **Create a List**: Create a list of at least five of your favorite fruits.
+    
+2. **Access Elements**: Print the first and last fruit from the list using indexing.
+    
+3. **Add an Item**: Ask the user to enter another fruit and add it to the end of the list. Print the updated list.
+    
+4. **Remove an Item**: Remove a fruit from the list by asking the user which fruit to remove, then print the updated list.
+    
+5. **Sort the List**: Sort the list alphabetically and print the sorted list.
+    
+6. **Count Occurrences**: Create a list with some fruits that contain duplicates (e.g., `["apple", "banana", "apple", "orange", "banana"]`). Count how many times "apple" appears in the list and print the result.
+    
+7. **Iterate Through the List**: Use a loop to print each fruit in the list on a new line.
