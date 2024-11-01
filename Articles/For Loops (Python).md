@@ -105,13 +105,13 @@ for i in range(5):
 ```
 
 ---
-#### Practice Activity
+#### Practice Problems
 
 Write a Python program that performs the following tasks using for loops:
 
 1. **Print a Countdown**: Create a countdown from 10 to 1 using a for loop. Print each number on a new line.
     
-2. **Sum of a List**: Given a list of numbers (e.g., `numbers = [1, 2, 3, 4, 5]`), use a for loop to calculate the sum of the numbers in the list and print the result.
+2. **Sum of a List**: Create a list of 10 integers, use a for loop to calculate the sum of the numbers in the list and print the result.
     
 3. **Square Each Number**: Create a list of integers from 1 to 5. Use a for loop to create a new list that contains the squares of these numbers. Print the new list.
     
