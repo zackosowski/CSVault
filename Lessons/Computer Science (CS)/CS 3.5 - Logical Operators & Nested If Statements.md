@@ -18,4 +18,3 @@ I can apply nested if statements in a simple coding activity.
 	* Can we do this without asking the second question if the first is wrong?
 3. Amazon Prime with nested if statements
 4. Introduce [[Text-Adventure Project]]
-5. 

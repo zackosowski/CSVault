@@ -35,10 +35,12 @@ An introduction to computer science using a [[Programming Language]] called [[Py
 	* [[CS 3.3 - Elif Statements]]
 	* [[CS 3.5 - Logical Operators & Nested If Statements]]<br><br>
 	
-1. [[CS Unit 4- Loops and Collections]]
-2. [[CS Unit 5- Algorithms and File IO]]
-3. [[CS Unit 6- Classes & Objects]]
-4. [[CS Unit 7- Libraries]]
+4. [[CS Unit 4- Loops and Collections]]
+	* [[CS 4.1 - Lists]]
+	* 
+1. [[CS Unit 5- Algorithms and File IO]]
+2. [[CS Unit 6- Classes & Objects]]
+3. [[CS Unit 7- Libraries]]
 
 ---
 #### Grading

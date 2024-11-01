@@ -32,7 +32,7 @@ Python supports various [[Data#Data Types|data types]], including:
 - **[[Float|Floats]]**: Decimal numbers, e.g., `3.14`, `0.001`.
 - **[[String|Strings]]**: Text, e.g., `"Hello"`, `"Python"`.
 - **[[Lists (Python)|Lists]]**: Ordered collections, e.g., `[1, 2, 3, 4]`.
-- **[[Dictionary|Dictionaries]]**: Key-value pairs, e.g., `{"name": "Alice", "age": 25}`.
+- **[[Dictionary (Python)|Dictionaries]]**: Key-value pairs, e.g., `{"name": "Alice", "age": 25}`.
 
 ---
 #### Control Structures

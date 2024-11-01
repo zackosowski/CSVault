@@ -1,3 +1,5 @@
+#article
+
 The `random` module in Python is a powerful tool for generating random numbers and performing random operations, which are crucial in a variety of applications like games, simulations, security, and data sampling. This module provides functions to generate random integers, floats, and even to shuffle data or select random elements from a list.
 
 ---

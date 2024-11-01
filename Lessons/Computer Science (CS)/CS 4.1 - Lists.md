@@ -8,7 +8,7 @@ I can create a python list functions to modify lists
 ---
 #### Lesson
 
-1. Use [[Python Lists]] to support
+1. Use [[Lists (Python)]] to support
 2. Demonstrate how to create a new list
 3. Demonstrate how to access elements from a list
 4. Demonstrate how to use these list functions
