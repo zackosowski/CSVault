@@ -14,7 +14,8 @@ You can define a function in C-Sharp by declaring the `returnType`, followed by 
 A basic C# will look something like this:
 
 ```c#
-void PrintGreeting(){
+void PrintGreeting()
+{
 	Console.WriteLine($"Hello, world.");
 }
 ```

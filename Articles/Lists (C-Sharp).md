@@ -2,7 +2,7 @@
 
 *[[Computer Science (CS)]] students may be looking for [[Lists (Python)]].*
 
-In [[C-Sharp]], a List is a part of the `System.Collections.Generic` namespace and is implemented as the `List<T>` class. It is a dynamic collection that can store any form of data or class, determined by the programmer by defining `<T>`
+In [[C-Sharp]], a List is a dynamic collection of variables that can store any form of data or class, determined by the programmer by declaring `List<T>`, where `<T>` is the [[Data Types|Data Type]] stored.
 
 C# Lists are a powerful and flexible data structure that provide dynamic sizing, type safety, and a rich set of methods for managing collections. They are commonly used in scenarios where the number of elements may change during runtime, making them more versatile than arrays.
 

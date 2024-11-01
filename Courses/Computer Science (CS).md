@@ -33,9 +33,9 @@ An introduction to computer science using a [[Programming Language]] called [[Py
 	* [[CS 3.1 - Boolean Expressions & Operators]]
 	* [[CS 3.2 - If & Else Statements]]
 	* [[CS 3.3 - Elif Statements]]
-	* [[CS 3.5 - Nested If Statements]]<br><br>
+	* [[CS 3.6 - Nested If Statements]]<br><br>
 	
-1. [[CS Unit 4- Loops]]
+1. [[CS Unit 4- Loops and Collections]]
 2. [[CS Unit 5- Algorithms and File IO]]
 3. [[CS Unit 6- Classes & Objects]]
 4. [[CS Unit 7- Libraries]]

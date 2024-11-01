@@ -32,3 +32,4 @@ except:
 
 
 There's also a third optional block called `finally`. The `finally` block always executes after the `try` block finishes, regardless of whether an error occurred. This is useful for code that needs to run every time, such as closing a file or releasing resources.
+

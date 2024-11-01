@@ -1,9 +1,0 @@
-#lesson 
-
-#### Targets
-
----
-#### Lesson
-
----
-#### Assignments
