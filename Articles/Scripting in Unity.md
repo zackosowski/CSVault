@@ -77,3 +77,10 @@ void PrintFruits()
 //banana
 //cherry
 ```
+
+----
+#### Related Articles
+[[Data Types]]
+[[Variables]]
+[[Lists (C-Sharp)]]
+[[Functions (C-Sharp)]]
