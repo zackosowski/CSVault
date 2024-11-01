@@ -8,6 +8,4 @@ Importing is a key concept used to include code from one module or [[Libraries|l
 Importing means bringing in functionalities from one file or module into another. For example, if you have a [[Python]] program and you want to use [[Functions (Python)]] that are not built into the [[Programming Language|language]], you can import these from libraries.
 
 ---
-#### Languages
-
-[[Python Importing]]
+#### Lang[[Importing (Python)]]porting]]

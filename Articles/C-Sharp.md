@@ -19,7 +19,7 @@ C# supports many of the same [[data types]] as [[Python]], such as:
 C# also supports some data types exclusive to the language, such as:
 - Arrays: Fixed-size data structures, e.g., `"apple"`, `"banana"`, `"cherry"`.
 - [[Lists (C-Sharp)|Lists]]: Dynamic, more flexible data structures
-- [[Class|Classes]]: Custom data structures, with properties and methods, e.g., `class Person { public string Name; public int Age; }`.
+- [[Class (C-Sharp)|Classes]]: Custom data structures, with properties and methods, e.g., `class Person { public string Name; public int Age; }`.
 ----
 #### Control Structures
 
