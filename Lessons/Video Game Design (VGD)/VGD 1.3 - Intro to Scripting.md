@@ -11,7 +11,7 @@
 
 1. Create a new script in the Project window
 	- Right click > Create > C# Script
-	- Name this new script "ObjectExploder" and open it
+	- Name this new script `ObjectExploder` and open it
 
 2. Review [[Scripting in Unity]] together as a class
 
@@ -25,4 +25,6 @@
 		 - Create a new function named `Explode()`
 		 - Call `Destroy(gameObject)` in the function
 		 - Call `Explode()` in `OnMouseDown()`
-		 - 
+		 - Test the new code
+	3. Add a force to surrounding objects
+		1. 

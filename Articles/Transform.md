@@ -7,7 +7,7 @@ The Transform [[Component|component]] in [[Unity Game Engine|Unity]] is a fundam
 ----
 #### Usage
 
-Transform components can be manipulated through the Unity Editor or via scripts using C#. Common operations include moving, rotating, and scaling objects in response to user input or game events. The Transform component of a GameObject can be accessed anytime by [[Script|scripts]] by using the ``transform`` keyword.
+Transform components can be manipulated through the Unity Editor or via scripts using C#. Common operations include moving, rotating, and scaling objects in response to user input or game events. Since it is an inherited component attached to all GameObjects, the Transform component can be accessed anytime by [[Scripting in Unity|scripts]] by using the ``transform`` keyword.
 
 ----
 #### Useful Properties
@@ -35,8 +35,3 @@ Transform components can be manipulated through the Unity Editor or via scripts 
 #### Hierarchy and Parent-Child Relationships
 
 A GameObject can be the parent or child of another GameObject. When an object is "childed", it mimics changes made to the parent GameObject's transform. For example, moving the parent 3.5 units on the X axis will also move the child 3.5 units on the X axis.
-
-----
-#### Usage
-
-Transform components can be manipulated through the Unity Editor or via scripts using C#. Common operations include moving, rotating, and scaling objects in response to user input or game events. Since it is an inherited component attached to all GameObjects, the Transform component can be accessed anytime by [[Scripting in Unity|scripts]] by using the ``transform`` keyword.
