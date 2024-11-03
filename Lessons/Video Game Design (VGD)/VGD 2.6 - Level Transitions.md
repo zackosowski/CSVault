@@ -2,6 +2,8 @@
 
 #### Targets
 
+- I can use [[Scene Management]] to move the player between different levels
+
 ---
 #### Lesson
 
