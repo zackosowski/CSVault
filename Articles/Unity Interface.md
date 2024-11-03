@@ -3,7 +3,9 @@
 The **Unity Editor Interface** is the primary workspace used for creating and managing projects in the [[Unity Game Engine]]. Familiarity with the Unity interface is key to effectively designing and developing video games. This guide covers the essential components of the Unity Editor to help students navigate, use, and identify its main panels.
 
 ---
-#### Main Components
+#### Main Windows
+
+![[UnityInterface.png]]
 
 1. **[[Scene View]]**  
    The **Scene View** is where developers can visually manipulate objects in the game world. It displays a 3D or 2D representation of the game's environment and allows for placing, scaling, rotating, and organizing game objects. Students can use the toolbar above the Scene View to switch between 2D and 3D modes, move the camera, or toggle lighting and other effects.

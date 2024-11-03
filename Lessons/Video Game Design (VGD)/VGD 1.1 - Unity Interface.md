@@ -8,10 +8,12 @@
 #### Lesson
 
 1. Introduce, learn about and work through the [[Unity Interface]] as a class
-	* [[Scene View]]
-	* [[Game View]]
-	* [[Hierarchy]]
-	* [[Project Panel]]
-	* [[Inspector]]
-	* [[Console]]
-	* [[Toolbar]]
+	1. [[Scene View]]
+	2. [[Game View]]
+	3. [[Hierarchy]]
+	4. [[Project Panel]]
+	5. [[Inspector]]
+	6. [[Console]]
+	7. [[Toolbar]]
+
+![[UnityInterface.png]]

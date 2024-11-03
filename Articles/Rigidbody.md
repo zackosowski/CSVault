@@ -4,6 +4,8 @@
 
 A Rigidbody2D [[component]] in [[Unity Game Engine|Unity]] is essential for adding physics behavior to 2D [[GameObject|GameObjects]]. It enables objects to react to forces and collisions in a realistic manner, making it a fundamental component for many 2D games. By adding Rigidbody2D to a GameObject, you can control its physical properties, such as mass, gravity, and drag, and determine how it interacts with other objects in the game world.
 
+![[Rigidbody2Ddefault.png]]
+
 ---
 #### Rigidbody2D Variables
 
