@@ -8,7 +8,7 @@ In this project, you’ll implement and compare several sorting algorithms to so
 Write Python functions to implement the following sorting algorithms. Each function should:
 1. Take an unsorted list of integers as a parameter.
 2. Return the sorted list of integers.
-3. Print the number of steps it took to sort
+3. Print the number of steps it took to sort.
 
 Each algorithm should be implemented using `for` loops and any required helper functions. 
 
