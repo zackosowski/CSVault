@@ -24,11 +24,11 @@ Each algorithm should be implemented using `for` loops and any required helper f
 
 ##### 2. [[Sorting Algorithms#Quick Sort|Quick Sort]]
 - Choose a "pivot" element, then use `for` loops to partition the list so that elements smaller than the pivot are on one side and elements greater than the pivot are on the other.
-- Recursively apply the same steps to the left and right sides of the pivot until the list is sorted.
-- Track and print the number of steps needed for sorting, particularly in the partitioning and recursive calls.
+- Apply the same steps to the left and right sides of the pivot until the list is sorted.
+- Track and print the number of steps needed for sorting
 
-##### 3. [[Sorting Algorithms#Merge Sort|Merge Sort]]
-- Write a recursive function to split the list into halves until each half has one element.
+##### 3. [[Sorting Algorithms#Merge Sort|Merge Sort]] (Bonus)
+- Write a function to split the list into halves until each half has one element.
 - Use `for` loops to merge the split lists back together in sorted order.
 - Track and print the number of steps required for merging and splitting.
 
