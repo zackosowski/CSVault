@@ -20,7 +20,7 @@ An algorithm is a set of instructions designed to solve a specific problem or pe
 ---
 #### Types of Algorithms
 
-- **Sorting Algorithms**: [[Sorting Algorithms]] arrange a list of items in a specific order, such as alphabetical or numerical order. Examples include bubble sort, merge sort, and quicksort.
+- **Sorting Algorithms**: [[ComputerScience/Articles/Sorting Algorithms]] arrange a list of items in a specific order, such as alphabetical or numerical order. Examples include bubble sort, merge sort, and quicksort.
 
 - **Searching Algorithms**: Searching algorithms look for a particular item in a collection of data. Common searching algorithms include linear search and binary search.
 

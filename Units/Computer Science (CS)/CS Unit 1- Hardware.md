@@ -42,7 +42,7 @@ Students will explore the foundational aspects of how computers work. The journe
 * [[CS 1.6 - Algorithms]]
 	* **Articles**
 		- [[Algorithms]]
-		- [[Sorting Algorithms]]
+		- [[ComputerScience/Articles/Sorting Algorithms]]
 		- [[Pseudocode]]
 	* **Assignments**
 		- [[PB & J]]<br><br>
